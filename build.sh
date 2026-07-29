@@ -40,7 +40,7 @@ python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
 # Donor raster files are not referenced after relabeling. Keep the original
 # layout assets, scripts, and fonts while preventing stray donor thumbnails
 # from entering the repository or deployment.
-find "$PROJ/public/assets-f/img" -type f -delete 2>/dev/null || true
+find "$PROJ/public/assets-f/img" "$PROJ/public/assets-f/misc" -type f -delete 2>/dev/null || true
 
 find "$PROJ/public" -type f \( -name '*.html' -o -name '*.html.ref' -o -name '*.css' \) -print0 \
   | xargs -0 perl -pi -e 's/\t/  /g; s/[ \t]+\r?\n/\n/g; s/\r\n/\n/g'
