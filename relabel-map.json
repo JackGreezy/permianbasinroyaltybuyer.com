@@ -1,0 +1,652 @@
+{
+  "notes": "Faithful Mortenson relabel for the Midland royalty run sheet. The donor header, five-slide hero, black editorial split, carousel rails, tile teasers, About image compositions, office-card index, project-detail shell, contact composition, and footer geometry remain the visual system.",
+  "refhost": "mortenson-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "chrome": {
+    "header": {
+      "selector": "header.header",
+      "tag": "header",
+      "transparent_classes": [
+        "cmp-header--background-transparent"
+      ],
+      "strip_global": [
+        "body > img",
+        "img[width=\"1\"]",
+        "img[height=\"1\"]",
+        "iframe[src*=\"googletagmanager\"]",
+        "iframe[src=\"about:blank\"]",
+        ".grecaptcha-badge"
+      ],
+      "strip": [
+        ".cmp-header__search-mobile",
+        ".cmp-header__search",
+        ".cmp-main-navigation__container",
+        ".cmp-header__logo img",
+        ".cmp-header__anchorToHamburgerBtn"
+      ],
+      "logo_slots": [
+        ".cmp-header__logo"
+      ],
+      "footer_logo_slot": ".cmp-footer__logo-link",
+      "nav_link_selector": ".cmp-main-navigation__item--level-0 > .cmp-main-navigation__item-link",
+      "ensure_nav": true,
+      "nav_append_slot": ".cmp-main-navigation__group",
+      "nav_append_class": "cmp-main-navigation__item-link",
+      "mobile_menu_slot": ".cmp-header__mobile-menu",
+      "burger_selector": "button.hamburger-wrapper",
+      "burger_slot": ".cmp-header__navbar",
+      "repair_css": "header.header{background:#fff!important}header.header .cmp-header__logo{min-width:220px!important}header.header .cmp-main-navigation__item--level-0{position:static!important}header.header .cmp-main-navigation__item-link{font-size:14px!important;font-weight:700!important;letter-spacing:.01em!important}header.header .cmp-header__mobile-menu{display:none!important}@media(max-width:980px){header.header .cmp-header__mobile-menu{display:none!important}}"
+    },
+    "footer": {
+      "selector": "footer.footer",
+      "tag": "footer",
+      "strip": [
+        ".cmp-footer__communication",
+        ".cmp-footer__mortenson-image",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "iframe",
+        "script",
+        "noscript"
+      ],
+      "link_map": {
+        "about us": ["About", "/about"],
+        "locations": ["Service Areas", "/locations"],
+        "projects": ["Owner Resources", "/resources"],
+        "careers": ["Selling Situations", "/situations"],
+        "headquarters": ["Interest Types", "/interest-types"],
+        "contact": ["Contact", "/contact"],
+        "privacy policy": ["Privacy Policy", "/privacy"],
+        "code of ethics": ["Terms", "/terms"]
+      },
+      "drop_link_pattern": "infocentre|linkedin|facebook|instagram|youtube|twitter|x\\.com",
+      "text_map": {
+        "© 2026 M. A. Mortenson Company. All rights reserved.": "© 2026 Permian Basin Royalty Buyer. All rights reserved."
+      },
+      "ensure_ia": true,
+      "repair_css": "footer.footer{display:block!important;background:#050505!important;color:#fff!important}footer.footer .cmp-footer{display:block!important;min-height:0!important;background:#050505!important}footer.footer .cmp-footer__bg-img{display:block!important;background:none!important;padding:56px clamp(22px,5vw,74px)!important}footer.footer .cmp-footer__column-container{display:grid!important;grid-template-columns:minmax(220px,1fr) minmax(0,2fr)!important;gap:40px!important;align-items:start!important}footer.footer .cmp-footer__nav .cmp-navigation__group{display:flex!important;flex-wrap:wrap!important;gap:14px 28px!important;margin:0!important;padding:0!important;list-style:none!important}footer.footer a{color:#fff!important;text-decoration:none!important}footer.footer .rr-footer-ia{display:flex!important;grid-column:1/-1!important;border-top:1px solid rgba(255,255,255,.24)!important;padding-top:28px!important}footer.footer img,footer.footer picture,footer.footer svg,footer.footer video,footer.footer source,footer.footer canvas,footer.footer iframe{display:none!important}@media(max-width:760px){footer.footer .cmp-footer__column-container{grid-template-columns:1fr!important}footer.footer .rr-footer-ia{grid-column:auto!important}}"
+    }
+  },
+  "buttons": {
+    "class": "cmp-button"
+  },
+  "forms": {
+    "form_class": "cmp-section cmp-section--site-width-824 cmp-section--padding32",
+    "input_class": "cmp-text",
+    "group_class": "text aem-GridColumn aem-GridColumn--default--12"
+  },
+  "purge": {
+    "brand": [
+      "Mortenson",
+      "M\\. A\\. Mortenson",
+      "mortenson\\.com",
+      "Redefine Possible"
+    ],
+    "content": [
+      "Fiserv Forum",
+      "Milwaukee Bucks",
+      "Las Vegas Athletics Ballpark",
+      "Moraine Sands Wind",
+      "St\\. Anthony North Hospital",
+      "Cleo Parker Robinson",
+      "UW Health Eastpark",
+      "Cornell College",
+      "Builder\\. Innovator\\. Partner",
+      "Building for the Greater Good",
+      "What will you build",
+      "construction cost index",
+      "team members",
+      "regional offices",
+      "2025 revenue"
+    ],
+    "strip_selectors": [
+      "body > img",
+      "img[width=\"1\"]",
+      "img[height=\"1\"]",
+      "iframe[src*=\"googletagmanager\"]",
+      "iframe[src=\"about:blank\"]",
+      ".grecaptcha-badge",
+      "main svg"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "adobedtm",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "youtube",
+      "gtag"
+    ],
+    "social_pattern": "facebook\\.com|instagram\\.com|linkedin\\.com|twitter\\.com|x\\.com|youtube\\.com"
+  },
+  "scripts": "strip",
+  "pages": {
+    "home": {
+      "signature": [
+        ".cmp-carousel__overlay-text",
+        ".cmp-project-showcase",
+        ".cmp-related-projects",
+        ".cmp-teaser--type-variation",
+        ".cmp-related-articles"
+      ],
+      "sections": [
+        {
+          "selector": ".cmp-carousel__overlay-text",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope > p", "copy": "home_eyebrow"},
+            {"sel": ":scope > h1", "copy": "home_title"}
+          ]
+        },
+        {
+          "selector": ".carousel > .cmp-carousel",
+          "type": "agency",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-carousel__slides", "attrs": {"style": ""}},
+            {"sel": ".cmp-carousel__item", "attrs": {"style": ""}}
+          ]
+        },
+        {
+          "selector": ".carousel > .cmp-carousel .cmp-hero-banner",
+          "action": "hero-all",
+          "fields": {
+            "heading": ".cmp-button__text:not(.eyebrow-label)",
+            "eyebrow": ".eyebrow-label",
+            "image": "img"
+          },
+          "media_slides": ".carousel > .cmp-carousel .cmp-hero-banner",
+          "media_images": [
+            "/ours/pages/mineral-rights-pages-home-permianbasinroyaltybuyer-com.jpg",
+            "/ours/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg",
+            "/ours/basins/mineral-rights-basins-delaware-basin-permianbasinroyaltybuyer-com.jpg",
+            "/ours/pages/mineral-rights-pages-how-it-works-permianbasinroyaltybuyer-com.jpg",
+            "/ours/pages/mineral-rights-pages-get-an-offer-permianbasinroyaltybuyer-com.jpg"
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--background-color-black",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-project-showcase__title", "copy": "home_intro_title_1"},
+            {"sel": ".cmp-project-showcase__subtitle", "copy": "home_intro_title_2"},
+            {"sel": ".cmp-project-showcase__description", "copy": "home_intro"},
+            {"sel": ".cmp-button__text", "text": "ABOUT THE ROYALTY RUN SHEET"},
+            {"sel": ".cmp-button", "href": "/about"},
+            {"sel": "img", "nth": 0, "img": "/ours/pages/mineral-rights-pages-about-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": "img", "nth": 1, "img": "/ours/pages/mineral-rights-pages-how-it-works-permianbasinroyaltybuyer-com.jpg"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .related-projects",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 6,
+          "heading": "#related-projects-heading",
+          "subheading": ".cmp-related-projects__description",
+          "subheading_text": "Different sale decisions require different records, timing, authority, title work, retained interests, and closing terms.",
+          "card": ".article-teaser",
+          "card_fields": {
+            "title": ".article-teaser__project-description",
+            "image": ".article-teaser__image"
+          },
+          "kill_in_card": [".cmp-image"],
+          "view_all": ["All Selling Situations", "/situations"],
+          "view_all_selector": ".cmp-related-projects__description-container .cmp-button"
+        },
+        {
+          "action": "clone-band",
+          "clone_of": "[data-rr-band='situations']",
+          "insert_after": "[data-rr-band='situations']",
+          "inner": "card-grid",
+          "source": "interest-types",
+          "limit": 6,
+          "heading": "#related-projects-heading",
+          "subheading": ".cmp-related-projects__description",
+          "subheading_text": "The recorded rights, depths, products, burdens, costs, and payment position control what a buyer can acquire.",
+          "card": ".article-teaser",
+          "card_fields": {
+            "title": ".article-teaser__project-description",
+            "image": ".article-teaser__image"
+          },
+          "kill_in_card": [".cmp-image"],
+          "view_all": ["All Interest Types", "/interest-types"],
+          "view_all_selector": ".cmp-related-projects__description-container .cmp-button"
+        },
+        {
+          "action": "clone-band",
+          "clone_of": "[data-rr-band='interest-types']",
+          "insert_after": "[data-rr-band='interest-types']",
+          "inner": "card-grid",
+          "source": "exchange-1031",
+          "limit": 6,
+          "heading": "#related-projects-heading",
+          "subheading": ".cmp-related-projects__description",
+          "subheading_text": "Potential exchange planning starts before closing, with qualified intermediary and tax-adviser review.",
+          "card": ".article-teaser",
+          "card_fields": {
+            "title": ".article-teaser__project-description",
+            "image": ".article-teaser__image"
+          },
+          "kill_in_card": [".cmp-image"],
+          "view_all": ["All 1031 Exchange Guides", "/exchange-1031"],
+          "view_all_selector": ".cmp-related-projects__description-container .cmp-button"
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--section-quote-image",
+          "action": "drop",
+          "reason": "customer testimonial cannot be truthfully repurposed"
+        },
+        {
+          "selector": "main > .aem-Grid > .teaser.cmp-teaser--type-variation",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "basins"}},
+            {"sel": ".cmp-teaser__title", "copy": "home_basins_title"},
+            {"sel": ".cmp-teaser__description", "copy": "home_basins_body"},
+            {"sel": ".cmp-teaser__image img", "img": "/ours/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-button__text", "text": "COMPARE THE PERMIAN BASINS"},
+            {"sel": ".cmp-button", "href": "/basins"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--section-teaser",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "locations"}},
+            {"sel": ".cmp-teaser__eyebrowText", "text": "COUNTY AND TRACT FIRST"},
+            {"sel": ".cmp-teaser__title", "copy": "home_locations_title"},
+            {"sel": ".cmp-teaser__description", "copy": "home_locations_body"},
+            {"sel": ".cmp-teaser__image img", "img": "/ours/locations/sell-mineral-rights-midland-tx.jpg"},
+            {"sel": ".cmp-button__text", "text": "EXPLORE SERVICE AREAS"},
+            {"sel": ".cmp-button", "href": "/locations"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .related-articles",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 6,
+          "heading": ".cmp-related-articles__title",
+          "card": ".article-teaser",
+          "card_fields": {
+            "title": ".article-teaser__title",
+            "sub": ".article-teaser__description",
+            "category": ".article-teaser__category",
+            "more": ".article-teaser__action-link",
+            "image": ".article-teaser__image"
+          },
+          "kill_in_card": [".cmp-image"],
+          "view_all": ["All Owner Resources", "/resources"],
+          "view_all_selector": ".cmp-related-articles__title-container .cmp-button"
+        },
+        {
+          "action": "clone-band",
+          "clone_of": "[data-rr-band='resources']",
+          "insert_after": "[data-rr-band='resources']",
+          "inner": "card-grid",
+          "source": "investing",
+          "limit": 6,
+          "heading": ".cmp-related-articles__title",
+          "card": ".article-teaser",
+          "card_fields": {
+            "title": ".article-teaser__title",
+            "sub": ".article-teaser__description",
+            "category": ".article-teaser__category",
+            "more": ".article-teaser__action-link",
+            "image": ".article-teaser__image"
+          },
+          "kill_in_card": [".cmp-image"],
+          "view_all": ["All Mineral Investing Guides", "/investing"],
+          "view_all_selector": ".cmp-related-articles__title-container .cmp-button"
+        },
+        {
+          "selector": "main > .aem-Grid > .embedhtml",
+          "action": "drop",
+          "reason": "empty donor analytics embed"
+        }
+      ],
+      "carousels": [
+        {
+          "selector": ".carousel > .cmp-carousel",
+          "slides": ".cmp-carousel__item",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 1
+        },
+        {
+          "selector": "[data-rr-band='situations'] .cmp-related-projects",
+          "type": "agency",
+          "slides": ".teaser.swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 3
+        },
+        {
+          "selector": "[data-rr-band='interest-types'] .cmp-related-projects",
+          "type": "agency",
+          "slides": ".teaser.swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 3
+        },
+        {
+          "selector": "[data-rr-band='exchange-1031'] .cmp-related-projects",
+          "type": "agency",
+          "slides": ".teaser.swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 3
+        },
+        {
+          "selector": "[data-rr-band='resources'] .cmp-related-articles",
+          "type": "agency",
+          "slides": ".teaser.swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 3
+        },
+        {
+          "selector": "[data-rr-band='investing'] .cmp-related-articles",
+          "type": "agency",
+          "slides": ".teaser.swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 3
+        }
+      ],
+      "repair_css": "main > .aem-Grid > .carousel{overflow:hidden!important}main > .aem-Grid > .carousel .cmp-carousel__slides{display:flex!important;grid-template-columns:none!important;width:100%!important;max-width:100%!important;margin:0!important;transform:translate3d(0,0,0)!important;transition:transform .35s ease!important}main > .aem-Grid > .carousel .cmp-carousel__item{display:block!important;flex:0 0 100%!important;width:100%!important;max-width:100%!important;min-width:0!important}main > .aem-Grid > .carousel .cmp-carousel-slide,main > .aem-Grid > .carousel .cmp-carousel-slide__content,main > .aem-Grid > .carousel .aem-Grid{width:100%!important;max-width:100%!important}main [data-rr-band] .swiper-wrapper{display:flex!important;grid-template-columns:none!important;gap:0!important;width:max-content!important;max-width:none!important;margin:0!important;transform:translate3d(0,0,0);transition:transform .35s ease!important}main [data-rr-band] .swiper-slide{display:block!important;flex:0 0 min(31vw,390px)!important;width:min(31vw,390px)!important;max-width:390px!important;visibility:visible!important;opacity:1!important}main [data-rr-band] .article-teaser__image img{display:block!important;width:100%!important;height:300px!important;object-fit:cover!important}main [data-rr-band='basins'] .cmp-teaser__image img,main [data-rr-band='locations'] .cmp-teaser__image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}@media(max-width:900px){main [data-rr-band] .swiper-slide{flex-basis:82vw!important;width:82vw!important}main [data-rr-band] .article-teaser__image img{height:250px!important}}"
+    },
+    "about": {
+      "signature": [
+        ".cmp-hero-banner--height-large",
+        ".cmp-teaser-multi-image--type-split",
+        ".cmp-teaser--type-tile-right",
+        ".cmp-section--background-color-slate"
+      ],
+      "sections": [
+        {
+          "selector": "main > .aem-Grid > .hero-banner",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "about_title"},
+            {"sel": ".cmp-text p", "copy": "about_intro"},
+            {"sel": "img", "img": "/ours/pages/mineral-rights-pages-about-permianbasinroyaltybuyer-com.jpg"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--site-width-824",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-text h2", "copy": "about_intro_title"},
+            {"sel": ".cmp-text p", "copy": "about_intro"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .grid-container",
+          "action": "drop",
+          "reason": "leadership testimonial and fabricated corporate history"
+        },
+        {
+          "selector": "main > .aem-Grid > .spacer",
+          "nth": 0,
+          "action": "drop",
+          "reason": "orphan spacer after testimonial removal"
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--background-color-primary",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-text p", "copy": "about_market_body"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--background-color-black",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-teaser-multi-image__mobile-wrapper", "drop": true, "optional": true},
+            {"sel": ".cmp-teaser-multi-image__title", "copy": "about_discipline_title"},
+            {"sel": ".cmp-teaser-multi-image__description", "copy": "about_discipline_body"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1", "bg": "/ours/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2", "bg": "/ours/interest-types/mineral-rights-interest-types-royalty-interests-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3", "bg": "/ours/resources/mineral-rights-resources-royalty-statements-guide-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-button__text", "text": "REQUEST A ROYALTY REVIEW", "optional": true},
+            {"sel": ".cmp-button", "href": "/contact", "optional": true}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .spacer.cmp-spacer--xlarge",
+          "action": "drop",
+          "reason": "orphan spacer after donor section cleanup"
+        },
+        {
+          "selector": "main > .aem-Grid > .teaser.cmp-teaser--type-tile-right",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-teaser__title", "copy": "about_team_title"},
+            {"sel": ".cmp-teaser__description", "copy": "about_team_body"},
+            {"sel": ".cmp-teaser__image img", "img": "/ours/pages/mineral-rights-pages-how-it-works-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-button__text", "text": "START THE REVIEW"},
+            {"sel": ".cmp-button", "href": "/contact"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .teaser-multi-image.cmp-teaser-multi-image--type-card",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-teaser-multi-image__mobile-wrapper", "drop": true, "optional": true},
+            {"sel": ".cmp-teaser-multi-image__eyebrowText", "text": "WHY THE RUN SHEET EXISTS"},
+            {"sel": ".cmp-teaser-multi-image__title", "copy": "about_reason_title"},
+            {"sel": ".cmp-teaser-multi-image__description", "copy": "about_reason_body"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1", "bg": "/ours/pages/mineral-rights-pages-get-an-offer-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2", "bg": "/ours/situations/mineral-rights-situations-inherited-mineral-rights-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3", "bg": "/ours/resources/mineral-rights-resources-division-orders-explained-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-button__text", "text": "COMPARE WRITTEN TERMS"},
+            {"sel": ".cmp-button", "href": "/resources"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .spacer",
+          "action": "drop",
+          "reason": "remaining orphan spacer"
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--background-color-slate",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-teaser-multi-image__mobile-wrapper", "drop": true, "optional": true},
+            {"sel": ".cmp-teaser-multi-image__eyebrowText", "text": "BUYER ROLE AND LIMITS"},
+            {"sel": ".cmp-teaser-multi-image__title", "copy": "about_scope_title"},
+            {"sel": ".cmp-teaser-multi-image__description", "copy": "about_scope_body"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1", "bg": "/ours/basins/mineral-rights-basins-delaware-basin-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2", "bg": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3", "bg": "/ours/resources/mineral-rights-resources-mineral-rights-value-guide-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-button__text", "text": "READ OWNER RESOURCES"},
+            {"sel": ".cmp-button", "href": "/resources"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.aem-GridColumn:not([class*='cmp-section--'])",
+          "action": "drop",
+          "reason": "donor recruiting video and career CTA have no honest business analogue"
+        }
+      ],
+      "semantic_title_selector": "main > .aem-Grid > .hero-banner h1",
+      "repair_css": "main .cmp-teaser-multi-image__wrapper-image1,main .cmp-teaser-multi-image__wrapper-image2,main .cmp-teaser-multi-image__wrapper-image3{background-position:center!important;background-size:cover!important}main .cmp-teaser__image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}"
+    },
+    "contact": {
+      "signature": [
+        ".cmp-section--background-color-primary",
+        ".cmp-grid-container--3col",
+        ".cmp-section--background-color-slate"
+      ],
+      "strip": [],
+      "sections": [
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--background-color-primary",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope > .cmp-section .cmp-text h1", "copy": "contact_title"},
+            {"sel": ".grid-container .section .cmp-text h4", "nth": 0, "copy": "contact_step_one_title"},
+            {"sel": ".grid-container .section .cmp-text p", "nth": 0, "copy": "contact_step_one_body"},
+            {"sel": ".grid-container .section .cmp-button__text", "nth": 0, "text": "RECONCILE THE INTEREST"},
+            {"sel": ".grid-container .section .cmp-button", "nth": 0, "href": "/interest-types"},
+            {"sel": ".grid-container .section .cmp-text h4", "nth": 1, "copy": "contact_step_two_title"},
+            {"sel": ".grid-container .section .cmp-text p", "nth": 1, "copy": "contact_step_two_body"},
+            {"sel": ".grid-container .section .cmp-button__text", "nth": 1, "text": "READ OWNER RESOURCES"},
+            {"sel": ".grid-container .section .cmp-button", "nth": 1, "href": "/resources"},
+            {"sel": ".grid-container .section .cmp-text h4", "nth": 2, "copy": "contact_step_three_title"},
+            {"sel": ".grid-container .section .cmp-text p", "nth": 2, "copy": "contact_step_three_body"},
+            {"sel": ".grid-container .section .cmp-button__text", "nth": 2, "text": "COMPARE SALE SITUATIONS"},
+            {"sel": ".grid-container .section .cmp-button", "nth": 2, "href": "/situations"}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--site-width-1248",
+          "action": "relabel",
+          "ops": [
+            {"sel": ".cmp-text h3", "copy": "contact_form_title"},
+            {"sel": ".cmp-text p", "copy": "contact_form_body"},
+            {"sel": ".grid-container", "drop": true}
+          ]
+        },
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--background-color-slate",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-map-band": "true"}},
+            {
+              "sel": ".cmp-section__container",
+              "html": "<iframe title=\"Midland map\" src=\"https://www.google.com/maps?q=24%20Smith%20Rd%2C%20Midland%2C%20TX%2079705&output=embed\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe>"
+            }
+          ]
+        }
+      ],
+      "form_slot": "main > .aem-Grid > .section.cmp-section--site-width-1248 > .cmp-section > .cmp-section__container",
+      "semantic_title_selector": "main > .aem-Grid > .section.cmp-section--background-color-primary h1",
+      "submit_label": "Request a Royalty Review",
+      "repair_css": "main>.aem-Grid>.section.cmp-section--background-color-primary:first-child{padding-top:96px!important}main form[action='/api/contact']{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important;max-width:900px!important;margin:36px auto 62px!important;padding:0 24px!important}main form[action='/api/contact'] .text{display:flex!important;flex-direction:column!important}main form[action='/api/contact'] input,main form[action='/api/contact'] textarea{display:block!important;width:100%!important;box-sizing:border-box!important;border:1px solid #b8c2c7!important;background:#fff!important;color:#111!important;padding:15px 16px!important;font:inherit!important}main form[action='/api/contact'] textarea{min-height:170px!important}main form[action='/api/contact'] .text:has(textarea),main form[action='/api/contact'] button{grid-column:1/-1!important}main form[action='/api/contact'] button{justify-self:start!important;border:0!important;padding:15px 24px!important;background:#111!important;color:#fff!important;font-weight:800!important;cursor:pointer!important}[data-rr-map-band]{padding:0!important}[data-rr-map-band] .cmp-section__container{display:block!important;max-width:none!important;padding:0!important}@media(max-width:980px){main>.aem-Grid>.section.cmp-section--background-color-primary:first-child{padding-top:52px!important}}@media(max-width:760px){main form[action='/api/contact']{grid-template-columns:1fr!important}main form[action='/api/contact'] .text:has(textarea),main form[action='/api/contact'] button{grid-column:auto!important}}"
+    },
+    "index": {
+      "signature": [
+        ".cmp-hero-banner--height-medium",
+        ".cmp-teaser--type-card",
+        ".cmp-grid-container--4col"
+      ],
+      "hero_heading": "main > .aem-Grid > .hero-banner h1",
+      "hero_meta": "main > .aem-Grid > .hero-banner .cmp-hero-banner__text h5",
+      "hero_image": "main > .aem-Grid > .hero-banner img",
+      "semantic_title_selector": "main > .aem-Grid > .hero-banner h1",
+      "intro": {
+        "selector": "main > .aem-Grid > .section.cmp-section--site-width-1248.cmp-section--padding32",
+        "heading": ".cmp-text h2"
+      },
+      "strip": [
+        "main > .aem-Grid > .hero-banner .stat",
+        "main > .aem-Grid > .section.cmp-section--site-width-1248.cmp-section--remove-bottom-padding",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding",
+        "main > .aem-Grid > .section.cmp-section--background-color-slate.cmp-section--padding32"
+      ],
+      "grid": "main > .aem-Grid > .section.cmp-section--background-color-slate .cmp-grid-container__items > .aem-Grid",
+      "card": ".teaser.cmp-teaser--type-card",
+      "card_fields": {
+        "title": ".cmp-teaser__title",
+        "sub": ".cmp-teaser__description p",
+        "more": ".cmp-button__text",
+        "image": ".cmp-teaser__image"
+      },
+      "kill_in_card": [".cmp-image"],
+      "repair_css": "main .cmp-grid-container__items > .aem-Grid{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:28px!important}main .cmp-teaser--type-card{display:block!important;width:auto!important;margin:0!important}main .cmp-teaser--type-card .cmp-teaser{height:100%!important}main .cmp-teaser--type-card img{display:block!important;width:100%!important;height:245px!important;object-fit:cover!important}@media(max-width:980px){main .cmp-grid-container__items > .aem-Grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){main .cmp-grid-container__items > .aem-Grid{grid-template-columns:1fr!important}}"
+    },
+    "slug": {
+      "signature": [
+        ".cmp-hero-banner--height-large",
+        ".cmp-carousel",
+        ".cmp-related-projects"
+      ],
+      "title": "main > .aem-Grid > .hero-banner h1",
+      "semantic_title_selector": "main > .aem-Grid > .hero-banner h1",
+      "hero_image": "main > .aem-Grid > .hero-banner img",
+      "hero_meta": "main > .aem-Grid > .hero-banner .cmp-hero-banner__text p",
+      "hero_meta_format": "Owner run sheet | {tax_title}",
+      "prose": "main > .aem-Grid > .section.cmp-section--site-width-1248.cmp-section--padding32",
+      "prose_block": "main > .aem-Grid > .section.cmp-section--site-width-1248.cmp-section--padding32 .text.aem-GridColumn",
+      "prose_block_heading": "h2,h3",
+      "prose_block_body": ".cmp-text",
+      "body_images": [
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(1) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(2) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(3) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(4) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(5) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(6) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(7) img"
+      ],
+      "strip": [
+        "main > .aem-Grid > .hero-banner h5",
+        "main > .aem-Grid > .section.cmp-section--site-width-1248.cmp-section--padding32 .section.cmp-section--site-width-1248",
+        "main > .aem-Grid > .section.cmp-section--site-width-1248.cmp-section--padding32 .text.cmp-text--padding-32",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-quote",
+        "main > .aem-Grid > .project-awards",
+        "main > .aem-Grid > .experiencefragment:has(.cmp-related-articles)",
+        "main > .aem-Grid > .team-group",
+        "main > .aem-Grid > .resource-group"
+      ],
+      "skip_related_in_prose": true,
+      "after_sections": [
+        {
+          "selector": "main > .aem-Grid > .experiencefragment:has(.cmp-related-projects)",
+          "action": "card-grid",
+          "source": "$tax",
+          "limit": 6,
+          "heading": "#related-projects-heading",
+          "card": ".article-teaser",
+          "card_fields": {
+            "title": ".article-teaser__project-description",
+            "image": ".article-teaser__image"
+          },
+          "kill_in_card": [".cmp-image"]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel",
+          "type": "agency",
+          "slides": ".cmp-carousel__item",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 1
+        },
+        {
+          "selector": "main > .aem-Grid > .experiencefragment:has(.cmp-related-projects) .cmp-related-projects",
+          "type": "agency",
+          "slides": ".teaser.swiper-slide",
+          "track": ".swiper-wrapper",
+          "prev": ".swiper-button-prev",
+          "next": ".swiper-button-next",
+          "visible": 3
+        }
+      ],
+      "repair_css": "main [data-rr-prose='detail']{padding-top:34px!important;padding-bottom:34px!important}main [data-rr-prose='detail'] .text{display:block!important;max-width:900px!important;margin:0 auto 34px!important;padding:0 24px!important}main [data-rr-prose='detail'] .cmp-text{font-size:17px!important;line-height:1.68!important}main [data-rr-prose='detail'] h2{margin:0 0 16px!important}main .cmp-carousel__item img{display:block!important;width:100%!important;min-height:480px!important;object-fit:cover!important}main .experiencefragment:has(.cmp-related-projects) .swiper-wrapper{display:flex!important;grid-template-columns:none!important;gap:0!important;width:max-content!important;max-width:none!important;margin:0!important}main .experiencefragment:has(.cmp-related-projects) .swiper-slide{display:block!important;flex:0 0 min(31vw,390px)!important;width:min(31vw,390px)!important;visibility:visible!important;opacity:1!important}main .experiencefragment:has(.cmp-related-projects) img{display:block!important;width:100%!important;height:290px!important;object-fit:cover!important}@media(max-width:900px){main .experiencefragment:has(.cmp-related-projects) .swiper-slide{flex-basis:82vw!important;width:82vw!important}main .cmp-carousel__item img{min-height:300px!important}}"
+    },
+    "legal_template": "about"
+  }
+}

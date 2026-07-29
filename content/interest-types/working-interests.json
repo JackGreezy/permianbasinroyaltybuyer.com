@@ -1,0 +1,74 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Working Interests in the Permian Basin Explained",
+ "metaDescription": "Hold a non-operated working interest in a Permian Basin well? An ex-operator explains the cost obligations and what these interests are worth to sell.",
+ "heroLead": "A working interest pays more per barrel than royalty, but it also bills you back for every dollar of drilling and operating cost, and that second part surprises people who only hear about the first.",
+ "intro": [
+  "A working interest is fundamentally different from mineral or royalty ownership. It's an operating interest, meaning the holder bears a proportionate share of drilling, completion, and ongoing operating costs, in exchange for a proportionate share of production revenue before royalty is deducted, which is a larger gross share than royalty pays but comes with real financial obligation attached.",
+  "I spent years on the operating side of this exact structure before I moved to buying interests, and I still see working interest owners, particularly non-operators who bought into a well years ago through a partnership or a direct assignment, who didn't fully grasp the cost side until their first joint interest billing statement arrived. I've also seen working interest owners who inherited a small non-operated position from a relative who was involved in putting a well together decades ago, and who had no idea the position came with ongoing cost exposure until the first billing statement arrived in their mailbox."
+ ],
+ "sections": [
+  {
+   "heading": "The cost side most people underestimate",
+   "paragraphs": [
+    "As a non-operated working interest owner, you're billed your proportionate share of everything, drilling costs, completion costs, and ongoing lease operating expenses, through monthly joint interest billing statements from the operator, separate from the revenue check you receive from production sales. In a strong month those can net out favorably. In a month with a workover, a recompletion, or unexpected repair costs, the bill can exceed the revenue, meaning you write a check instead of receiving one.",
+    "This is the single biggest reason working interests get sold. Owners who inherited a small working interest position, or who invested in a well years ago and are now facing an aging asset with rising maintenance costs, often decide the ongoing financial exposure isn't worth the position anymore.",
+    "Some non-operated working interest owners also carry authority for expenditure decisions above a certain dollar threshold, meaning the operator needs their consent before major expenses like a workover or recompletion. If your interest includes that kind of provision, it's worth understanding, since it means you have some real say rather than only a bill."
+   ]
+  },
+  {
+   "heading": "Why non-op working interests are harder to value",
+   "paragraphs": [
+    "Valuing a working interest requires netting projected future revenue against projected future costs, including plugging and abandonment liability at the end of the well's life, which royalty interests never carry. That plugging liability in particular is something a lot of working interest owners forget about until it's actually due, and it can be a meaningful cost on an older well nearing the end of its productive life.",
+    "Because of this, a working interest sale conversation goes deeper than a royalty conversation, reviewing joint interest billing history alongside revenue statements to understand the real net position rather than only the gross production numbers."
+   ]
+  },
+  {
+   "heading": "Selling out of a working interest cleanly",
+   "paragraphs": [
+    "For owners who want out of the ongoing cost exposure and administrative burden of joint interest billing, selling the working interest transfers both the revenue stream and the cost obligation, including any plugging liability, to the buyer, closing out your exposure entirely rather than just reducing it.",
+    "I evaluate working interests by reviewing both sides of your statements, revenue and joint interest billing, over a meaningful period, and I'll tell you plainly whether the position looks like a net positive worth holding or a liability worth exiting."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to pay drilling costs as a working interest owner?",
+   "answer": "Yes, working interest owners bear a proportionate share of drilling, completion, and operating costs, billed through joint interest billing statements separate from revenue checks."
+  },
+  {
+   "question": "What happens if my well needs a costly workover?",
+   "answer": "You'll be billed your proportionate share of that cost as a non-operated working interest owner, which can exceed your revenue for that period depending on the size of the work."
+  },
+  {
+   "question": "Am I responsible for plugging costs on a working interest?",
+   "answer": "Yes, working interest owners generally share in plugging and abandonment liability at the end of a well's productive life, a cost royalty owners never bear."
+  },
+  {
+   "question": "Why would I sell a working interest instead of just keeping the income?",
+   "answer": "Many owners sell to eliminate ongoing cost exposure and administrative burden, particularly on aging wells where maintenance costs are rising relative to production."
+  },
+  {
+   "question": "How is a working interest valued compared to a royalty interest?",
+   "answer": "Working interest valuation nets projected revenue against projected costs and future liabilities, which makes it a more involved evaluation than a straightforward royalty interest."
+  },
+  {
+   "question": "What is an authority for expenditure and does it apply to my working interest?",
+   "answer": "An authority for expenditure, or AFE, is the operator's request for co-owner approval before major spending. Whether you have consent rights depends on your specific joint operating agreement."
+  },
+  {
+   "question": "Is a working interest riskier to hold than a royalty interest?",
+   "answer": "Generally yes, because working interest owners bear cost exposure and liability that royalty owners never face, which is part of why working interests require closer ongoing attention."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

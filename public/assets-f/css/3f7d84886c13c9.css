@@ -1,0 +1,131 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * urw-din:
+ *   - http://typekit.com/eulas/00000000000000007735a839
+ *   - http://typekit.com/eulas/00000000000000007735a83d
+ *   - http://typekit.com/eulas/00000000000000007735a840
+ *   - http://typekit.com/eulas/00000000000000007735a843
+ *   - http://typekit.com/eulas/00000000000000007735a846
+ *   - http://typekit.com/eulas/00000000000000007735a849
+ * urw-din-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735a83b
+ *   - http://typekit.com/eulas/00000000000000007735a83e
+ *   - http://typekit.com/eulas/00000000000000007735a841
+ *   - http://typekit.com/eulas/00000000000000007735a844
+ *   - http://typekit.com/eulas/00000000000000007735a847
+ *   - http://typekit.com/eulas/00000000000000007735a84a
+ * urw-din-semi-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735a83c
+ *   - http://typekit.com/eulas/00000000000000007735a83f
+ *   - http://typekit.com/eulas/00000000000000007735a84e
+ *   - http://typekit.com/eulas/00000000000000007735a852
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-10-22 16:28:26 UTC"}*/
+
+@import url("/assets-f/css/29749a582a13a6.css");
+
+@font-face {
+font-family:"urw-din";
+
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din";
+src:url("/assets-f/fonts/93bf3f0a0f7ec8.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din";
+
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din";
+src:url("/assets-f/fonts/5dd2d86c3946c4.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din";
+
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din";
+src:url("/assets-f/fonts/0be26918a91487.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-condensed";
+
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-condensed";
+src:url("/assets-f/fonts/3d5b331380aafa.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-condensed";
+src:url("/assets-f/fonts/78e5289bf66049.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-condensed";
+
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-condensed";
+src:url("/assets-f/fonts/4383b77ed37a4e.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-condensed";
+
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-semi-condensed";
+src:url("/assets-f/fonts/0f2338fec6a11c.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-semi-condensed";
+
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-semi-condensed";
+src:url("/assets-f/fonts/b638cef886702e.woff2") format("woff2"),;
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"urw-din-semi-condensed";
+
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+.tk-urw-din { font-family: "urw-din",sans-serif; }
+.tk-urw-din-condensed { font-family: "urw-din-condensed",sans-serif; }
+.tk-urw-din-semi-condensed { font-family: "urw-din-semi-condensed",sans-serif; }

@@ -1,0 +1,75 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use — Permian Basin Royalty Buyer",
+ "metaDescription": "The terms governing use of this site and the offers we provide — what this site is, what it isn't, and the ground rules for requesting an offer.",
+ "heroLead": "Read this before you request an offer or rely on anything published here — it explains what this site is, what it isn't, and the ground rules both sides operate under.",
+ "intro": [
+  "These terms govern your use of this website and any interaction you have with us through it, including requesting information, submitting documentation, or receiving a written offer. By using this site, you agree to the terms described here.",
+  "This site is operated as an information resource and a direct mineral and royalty purchasing service for owners in the Permian Basin. It is not a substitute for professional legal, tax, or appraisal advice, and nothing on this site should be read as such."
+ ],
+ "sections": [
+  {
+   "heading": "What This Site Is And Isn't",
+   "paragraphs": [
+    "We are a direct buyer of mineral and royalty interests. We are not a licensed appraiser, a real estate broker, an attorney, or a CPA, and the educational content published here — including guides on valuation, division orders, title, and taxes — is provided for general informational purposes only. It reflects our understanding of common practices in the Permian mineral and royalty market and is not a substitute for advice from a licensed professional familiar with your specific situation.",
+    "Any figures, ranges, or methodologies described on this site are illustrative and general. They do not constitute a guarantee of value, a formal appraisal, or a binding offer on any specific interest. A binding offer is made only in writing, specific to your interest, after we've reviewed your documentation."
+   ]
+  },
+  {
+   "heading": "Offers Are Non-Binding Until A Written Agreement Is Signed",
+   "paragraphs": [
+    "Any preliminary offer, estimate, or valuation range we provide is non-binding and subject to change based on title review, verification of production data, and confirmation of the interest's actual legal status. No sale is final, and no obligation exists on either side, until both parties have signed a definitive purchase agreement and the transaction has closed in accordance with its terms.",
+    "We reserve the right to adjust or withdraw a preliminary offer if title review, updated production data, or other information reveals facts materially different from what was initially provided or understood."
+   ]
+  },
+  {
+   "heading": "Your Responsibilities When Submitting Information",
+   "paragraphs": [
+    "By submitting documentation, statements, or information about your interest, you represent that the information is accurate and that you have the legal right to share it and to enter into discussions about a potential sale of the interest described. Knowingly providing false or materially misleading information about ownership, production, or title may result in withdrawal of any offer and, where applicable, other consequences under law.",
+    "You're responsible for your own decision to sell, and we encourage you to seek independent legal, tax, or valuation advice before entering into any binding agreement, particularly for larger or more complex interests."
+   ]
+  },
+  {
+   "heading": "Limitation Of Liability And Site Use",
+   "paragraphs": [
+    "The content on this site is provided as-is, without warranty of any kind, express or implied. To the fullest extent permitted by law, we are not liable for any decision made in reliance on general educational content published here, including decisions about whether to lease, sell, or retain a mineral or royalty interest. This limitation does not apply to the specific terms of a signed purchase agreement, which are governed by that agreement's own provisions.",
+    "You agree to use this site lawfully and not to misrepresent your identity or ownership interest in any communication with us. We may decline to proceed with any inquiry or offer at our discretion, including where title, ownership, or documentation cannot be adequately verified."
+   ]
+  },
+  {
+   "heading": "Governing Law And Changes To These Terms",
+   "paragraphs": [
+    "These terms are governed by the laws of the State of Texas, without regard to conflict-of-law principles, given the location of the majority of the acreage and transactions this site addresses. Any dispute arising from use of this site or a transaction conducted through it will be handled under those laws unless a signed purchase agreement specifies otherwise.",
+    "We may update these terms from time to time, with the effective date reflected on this page. Continued use of the site after an update constitutes acceptance of the revised terms. If you have questions about any provision here, reach out through our contact page before proceeding with a transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a preliminary offer I receive legally binding?",
+   "answer": "No. A preliminary offer or estimate is non-binding and subject to change based on title review and verification of the underlying information. A transaction becomes binding only once both parties sign a definitive purchase agreement."
+  },
+  {
+   "question": "Is the content on this site legal, tax, or appraisal advice?",
+   "answer": "No. It's general educational information about common practices in the Permian mineral and royalty market. We're not a licensed appraiser, attorney, or CPA, and you should consult a qualified professional for advice specific to your situation."
+  },
+  {
+   "question": "What happens if information I provide turns out to be inaccurate?",
+   "answer": "We rely on the accuracy of documentation and information you provide. If title review or further research reveals facts materially different from what was represented, we reserve the right to adjust or withdraw a preliminary offer."
+  },
+  {
+   "question": "What law governs a transaction or dispute related to this site?",
+   "answer": "These terms are governed by Texas law. A specific signed purchase agreement may include its own governing law provisions, which would control for that transaction."
+  }
+ ],
+ "wordCount": 900,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

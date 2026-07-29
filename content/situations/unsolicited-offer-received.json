@@ -1,0 +1,75 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "status": "written",
+ "metaTitle": "Got an Unsolicited Permian Mineral Offer? Read This First",
+ "metaDescription": "Received a mailbox offer for your Permian Basin mineral or royalty rights? An ex-operator explains how to benchmark it before you sign anything.",
+ "heroLead": "A letter offering to buy your minerals showed up out of nowhere, and the number on it might be fair, low, or somewhere in between, and there's no way to know without checking it against something.",
+ "intro": [
+  "If you own Permian Basin minerals or royalty, you've probably gotten one of these letters, sometimes several a year from different companies, each offering a specific dollar figure to buy your interest, often with some urgency baked into the language. I've seen these letters from the buyer's side of the business, and I can tell you plainly: some are fair offers, some are lowball numbers hoping you don't check, and there's no way to tell which is which just by reading the letter itself.",
+  "You're under no obligation to respond quickly, or at all, and the single best thing you can do before signing anything is get a second read on what the offer actually represents against your interest's real production. I've reviewed plenty of these letters for owners who called me confused about the terms, and more than once the number turned out to be reasonable, which is exactly why a second opinion is worth getting either way rather than assuming the worst about every offer that shows up unsolicited."
+ ],
+ "sections": [
+  {
+   "heading": "Why the same interest gets wildly different offers",
+   "paragraphs": [
+    "Mailbox offers are often generated from public records and general county-level data, without the buyer having pulled your actual recent statements. That means the number can be based on assumptions about your specific well's decline rate, working interest, and net revenue interest that may not match reality at all, sometimes overestimating, sometimes underestimating what your interest is really producing.",
+    "A buyer working off your actual statements, rather than county-average assumptions, is going to land on a more accurate number, which is exactly why it's worth sharing your recent statements with more than one potential buyer before deciding anything.",
+    "Some letters are actually lease offers rather than purchase offers, seeking to lease your minerals rather than buy them outright, which is a completely different transaction with different implications for your long-term ownership. Read the letter carefully to understand which one you're actually looking at before responding."
+   ]
+  },
+  {
+   "heading": "Red flags worth watching for",
+   "paragraphs": [
+    "Be cautious of language pushing you to sign and return quickly, deadlines that expire in days rather than weeks, or an offer that arrives with a check already attached that becomes binding once cashed. None of these tactics are illegal, but they're designed to get you to act before you've compared the offer against anything else.",
+    "Also worth checking: does the letter clearly state whether they're offering to buy the mineral rights outright or just lease them, and whether the number quoted is per net mineral acre or some other basis. Vague language here is a sign to slow down, not speed up."
+   ]
+  },
+  {
+   "heading": "How to actually benchmark an offer",
+   "paragraphs": [
+    "Pull your recent statements, and if you can, the well name and API number off them. Share those with a second buyer, whether that's me or someone else, and ask for a straight comparison against the number you already received. You're not obligated to accept either offer, and getting a second opinion costs you nothing but a little time.",
+    "If the second number comes back close to the original offer, that's useful confirmation the first one was fair. If it comes back meaningfully higher, you've just saved yourself real money by not signing the first thing that showed up in the mail."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Should I sign the offer letter I got in the mail?",
+   "answer": "Not before comparing it against a second opinion. There's no downside to getting a benchmark quote before you decide, and reputable buyers won't pressure you to skip that step."
+  },
+  {
+   "question": "Why do mailbox offers vary so much between companies?",
+   "answer": "Many are generated from general public data rather than your actual current statements, which means the underlying assumptions about decline and interest size can differ significantly between buyers."
+  },
+  {
+   "question": "Is it legal to send unsolicited mineral rights purchase offers?",
+   "answer": "Yes, this is a common and legal practice in the industry. The offer itself being unsolicited doesn't say anything about whether the number is fair."
+  },
+  {
+   "question": "What information should I share to get a comparison offer?",
+   "answer": "Recent check stubs or division order statements, and the well name or lease name if you have it. That's usually enough for a real comparison."
+  },
+  {
+   "question": "Can I negotiate a mailbox offer instead of just accepting or rejecting it?",
+   "answer": "Yes, an initial offer is a starting point, not a final number. Sharing your actual production history with the sender can lead to a revised offer either way."
+  },
+  {
+   "question": "What's the difference between a purchase offer and a lease offer in the mail?",
+   "answer": "A purchase offer buys your mineral or royalty rights outright. A lease offer only grants drilling rights for a term while you retain ownership and future royalty. Read the letter closely to see which is being proposed."
+  },
+  {
+   "question": "Is it safe to give my Social Security number to respond to a mailbox offer?",
+   "answer": "Be cautious. Legitimate closings will eventually need identifying information for title and payment purposes, but that's typically handled later in the process, not upfront just to get a quote."
+  }
+ ],
+ "wordCount": 891,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

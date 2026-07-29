@@ -1,0 +1,68 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained for Permian Owners",
+ "metaDescription": "What a division order actually is, why the operator sends one, and what to check before you sign — from an engineer who used to run the well side of it.",
+ "heroLead": "Somewhere in a stack of mail you probably weren't expecting sits a document titled 'Division Order,' asking for your signature — and it's the single most misunderstood piece of paper in this business.",
+ "intro": [
+  "On the operator side, the division order department is a separate function from drilling and production, and it exists for one reason: to confirm, well by well, exactly who gets paid what before the first check goes out. I worked alongside those analysts for years watching them chase title opinions and heirship affidavits, and I can tell you most owners sign the form without reading it, then call six months later confused about why their percentage looks different from what they expected.",
+  "A division order is not a lease, and it doesn't transfer ownership. It's a payment instruction. But the decimal interest printed on it is exactly what determines your check size, so it deserves a careful read before it goes back in the mail."
+ ],
+ "sections": [
+  {
+   "heading": "What The Document Is Actually For",
+   "paragraphs": [
+    "Once a well is completed and ready to sell production, the operator needs a title opinion — usually from an attorney — establishing who owns what percentage of the minerals under that specific spacing unit. The division order translates that legal opinion into a decimal interest for each owner and asks you to confirm it's correct before payments begin. It also typically sets out payment terms: how often you're paid, the minimum check amount before funds accumulate, and how disputes get handled.",
+    "Signing it doesn't change your underlying ownership — your deed and your lease still control that. What it does is authorize the operator to pay you according to the decimal stated, so an error here shows up directly in your check."
+   ]
+  },
+  {
+   "heading": "The Decimal Interest Is The Whole Ballgame",
+   "paragraphs": [
+    "Everything else on the form is administrative. The decimal interest is the number that matters. It's derived from your net mineral acres in the spacing unit, divided by total unit acreage, multiplied by your royalty fraction from the lease. If you know your net mineral acres and the unit size, you can check this math yourself before signing. If the decimal looks wrong or you're not sure how it was calculated, call the division order analyst listed on the form and ask them to show their work — that's a normal, routine call for them, not a confrontation.",
+    "Once you sign and the decimal is locked in, correcting an error later usually means going back through the same title-review process, which can take months. Catching it before you sign saves that delay entirely."
+   ]
+  },
+  {
+   "heading": "What Happens If You Don't Sign",
+   "paragraphs": [
+    "Owners sometimes worry that not signing means losing their interest. It doesn't — but it does typically mean the operator holds your share in suspense rather than paying it out, since they're required to have a signed acknowledgment or a clear title basis before disbursing funds to a new or contested owner. If you inherited your interest and haven't been through probate, or if there's a name discrepancy between your ID and the deed, that's usually the actual holdup, not the division order itself.",
+    "If your check has stopped or never started and you never received a division order, that's worth a call to the operator's owner relations line — new interests sometimes fall through the cracks after a well changes hands between operators."
+   ]
+  },
+  {
+   "heading": "When A New Division Order Shows Up On A Well You've Owned For Years",
+   "paragraphs": [
+    "Operators sometimes reissue division orders after a unit is re-drawn to add a new well, after a title dispute is resolved, or after the property changes hands to a new operator. A revised decimal isn't automatically bad news — units get redrawn as more wells are permitted into a section, and your interest can go up or down depending on how the new unit is configured relative to your original tract. Read the new decimal against the old one and ask what changed before assuming either direction.",
+    "This is also a natural point to pull your full statement history and confirm the transition didn't create a gap in payments during the changeover."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does signing a division order transfer or change my ownership?",
+   "answer": "No. It confirms a decimal interest for payment purposes based on a title opinion; your deed and lease still control actual ownership. Think of it as a payment authorization, not a conveyance."
+  },
+  {
+   "question": "What happens to my royalty if I never sign the division order?",
+   "answer": "The operator typically holds your share in suspense rather than paying it out, since they need a signed confirmation or clear title basis before disbursing to you. It's recoverable once you sign or the title issue behind it is resolved."
+  },
+  {
+   "question": "How do I check whether the decimal interest on my division order is correct?",
+   "answer": "Divide your net mineral acres by the total spacing unit acreage, then multiply by your royalty fraction from the lease. If your result doesn't match what's printed, call the division order analyst listed on the form and ask them to walk through their calculation."
+  },
+  {
+   "question": "Why did I get a new division order for a well I've been paid on for years?",
+   "answer": "Usually because the spacing unit was redrawn to add a new well, a title issue was resolved, or the well changed operators. The revised decimal can move up or down depending on the new unit configuration — worth asking what specifically changed."
+  }
+ ],
+ "wordCount": 931,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

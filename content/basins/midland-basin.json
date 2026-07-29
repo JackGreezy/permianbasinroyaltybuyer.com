@@ -1,0 +1,80 @@
+{
+ "slug": "midland-basin",
+ "title": "Midland Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX",
+ "primaryKeyword": "midland basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Midland Basin Mineral Rights Buyer | Royalty Owners",
+ "metaDescription": "Midland, Martin, Howard or Glasscock County mineral or royalty owner? An ex-E&P engineer explains stacked-pay development and what it means for your check.",
+ "heroLead": "Midland Basin production has a longer track record than most of the Permian, and that history is exactly what a buyer reads before ever mentioning a number.",
+ "intro": [
+  "The Midland side of the Permian has been drilled harder and longer than the Delaware, and the counties at its core, Midland, Martin, Howard, Glasscock and parts of Reagan and Upton, have gone through vertical development, early horizontal Wolfberry wells, and now dense, multi-bench Wolfcamp and Spraberry development in the same sections. That layered history shows up in royalty statements as a mix of legacy production and newer high-rate wells sitting on the same lease.",
+  "I've operated in this basin and I've bought minerals in it, and the question I ask an owner first is whether their check reflects one well or a full pattern of wells drilled over multiple years. That distinction matters more here than almost anywhere else in the play, because it's the difference between a position near the end of its life and one still being actively developed around. I also want to know the API numbers involved if you have them, since two wells on the same lease can be at very different points in their own decline even when they were drilled around the same time."
+ ],
+ "sections": [
+  {
+   "heading": "Downspacing changed what checks look like",
+   "paragraphs": [
+    "In the mid-2010s, operators in the Midland Basin moved from wide-spaced vertical wells to tightly spaced horizontal development, often four, six, or more wells per section targeting different Wolfcamp and Spraberry benches. For a mineral owner, that meant a single royalty check tied to one legacy well could suddenly become several checks as infill wells came online.",
+    "It also means production interference is a real thing operators manage and owners should expect. A new well drilled close to an older one can temporarily pull rate from the existing well as pressure equalizes between them. That shows up as a dip in an otherwise stable older well's check, and it's worth understanding rather than assuming something's gone wrong with the interest.",
+    "Wolfberry-era vertical wells drilled in the 2000s behave differently again, typically low-rate but very long-lived, and a lot of Midland Basin owners hold a mix of a legacy vertical well's royalty alongside newer horizontal wells on the same section, which means one statement can show two very different production personalities on the same page."
+   ]
+  },
+  {
+   "heading": "Core versus flank in Midland Basin terms",
+   "paragraphs": [
+    "Martin and Midland counties, along with the northern part of Howard County, sit in what most operators consider the core of current Wolfcamp development, with dense drilling programs and multiple active operators running rigs. Move toward Glasscock's southern edge, or into Upton and Reagan, and you're closer to flank acreage where completions are thinner and less predictable.",
+    "That doesn't mean flank minerals are worth ignoring. Some of the steadiest, longest-producing legacy wells in this basin sit outside the current core, on leases that were drilled decades ago and have settled into a long, low-decline tail that a core-area buyer might actually undervalue if they only look at recent permit activity."
+   ]
+  },
+  {
+   "heading": "Reading your own decline before you talk to anyone",
+   "paragraphs": [
+    "Pull your last two years of statements and look at the trend rather than only the most recent month. A Midland Basin well that's five or more years old and still throwing off a relatively flat check is behaving like a mature, de-risked asset, and that stability is worth something even without new drilling nearby.",
+    "If you see gaps, operator changes, or a sudden jump followed by a drop, that's usually a new well coming online and then settling, not a red flag. I'll walk through your specific statements with you and tell you plainly whether what you're seeing looks like normal Midland Basin behavior or something worth double-checking with the operator directly."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my check dip when a new well was drilled nearby?",
+   "answer": "That's typically well interference, a normal effect when a new horizontal well is completed close to an existing producer in the same Wolfcamp or Spraberry interval. Rates usually stabilize once pressure equalizes between the wells."
+  },
+  {
+   "question": "Is Martin County minerals worth more than Glasscock County minerals?",
+   "answer": "Generally Martin and Midland counties see denser current drilling, but a long-producing legacy well in Glasscock can outperform a newly permitted flank tract elsewhere. Activity and well history matter more than the county name alone."
+  },
+  {
+   "question": "How many wells might be on my Midland Basin section?",
+   "answer": "Modern development often puts four to eight or more horizontal wells per section across different benches. Older sections may have just one or two legacy vertical wells still producing."
+  },
+  {
+   "question": "What should I gather before asking about a Midland Basin offer?",
+   "answer": "Recent statements from every well paying into your interest, your deed or heirship documents, and the operator name if you know it. That's enough to give you an honest first read."
+  },
+  {
+   "question": "Do older, low-decline Midland Basin wells still get bought?",
+   "answer": "Yes. A mature well with a flat, predictable tail is often easier to value confidently than a brand-new high-rate well still on its steep early decline."
+  },
+  {
+   "question": "What's the difference between Wolfberry and modern Wolfcamp horizontal wells in the Midland Basin?",
+   "answer": "Wolfberry wells were typically vertical, lower-rate, longer-lived producers drilled in the 2000s. Modern Wolfcamp horizontals are higher-rate with steeper initial decline, targeting a specific bench with a longer lateral."
+  },
+  {
+   "question": "Does the Railroad Commission track which operator is currently active on my Midland Basin lease?",
+   "answer": "Yes, Railroad Commission of Texas records show the current operator of record and recent permit filings, which is useful if your statement address or operator name has changed over the years."
+  }
+ ],
+ "wordCount": 956,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Midland Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Permian Basin Royalty Buyer — Sell With Confidence",
+ "metaDescription": "A direct Permian royalty and mineral rights buyer run by a former operator. No obligation, no broker fee, offers built from your actual statements.",
+ "heroLead": "Pull out your last royalty check. Whatever it says, we can build a real number against it — not a county average, not a guess, an offer tied to your actual well and your actual decimal interest.",
+ "intro": [
+  "I spent close to thirty years on the operator side in the Permian before I started buying royalty and mineral interests directly from owners, and the thing that never sat right with me was how many owners get a mailer with a flat number on it and no explanation of where that number came from. We do this differently: send us your statements, your deed, or just the county your interest sits in, and we'll walk you through exactly how we get to a price — no obligation to take it, no broker commission taken out of the middle, and no pressure to sign anything the same week.",
+  "Whether you're sitting on a producing royalty in the Midland Basin, a non-producing mineral interest out toward the Delaware, or something in between, this site exists to help you understand what you actually hold before you decide what to do with it."
+ ],
+ "sections": [
+  {
+   "heading": "We Start With Your Check, Not Our Pitch",
+   "paragraphs": [
+    "Most of the value questions we get start with a stub in someone's hand and a genuine question about whether the number on it means what they think it means. That's where we start too. We'll ask for your recent royalty statements — twelve to twenty-four months is ideal — and your decimal interest if you have it, because a real offer has to be built from your actual production, not a blended average across a county with hundreds of different wells at different stages of decline.",
+    "If you're not sure how to read your statement, our royalty statements guide walks through every line, and it's worth reading before you talk to anyone about a price, us included."
+   ]
+  },
+  {
+   "heading": "How This Actually Works, Step By Step",
+   "paragraphs": [
+    "The process runs in a straightforward sequence. First, you send basic information — your county, your interest type, and statements or a deed if you have them handy. Second, we pull well and production records for the tract and, if applicable, run offset activity in the surrounding sections. Third, we build a written offer and explain the reasoning behind the number, typically within a few business days of receiving your documentation. Fourth, if you accept, a title review confirms the chain of ownership. Fifth, we close — a mineral deed gets signed, notarized, and recorded with the county clerk, and funds are disbursed once that's confirmed.",
+    "One person handles your file from the first call through closing, so you're not re-explaining your situation to a new voice at every stage. If title turns up a wrinkle — a missing probate, an old name discrepancy — we'll tell you plainly what it is and what it takes to fix, rather than letting a deal quietly stall."
+   ]
+  },
+  {
+   "heading": "Midland Basin And Delaware Basin Read Differently — We Price Them That Way",
+   "paragraphs": [
+    "The two sides of the Permian don't behave the same, and pricing them identically is how mailbox offers end up wrong in both directions. Midland Basin acreage tends to carry a longer, steadier production history with a more gradual decline profile across a lot of the legacy horizontal drilling. Delaware Basin wells often show stronger early rates with a steeper initial decline curve, and interest there is more sensitive to which specific operator holds the acreage and how aggressively they're permitting offset wells. We look at offset activity, operator identity, and where your well sits on its own decline curve before we ever write a number down — that's the whole difference between an offer and a guess.",
+    "We cover mineral and royalty interests across the core counties on both sides of the basin, and if we're not actively buying in your exact county, we'll tell you that directly instead of stringing you along with a placeholder offer."
+   ]
+  },
+  {
+   "heading": "What We'll Tell You Before You Decide Anything",
+   "paragraphs": [
+    "We're a direct buyer, not a licensed appraiser, attorney, or CPA, and we'll say so plainly rather than let you assume otherwise — for a formal appraisal or tax question, that's a conversation for a licensed professional, and we'll point you there when it matters. We'll also tell you when we think selling isn't the right move for your situation. If your interest is early in a strong decline curve with real offset activity nearby, or if a partial sale fits your goals better than selling everything, we'll say that instead of pushing for the bigger transaction.",
+    "That candor is the whole reason this site publishes a full library of guides on statements, appraisals, title, and taxes — read them whether or not you ever talk to us. Understanding your own interest is worth more than any single offer."
+   ]
+  },
+  {
+   "heading": "Producing Or Non-Producing, Whole Or Fractional",
+   "paragraphs": [
+    "We buy producing royalties, overriding royalty interests, non-producing minerals, and fractional interests inherited across multiple heirs — including situations where title needs a little cleanup before a sale can close. Small interests get the same attention as large ones; a quarter-decimal fraction on one well is still worth a real look, not a form-letter dismissal.",
+    "If you're unsure what type of interest you actually hold, send us what you have and we'll help you figure it out before we ever talk price — that's a normal first step, not a sales tactic."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How fast can I get an offer on my Permian mineral or royalty interest?",
+   "answer": "Once we have your statements or deed information, a written offer typically comes back within a few business days. Interests requiring extra research, like non-producing minerals with limited offset data, can take a bit longer to price accurately."
+  },
+  {
+   "question": "What documents do you need to give me a real number?",
+   "answer": "Ideally your deed or legal description, and if the interest is producing, twelve to twenty-four months of royalty statements. If you don't have all of it handy, send what you have and we'll help identify what's missing."
+  },
+  {
+   "question": "Do I pay any fees or commission to sell to you?",
+   "answer": "No. We buy directly, so there's no broker commission taken out of your proceeds. Standard closing costs like recording fees are handled as part of the transaction and disclosed up front."
+  },
+  {
+   "question": "What if I only own a fraction of the interest under a well?",
+   "answer": "That's common, especially on interests split among heirs, and we regularly buy fractional interests. Send your decimal interest if you know it, or your statements, and we'll work out the value of your specific share."
+  },
+  {
+   "question": "Is there any obligation once I request an offer?",
+   "answer": "None. You can review the offer, ask questions, get a second opinion, or decline entirely with no cost or obligation. We'd rather you take the time you need than rush a decision you're not comfortable with."
+  }
+ ],
+ "wordCount": 1168,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

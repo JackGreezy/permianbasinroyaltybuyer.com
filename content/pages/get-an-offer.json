@@ -1,0 +1,75 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Permian Mineral Rights",
+ "metaDescription": "Request a written, no-obligation offer on your Permian royalty or mineral interest — tell us what you have and we'll build a real number from it.",
+ "heroLead": "Send us what you have — a deed, a statement, or just the county — and we'll tell you honestly what we can do with it.",
+ "intro": [
+  "You don't need a complete file to start this conversation. Some owners have a full folder of statements and a signed division order; others have a single old deed and a vague sense of which county the interest sits in. Either way, tell us what you know and we'll take it from there, including help figuring out what you actually own if that part isn't clear.",
+  "There's no fee to request an offer, no obligation to accept it, and no pressure to decide quickly once you have it in hand."
+ ],
+ "sections": [
+  {
+   "heading": "What Helps Us Move Fastest",
+   "paragraphs": [
+    "The single most useful thing you can send is your recent royalty statements — twelve to twenty-four months if you have them — because that's what lets us build an offer against your actual production instead of a broad county estimate. A copy of your deed or division order, showing your decimal interest and the well or unit it's tied to, is the next most useful piece. If your interest is non-producing, the legal description of the tract and the county it's in is generally enough to start.",
+    "If you're missing any of this, don't let that stop you from reaching out — we can often help locate what's needed through county records or the operator's owner relations department."
+   ]
+  },
+  {
+   "heading": "What You'll Get Back",
+   "paragraphs": [
+    "A written offer along with a plain explanation of how we arrived at the number — what multiple we applied, how we're reading the decline, or what comparable activity we used for a non-producing interest. We typically respond within a few business days of receiving your documentation. If we think your situation calls for a different move than selling — waiting for offset activity, or selling only a portion — we'll say so directly.",
+    "You're free to take the offer to another buyer for comparison, ask us to walk through the reasoning in more detail, or simply set it aside and revisit it later. None of that changes anything on our end."
+   ]
+  },
+  {
+   "heading": "Interests We Regularly Buy",
+   "paragraphs": [
+    "Producing royalty interests, overriding royalty interests, non-producing mineral interests, and fractional interests split among heirs — including situations where title needs cleanup before a sale can close. We also buy portions of larger interests if a full sale isn't what you're after. Small interests get the same real evaluation as large ones.",
+    "If your interest sits outside the counties we're actively buying in, we'll tell you plainly rather than sending a placeholder number that doesn't reflect real activity in your area."
+   ]
+  },
+  {
+   "heading": "If Your Interest Involves Multiple Heirs",
+   "paragraphs": [
+    "It's common for a Permian mineral interest to be split among several family members after a death in the family, sometimes without every heir having gone through a formal probate. If that's your situation, tell us up front — it doesn't stop the process, but it does shape how we structure the paperwork, and it's usually easier to address early than to discover midway through a closing. We can also explain what a probate or heirship affidavit typically involves if you're not sure where things stand.",
+    "Each heir's individual share can often be handled separately if the family prefers that to a single joint transaction, so tell us what arrangement works best for your situation."
+   ]
+  },
+  {
+   "heading": "If You're Comparing Us Against Another Offer",
+   "paragraphs": [
+    "Plenty of owners come to us holding a mailer offer from another buyer and want a second number to compare it against. That's a completely reasonable reason to reach out, and we'll give you a straight answer — including telling you if the other offer already looks fair for your interest. We'd rather you make an informed decision, even one that doesn't involve us, than sign something you haven't had a chance to benchmark.",
+    "If you do want to compare, sending the same documentation to both buyers generally produces the most useful comparison, since offers built from different information aren't really measuring the same thing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost or fee to request an offer?",
+   "answer": "No. Requesting and reviewing an offer is free, and there's no broker commission if you do decide to sell — we buy directly."
+  },
+  {
+   "question": "What if I don't have my deed or statements handy right now?",
+   "answer": "Send whatever information you do have — the county, an approximate legal description, or even just what you remember about the interest — and we'll help you track down the rest through county records or the operator."
+  },
+  {
+   "question": "How long is an offer good for once I receive it?",
+   "answer": "We don't put artificial deadlines on offers. Take the time you need to review it, ask questions, or get a second opinion before deciding."
+  },
+  {
+   "question": "Will you buy just a portion of my interest?",
+   "answer": "Yes, partial sales are common and we're glad to structure an offer that way if a full sale doesn't fit what you're looking for."
+  }
+ ],
+ "wordCount": 858,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

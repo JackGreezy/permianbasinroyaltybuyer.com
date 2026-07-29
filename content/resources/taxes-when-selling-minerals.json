@@ -1,0 +1,68 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling Permian Mineral Rights",
+ "metaDescription": "How a mineral rights sale is generally taxed, what basis and depletion mean, and why talking to your CPA before closing matters more than after.",
+ "heroLead": "I'm not a CPA and this isn't tax advice, but after watching owners get blindsided at filing season, I can at least explain the shape of what you're walking into.",
+ "intro": [
+  "Selling a mineral or royalty interest is a taxable event, and the way it's treated depends on details specific to your situation — how long you've held the interest, what your basis is, whether you've been taking depletion deductions against your royalty income, and how the sale itself is structured. None of that is one-size-fits-all, which is exactly why this page describes how the pieces generally work rather than telling you what your bill will be.",
+  "Talk to your CPA or tax advisor before you sign anything, not after the check clears. The structure of a sale can sometimes affect the tax outcome, and that's a conversation worth having while there's still room to plan."
+ ],
+ "sections": [
+  {
+   "heading": "Capital Gain Versus Ordinary Income",
+   "paragraphs": [
+    "A sale of mineral or royalty rights is generally treated as a sale of a capital asset, which typically means the gain is taxed at capital gains rates rather than as ordinary income — a meaningfully different outcome for most owners. Whether that gain is long-term or short-term generally depends on how long you've held the interest, with inherited interests usually treated differently than interests you purchased or leased more recently. This is exactly the kind of detail where your specific facts change the answer, so it's worth confirming with your CPA rather than assuming.",
+    "Ongoing royalty income you've been receiving before a sale, by contrast, is generally taxed as ordinary income in the year received — a different category from the gain on the sale itself."
+   ]
+  },
+  {
+   "heading": "Basis And Why It's Worth Establishing Before You Sell",
+   "paragraphs": [
+    "Your basis is generally what you're considered to have 'paid' for the interest for tax purposes — for a purchased interest, typically the purchase price; for an inherited interest, generally the fair market value at the date of the decedent's death (a stepped-up basis, in most cases). Your taxable gain is generally calculated as the sale price minus your basis, so knowing your basis matters directly to what you'll owe. Many owners with inherited interests have never established a formal date-of-death valuation, which can make this calculation harder after the fact.",
+    "If you haven't established basis and a sale is on the table, this is worth raising with your CPA early — sometimes before the sale closes, since documentation is generally easier to gather while records and appraisers are still readily available."
+   ]
+  },
+  {
+   "heading": "Depletion And Recapture",
+   "paragraphs": [
+    "If you've been receiving royalty income, you've likely been taking a depletion deduction against it each year, which reduces your basis in the interest over time. When you eventually sell, that reduced basis generally means a larger reported gain than if depletion had never been claimed — a detail some owners don't realize until their CPA runs the numbers. This isn't a reason to avoid a sale; it's a reason to have your CPA calculate the actual number before you settle on a closing price, so there's no surprise at filing time.",
+    "Your accumulated depletion history is generally tracked from your past tax returns, so pulling several years of filings together before a sale conversation saves time when your CPA sits down to run this."
+   ]
+  },
+  {
+   "heading": "Timing And Structuring The Sale",
+   "paragraphs": [
+    "Some owners choose to close a sale in a specific tax year for reasons tied to their broader income picture — a high-income year versus a lower one can change the practical impact of a capital gains rate. Others explore structures like installment sales, where proceeds are received over more than one tax year rather than all at once, which can spread the reported gain across years depending on how it's structured. None of these decisions should be made without your CPA or tax advisor actually running your numbers, since the right approach depends entirely on your full tax picture, well beyond the mineral sale in isolation.",
+    "Bring your CPA into the conversation before you sign a purchase agreement, not after — some structuring options close off entirely once a sale is finalized."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is selling mineral rights taxed differently than receiving royalty checks?",
+   "answer": "Generally, yes. Ongoing royalty income is typically taxed as ordinary income in the year received, while the gain from selling the underlying interest is generally treated as a capital gain. The specific rates and timing depend on your situation, so confirm with your CPA."
+  },
+  {
+   "question": "What is 'basis' and why does it matter for a mineral sale?",
+   "answer": "Basis is generally what you're considered to have paid for the interest for tax purposes — often the purchase price for a bought interest, or the fair market value at date of death for an inherited one. Your taxable gain is generally the sale price minus your basis, so establishing basis accurately matters directly to your tax outcome."
+  },
+  {
+   "question": "How does depletion affect the taxes I'll owe when I sell?",
+   "answer": "If you've claimed depletion deductions against your royalty income over the years, your basis in the interest has generally been reduced, which can mean a larger reported gain when you sell. Your CPA can calculate your actual depletion history from past returns and factor it into the sale conversation."
+  },
+  {
+   "question": "Should I talk to a CPA before or after I accept an offer?",
+   "answer": "Before, ideally before signing a purchase agreement. Some timing and structuring choices — which tax year to close in, whether an installment structure makes sense — can affect your outcome, and those options are harder or impossible to use once a sale is already finalized."
+  }
+ ],
+ "wordCount": 957,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

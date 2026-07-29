@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in the Permian",
+ "metaDescription": "How a mineral deed actually transfers title, what the courthouse process involves, and the title issues that slow down a sale — explained plainly.",
+ "heroLead": "A mineral sale isn't finished when you agree to a number — it's finished when a signed, recorded deed puts clean title in the buyer's name at the county courthouse.",
+ "intro": [
+  "I've sat through enough closings from the operator side to know that the number people negotiate over is only half the transaction. The other half is title — making sure the deed that gets recorded actually conveys what everyone agreed it conveys, without leaving a gap that surfaces two years later during someone else's title run.",
+  "This isn't meant to replace a real estate attorney or a landman running your title. It's meant to give you a working understanding of the mechanics so you know what to expect and what questions to ask when a deed lands in front of you."
+ ],
+ "sections": [
+  {
+   "heading": "What A Mineral Deed Actually Conveys",
+   "paragraphs": [
+    "A mineral deed transfers ownership of the mineral estate — or a specified fraction of it — separately from the surface estate. In Texas and New Mexico, where most Permian minerals sit, it's entirely normal for surface and mineral ownership to be split, sometimes for generations. The deed will describe the exact tract by legal description (section, block, survey, and county), state the fraction being conveyed, and typically address whether existing leases, royalties, and any reserved interests carry with it.",
+    "Read the reservations clause carefully. A deed can convey the mineral fee while the seller reserves a royalty interest, or convey everything outright — those are very different outcomes and the language needs to say exactly which one is happening."
+   ]
+  },
+  {
+   "heading": "The Recording Process, County By County",
+   "paragraphs": [
+    "Once signed and notarized, the deed gets filed with the county clerk in the county where the minerals sit — Midland, Reeves, Martin, Loving, and the rest of the Permian counties each run their own recording office. The clerk stamps it with a filing date and instrument number and it becomes part of the public record, which is what future title examiners will search when they run a chain of title on that tract. Recording is what makes the transfer effective against later claims — an unrecorded deed can create real problems down the line.",
+    "Most buyers handle the recording as part of closing, but it's worth confirming who's responsible for filing it and getting a copy of the recorded instrument for your own records once it's stamped."
+   ]
+  },
+  {
+   "heading": "Where Title Gets Complicated",
+   "paragraphs": [
+    "The most common snag isn't fraud or bad faith — it's incomplete paperwork from decades of family transfers. A mineral interest inherited without a probate filed, a name that doesn't match between an old deed and a current ID, a tract described under an outdated survey reference, or heirs who never formally divided an interest after a death in the family — any of these can slow down a closing while title gets cleared. None of them are usually deal-killers; they typically just require the right document to be filed.",
+    "If you're not sure whether your title is clean, a title company or landman can run a quick title check before you ever get to a closing table, which saves surprises later."
+   ]
+  },
+  {
+   "heading": "Probate And Heirship: The Most Common Hold-Up",
+   "paragraphs": [
+    "Mineral interests in the Permian have often passed through two or three generations of the same family, and it's common for an interest to never have gone through formal probate — especially older interests from land that's been in a family since before drilling activity picked up in the area. If that's your situation, an heirship affidavit or a formal probate filing is usually what's needed to establish a clear chain before a deed can transfer cleanly. It adds time, not risk, and an attorney familiar with mineral title can usually move it faster than a general probate case would run.",
+    "It's worth starting this process early if you know a sale is coming — title work is almost always the longest step in a closing timeline, not the negotiation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a royalty deed?",
+   "answer": "A mineral deed conveys ownership of the mineral estate itself, including the right to lease it and collect bonus payments. A royalty deed conveys only the right to a share of production revenue, without the leasing rights that come with owning the mineral fee. The two are priced and negotiated differently."
+  },
+  {
+   "question": "Do I need an attorney to transfer mineral rights?",
+   "answer": "It's strongly recommended, especially where title has any complexity — inherited interests, name discrepancies, or multiple heirs. A real estate or oil and gas attorney familiar with mineral title in Texas or New Mexico can catch issues before they slow down or unwind a closing."
+  },
+  {
+   "question": "What happens if my mineral interest was never formally probated?",
+   "answer": "Title generally can't transfer cleanly until the chain of ownership through the estate is established, usually through a probate filing or an heirship affidavit. This is a common situation with inherited Permian interests and is fixable, but it does add time to a closing."
+  },
+  {
+   "question": "How long does it take to record a mineral deed after closing?",
+   "answer": "The recording itself is usually quick once the deed is signed and notarized — often filed within days at the county clerk's office. The longer step is almost always the title work that happens before signing, particularly on inherited interests."
+  }
+ ],
+ "wordCount": 908,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

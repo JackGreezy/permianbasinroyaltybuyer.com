@@ -1,0 +1,75 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Your Permian Royalty Actually Works",
+ "metaDescription": "The step-by-step process for selling a Permian mineral or royalty interest — what we ask for, how we price it, and what closing looks like.",
+ "heroLead": "There's no mystery to this process — it's five steps, and the only variable that really changes the timeline is how clean your title already is.",
+ "intro": [
+  "This page walks through exactly what happens if you decide to get an offer, from the first message to funds landing in your account, so there are no surprises at any stage. Every one of these steps applies whether you're selling a producing royalty, a non-producing mineral interest, or a fractional interest split among heirs.",
+  "None of it requires you to commit to anything until you're ready. You can stop the process at any point, ask questions along the way, or simply request a number and take time to think it over. Each step below is handled by the same point of contact, so you're never re-explaining your situation to someone new partway through."
+ ],
+ "sections": [
+  {
+   "heading": "Step One: Tell Us What You Have",
+   "paragraphs": [
+    "Send your county, your interest type (royalty, working interest, or non-producing minerals), and whatever documentation you have — a deed, a division order, or recent royalty statements. If you're not certain what type of interest you own, that's fine; send what you have and we'll help you sort it out. This step usually takes an owner ten minutes, mostly spent finding paperwork that's been in a drawer for a while.",
+    "If your interest is producing, statements from the last twelve to twenty-four months give us the clearest picture and generally produce the most accurate first offer."
+   ]
+  },
+  {
+   "heading": "Step Two: We Research The Well And The Section",
+   "paragraphs": [
+    "We pull production history, check offset well activity in the surrounding sections, and confirm which operator is active on the acreage. For a producing interest, this means modeling where the well sits on its decline curve using your actual statements rather than a county average. For a non-producing interest, it means looking at comparable lease and royalty terms on nearby acreage and recent permitting activity to gauge near-term drilling likelihood.",
+    "This step is entirely on us — you don't need to do anything further once your documentation is in."
+   ]
+  },
+  {
+   "heading": "Step Three: We Send A Written Offer With The Reasoning Behind It",
+   "paragraphs": [
+    "Typically within a few business days, you'll get a written offer along with a plain explanation of how we arrived at that number — the multiple applied, the decline assumption, or the comparable data used. There's no deadline attached, and you're welcome to ask questions, request a second opinion, or simply sit on it. If we don't think selling makes sense for your situation right now, we'll tell you that instead of sending a number anyway.",
+    "If you'd like to compare against another buyer's offer, that's a completely reasonable thing to do, and we're happy to explain our number in more detail if it helps you evaluate it."
+   ]
+  },
+  {
+   "heading": "Step Four: Title Review",
+   "paragraphs": [
+    "If you accept the offer, a title review confirms the chain of ownership back through your deed and any prior conveyances. Most reviews turn up nothing more than routine paperwork; some surface a gap — an interest that was never formally probated, a name discrepancy, or an old survey reference that needs updating. When that happens, we'll explain exactly what's needed to clear it, and in most cases it's a document, not a dispute.",
+    "This is generally the longest step in the process, simply because title work runs on its own timeline, particularly if a probate filing is required."
+   ]
+  },
+  {
+   "heading": "Step Five: Closing And Payment",
+   "paragraphs": [
+    "Once title is clear, you sign a mineral deed, it's notarized, and it's recorded with the county clerk in the county where the minerals sit. Funds are typically disbursed once the recorded deed is confirmed. You'll receive copies of the signed deed and closing statement for your own records — keep them, since your CPA will want them when it's time to report the sale.",
+    "A straightforward closing with clean title commonly wraps up within a few weeks of accepting an offer; anything requiring probate or a title cure generally takes longer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the entire process take from first contact to payment?",
+   "answer": "A clean, straightforward sale can commonly close within a few weeks. Interests requiring probate or other title work take longer, since that runs on its own separate timeline outside our control."
+  },
+  {
+   "question": "Do I have to accept the offer once I request one?",
+   "answer": "No. Requesting an offer carries no obligation, and there's no cost or deadline attached to reviewing it. You can decline, negotiate, or simply take time to consider it."
+  },
+  {
+   "question": "What happens if title review finds a problem with my interest?",
+   "answer": "We'll explain exactly what the issue is and what's needed to resolve it — usually a document like an heirship affidavit or a corrective deed, not a dispute. It adds time to the process but rarely changes the outcome."
+  },
+  {
+   "question": "Who handles the deed and the county recording?",
+   "answer": "We coordinate the deed preparation and recording as part of closing, typically working with a title company. You'll receive a copy of the recorded deed for your own files once it's filed with the county clerk."
+  }
+ ],
+ "wordCount": 869,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-permianbasinroyaltybuyer-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

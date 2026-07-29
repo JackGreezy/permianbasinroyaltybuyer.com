@@ -1,0 +1,74 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Surface vs. Mineral Estate in the Permian Basin",
+ "metaDescription": "Confused about surface rights versus mineral rights on your Permian Basin property? An ex-operator explains the split and what it means for owners.",
+ "heroLead": "Owning the surface and owning what's underneath it are two entirely different things in Texas and New Mexico, and a lot of confusion in this business starts right there.",
+ "intro": [
+  "In much of the Permian, the surface estate and the mineral estate were severed generations ago, sometimes through a mineral reservation when the original ranch or farm land was sold, sometimes through a later conveyance that split the two. Once severed, they're treated as separate real property interests that can be owned, inherited, and sold entirely independently of each other.",
+  "That means you can own the surface of a piece of West Texas land, run cattle on it or lease it for grazing, and have zero rights to anything underground, or you can own the minerals under land you've never seen and have no connection to whoever's on the surface. Understanding which one you hold, or whether you hold both, is fundamental to everything else. I've talked with ranching families in West Texas who've owned and worked the surface for generations without ever holding the minerals underneath, and the reverse situation, minerals without surface, is just as common among heirs who moved away from the land their family once worked."
+ ],
+ "sections": [
+  {
+   "heading": "How the split usually happened",
+   "paragraphs": [
+    "Most severances in this basin trace back to a sale where the seller reserved the minerals while conveying the surface, a common practice through much of the twentieth century as landowners recognized oil and gas potential without wanting to give up the underlying rights forever. Less commonly, the mineral estate was sold off separately while the original owner kept the surface.",
+    "Once severed, the mineral estate is legally dominant in Texas, meaning the mineral owner and any lessee generally have the right to reasonable use of the surface to access and develop the minerals, subject to accommodation obligations that have developed through case law and, increasingly, through negotiated surface use agreements.",
+    "Accommodation doctrine, developed through Texas case law, generally requires an operator to use alternative, reasonable means of access if a proposed drilling location would otherwise preclude the surface owner's existing use of the land, though it doesn't give the surface owner a right to block development outright."
+   ]
+  },
+  {
+   "heading": "What each estate actually controls",
+   "paragraphs": [
+    "The mineral owner controls leasing, exploration, and development rights, and collects bonus and royalty income from production. The surface owner controls use of the land itself, grazing, farming, or development, but generally cannot block reasonable oil and gas operations conducted under a valid lease, even if a well pad ends up somewhere the surface owner would prefer it didn't.",
+    "This tension is exactly why surface use agreements exist, negotiated separately from the mineral lease, to compensate surface owners for the disruption of drilling operations and set terms for access, road use, and restoration. If you own only the surface, that agreement, not the mineral lease, is where your leverage lives."
+   ]
+  },
+  {
+   "heading": "Why this matters if you're deciding whether to sell",
+   "paragraphs": [
+    "If you're only a surface owner, you're not selling minerals when you sell your interest, and buyers like me aren't the right party for that transaction, though it's worth knowing the distinction before contacting anyone in this business. If you hold the mineral estate, whether or not you also own the surface, that's what I evaluate and potentially buy.",
+    "Check your deed carefully, or the deed of whoever conveyed the property to you or your family, to confirm which estate, or both, you actually hold before assuming either way."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I own the minerals if I own the surface land?",
+   "answer": "Not necessarily. Many Permian properties have severed mineral estates, meaning the surface and minerals are owned separately, sometimes by completely unrelated parties."
+  },
+  {
+   "question": "Can an operator drill on my land if I only own the surface?",
+   "answer": "Yes, in Texas the mineral estate is generally dominant, meaning a valid leaseholder has the right to reasonable surface access for development, subject to accommodation requirements and often a negotiated surface use agreement."
+  },
+  {
+   "question": "How do I find out if my minerals were severed from my surface?",
+   "answer": "Review your deed and the chain of title at the county clerk's office. A mineral reservation in a prior conveyance is usually clearly stated in the deed language."
+  },
+  {
+   "question": "Do I get paid if a well is drilled on my surface land but I don't own the minerals?",
+   "answer": "Not from royalty, but you may be entitled to surface damage compensation negotiated separately through a surface use agreement with the operator."
+  },
+  {
+   "question": "Can I buy back mineral rights that were severed from my surface property?",
+   "answer": "It's possible if the current mineral owner is willing to sell, though that's a separate negotiation and not something automatically available to a surface owner."
+  },
+  {
+   "question": "What is the accommodation doctrine in Texas mineral law?",
+   "answer": "It's a legal principle requiring an operator to use reasonable alternative methods of access if their proposed location would otherwise prevent the surface owner's existing use of the land, balancing both parties' rights."
+  },
+  {
+   "question": "Do I need a surface use agreement if I own both the surface and minerals?",
+   "answer": "It's less critical when you own both, since you control both the leasing decision and surface access, but many owners still negotiate specific surface terms into the lease itself for clarity."
+  }
+ ],
+ "wordCount": 893,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

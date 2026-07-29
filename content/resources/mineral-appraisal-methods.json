@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Mineral Rights Appraisals Actually Work",
+ "metaDescription": "The methods used to appraise Permian mineral and royalty interests — discounted cash flow, comparable sales, and where reserve estimates fit in.",
+ "heroLead": "We're a direct buyer, not a licensed appraiser, so think of this as an explanation of the methodology rather than a substitute for a formal appraisal.",
+ "intro": [
+  "Owners sometimes need a defensible, formal valuation — for an estate, a divorce settlement, a gift tax filing, or a dispute — and that's a different document than the offer a buyer sends you. A formal appraisal is typically prepared by a licensed petroleum engineer or a certified mineral appraiser and follows recognized valuation standards. What follows explains the methods those professionals actually use, so you understand what's behind the number if you ever commission one, or so you can sanity-check an informal offer against the same logic.",
+  "If you need a formal appraisal for legal or tax purposes, that's worth commissioning from a licensed professional directly — this page is educational, not a substitute for that report."
+ ],
+ "sections": [
+  {
+   "heading": "Discounted Cash Flow: The Standard Method For Producing Interests",
+   "paragraphs": [
+    "The most rigorous approach models the well's expected future production month by month, applies a price forecast, subtracts expected costs and taxes, and then discounts all of that future cash flow back to a present value using a discount rate that reflects the risk involved. This requires decline curve analysis specific to the well — fitting a mathematical curve to actual production history to project how volumes will fall off over time — plus assumptions about future commodity prices, which is inherently uncertain no matter how careful the analyst is.",
+    "This is the method a reserve engineer would use for a formal reserve report, and it's the most defensible approach for legal or estate purposes because the assumptions are documented and can be examined."
+   ]
+  },
+  {
+   "heading": "Comparable Sales: Benchmarking Against Nearby Transactions",
+   "paragraphs": [
+    "A simpler and faster method looks at recent sale prices of similar mineral or royalty interests nearby, adjusted for differences in decline stage, interest size, and basin position. This is closer to how a market-based offer gets built quickly, and it's reasonable for a first-pass estimate, but it's less precise than a full discounted cash flow analysis since no two tracts are perfectly comparable — the adjustment for those differences is where the judgment (and the disagreement between two buyers) usually shows up.",
+    "Public county deed records can give you a rough sense of comparable transactions if you want to research this yourself, though the recorded consideration doesn't always reflect the full or accurate sale price."
+   ]
+  },
+  {
+   "heading": "Where Reserve Estimates And Type Curves Come In",
+   "paragraphs": [
+    "For a more technical valuation, an engineer may reference publicly available type curves — average production profiles for wells in a similar area and formation — to estimate future performance for a newer well that doesn't yet have enough history to fit its own reliable decline curve. This is common for Permian wells still in their first year, where actual production data is limited but offset wells in the same formation provide a reasonable proxy for how the well is likely to behave going forward.",
+    "This approach carries more uncertainty than modeling a well with several years of actual history, which is one reason offers on very young wells tend to be more conservative than offers on wells with an established track record."
+   ]
+  },
+  {
+   "heading": "Why A Formal Appraisal Costs More Than An Offer",
+   "paragraphs": [
+    "A licensed appraisal or reserve report involves engineering time, documented assumptions, and a signed professional opinion that can hold up under legal or tax scrutiny — that's real work and it's priced accordingly. An informal purchase offer from a buyer is a different thing entirely: it reflects what that buyer is willing to pay, built from similar underlying logic but without the formal documentation. Both have their place, but they answer different questions, and it's worth being clear with yourself about which one you actually need before you commission either.",
+    "If the purpose is estate or tax related, get the formal appraisal. If the purpose is deciding whether to sell to a particular buyer, a written offer with an explanation of the methodology behind it is usually sufficient."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Who is qualified to perform a formal mineral rights appraisal?",
+   "answer": "Typically a licensed petroleum engineer or a certified mineral appraiser with oil and gas valuation experience. For estate, tax, or legal purposes, it's worth confirming the appraiser's credentials meet the requirements of whichever institution or authority will be reviewing the report."
+  },
+  {
+   "question": "What's the difference between an appraisal and a buyer's offer?",
+   "answer": "A formal appraisal is a documented professional opinion of value, often required for legal or tax purposes and prepared following recognized standards. A buyer's offer reflects what that specific buyer is willing to pay, informed by similar methodology but without the same formal documentation."
+  },
+  {
+   "question": "How is a discounted cash flow valuation actually calculated?",
+   "answer": "It models expected future production using decline curve analysis, applies price and cost assumptions, and discounts the resulting cash flows back to a present value using a discount rate reflecting the investment's risk. It's the standard method for a formal reserve-based valuation of a producing interest."
+  },
+  {
+   "question": "Why do offers on newer wells tend to be more conservative?",
+   "answer": "A newer well has less production history to build a reliable decline curve from, so valuation leans more on type curves from offset wells in the same area, which carries more uncertainty than modeling a well with several years of actual data."
+  }
+ ],
+ "wordCount": 908,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-permianbasinroyaltybuyer-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

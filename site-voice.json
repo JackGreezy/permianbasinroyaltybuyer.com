@@ -1,0 +1,185 @@
+{
+  "_": "This voice belongs only to permianbasinroyaltybuyer.com. It is a Midland royalty run sheet written for owners comparing a direct sale and is never a reusable mineral-rights voice pack.",
+  "identity": {
+    "name": "Midland royalty run sheet",
+    "domain_lock": "permianbasinroyaltybuyer.com",
+    "reusable": false,
+    "cadence": "name the tract, reconcile the paid decimal, read the decline, separate present checks from future inventory, show the offer terms, leave a clean closing file",
+    "lexicon": [
+      "royalty run sheet",
+      "paid decimal",
+      "tract schedule",
+      "check history",
+      "decline read",
+      "offset docket",
+      "burden line",
+      "offer bridge",
+      "title exception",
+      "closing file"
+    ],
+    "avoid": [
+      "personal blog voice",
+      "first-person singular narration",
+      "instant cash language",
+      "guaranteed value",
+      "highest offer claims",
+      "secret valuation formula",
+      "generic nationwide buyer copy",
+      "reusable voice pack"
+    ]
+  },
+  "scrub": [
+    ["\\bI['’]m\\b", "the buyer team is"],
+    ["\\bI['’]ve\\b", "the buyer team has"],
+    ["\\bI['’]ll\\b", "the buyer team will"],
+    ["\\bI['’]d\\b", "the buyer team would"],
+    ["\\bI don['’]t\\b", "the buyer team does not"],
+    ["\\bI can['’]t\\b", "the buyer team cannot"],
+    ["\\bI can\\b", "the buyer team can"],
+    ["\\bthe buyer team ask\\b", "the buyer team asks"],
+    ["\\bthe buyer team want\\b", "the buyer team wants"],
+    ["\\bthe buyer team look\\b", "the buyer team looks"],
+    ["\\bthe buyer team tell\\b", "the buyer team tells"],
+    ["\\bthe buyer team move\\b", "the buyer team moves"],
+    ["\\bthe buyer team see\\b", "the buyer team sees"],
+    ["\\bthe buyer team work\\b", "the buyer team works"],
+    ["\\bmyself\\b", "the buyer team"],
+    ["\\bmine\\b", "the team's"],
+    ["\\bmy\\b", "the owner's"],
+    ["\\bme\\b", "the buyer team"],
+    ["\\bI\\b", "the buyer team"]
+  ],
+  "heroes": [
+    [
+      "Permian Basin Royalty Buyer for Midland Mineral Owners",
+      "A direct royalty review that ties the offer to ownership, paid decimals, current checks, decline, offset activity, burdens, and written closing terms."
+    ],
+    [
+      "Read the Royalty Check Before Pricing the Tract",
+      "Statements, products, deductions, adjustments, owner decimals, and well-level history should agree before a sale number becomes useful."
+    ],
+    [
+      "Separate Producing Cash Flow From Undrilled Inventory",
+      "Existing checks and possible future locations carry different evidence, timing, concentration, and development risk."
+    ],
+    [
+      "Compare the Offer Bridge, Not Just the Headline Number",
+      "Cash at closing, title reserves, excluded depths, retained acres, effective dates, and curative obligations belong beside the price."
+    ],
+    [
+      "Leave Closing With a Clean Royalty File",
+      "The executed deed, tract schedule, settlement statement, payment record, tax documents, and operator notices should remain easy to trace."
+    ]
+  ],
+  "copy": {
+    "home_eyebrow": "MIDLAND ROYALTY RUN SHEET",
+    "home_title": "Permian Basin Royalty Buyer for Midland Mineral Owners",
+    "home_meta": "Review a Permian royalty offer through ownership, paid decimals, check history, decline, offset activity, burdens, title, and written closing terms.",
+    "home_intro_title_1": "Put the royalty file",
+    "home_intro_title_2": "in working order",
+    "home_intro": "A useful direct-sale review begins with the exact interest, not a county-wide mailer. The royalty run sheet reconciles the tract, lease, unit, paid decimal, producing wells, check history, decline, offset docket, burdens, title questions, and offer terms before the owner decides what to keep or sell.",
+    "home_basins_title": "Two Permian Basins. Different Decline Reads.",
+    "home_basins_body": "Midland Basin and Delaware Basin interests can differ in product mix, well design, pressure, decline, spacing, operator activity, takeaway, deductions, and undrilled inventory. The tract stays tied to its own wells and records.",
+    "home_locations_title": "Start With the County, Tract, and Operator",
+    "home_locations_body": "Local records, legal descriptions, unit documents, payor statements, regulatory well data, and recorded title establish the file before broader basin context is applied.",
+    "home_resources_title": "Owner Records Worth Reading Before a Sale",
+    "home_contact_title": "Bring the Tract Schedule and the Last Royalty Checks",
+    "home_contact_body": "Share the county and state, interest type, producing status, recent revenue if available, records already gathered, and the decision the sale review needs to support. Do not submit bank credentials, government identification numbers, or original documents.",
+    "hero_cta": "Request a Royalty Review",
+    "index_tagline": "Use the {title} run sheet to identify the controlling record, the paid interest, the check history, the development evidence, the title exception, and the next closing question.",
+    "detail_cta_title": "Put This Topic on the Royalty Run Sheet",
+    "faq_heading": "Questions Owners Ask About This Topic",
+    "about_title": "A Direct Buyer With an Operator-Side Reading of the Permian",
+    "about_intro_title": "The Tract, Checks, and Terms Belong on One Page",
+    "about_intro": "Permian mineral owners deserve more than a flat number. The review should show what was priced, how the paid decimal reconciles, which checks support present cash flow, which development evidence remains conditional, and which terms control the closing.",
+    "about_market_body": "A deed establishes the recorded interest, but the live royalty position also depends on leases, units, products, depths, paid decimals, producing wells, decline, deductions, adjustments, operator activity, and the tract schedule attached to the offer.",
+    "about_discipline_title": "Read the File Before Quoting the Tract",
+    "about_discipline_body": "The review team starts with records that can be traced: deed and reservation language, lease burdens, division orders, royalty statements, well lists, production history, operator notices, and a written offer schedule.",
+    "about_team_title": "Keep One Review Thread",
+    "about_team_body": "Ownership, valuation questions, title follow-up, offer revisions, and closing documents stay on one visible thread so an owner is not forced to restart the property story at each step.",
+    "about_reason_title": "Show the Offer Bridge",
+    "about_reason_body": "The headline price sits beside cash at closing, excluded tracts or depths, retained interests, title reserves, curative responsibility, effective dates, payment timing, tax forms, and conditions that can change net proceeds.",
+    "about_scope_title": "Name the Buyer’s Lane",
+    "about_scope_body": "Permian Basin Royalty Buyer is a direct buyer, not a law firm, tax adviser, title company, engineering firm, appraisal practice, broker, qualified intermediary, or fiduciary. Those decisions require qualified independent review.",
+    "about_close_title": "Finish With a Reviewable Closing File",
+    "about_close_body": "A clean file retains the signed deed, legal descriptions, tract schedule, settlement statement, funding record, tax documents, title correspondence, operator notices, payor confirmation, and the final list of interests retained.",
+    "contact_title": "Request a Permian Royalty Review",
+    "contact_intro": "Describe the county and state, interest type, producing status, recent checks if available, records already gathered, and the sale decision that needs a clearer answer.",
+    "contact_step_one_title": "Reconcile the Interest",
+    "contact_step_one_body": "Match the deed, lease, unit, division order, tract schedule, depths, products, and paid decimal.",
+    "contact_step_two_title": "Read the Checks",
+    "contact_step_two_body": "Review products, volumes, realized prices, taxes, deductions, adjustments, downtime, and decline.",
+    "contact_step_three_title": "Compare Written Terms",
+    "contact_step_three_body": "Place price beside exclusions, retained interests, title reserves, effective date, curative work, funding, and closing documents.",
+    "contact_form_title": "Start With the Property Facts Already Available",
+    "contact_form_body": "A complete title file is not required for the first review. The first pass should identify what is known, what remains open, and which record can answer the next material question.",
+    "footer_tagline": "Tract named. Decimal reconciled. Checks read. Offer bridged. Closing file kept clean.",
+    "privacy": "Permian Basin Royalty Buyer uses submitted contact, ownership, property, production, statement, lease, title, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
+    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Ownership, production, commodity prices, assumptions, market evidence, offers, title findings, and closing amounts can change. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
+    "nf_title": "That Tract Note Is Not on This Page",
+    "nf_body": "Return to selling situations, interest types, Permian basins, service areas, owner resources, mineral investing, exchange guidance, or the royalty-review form.",
+    "nf_cta": "Return to the Royalty Run Sheet"
+  },
+  "about_blocks": [
+    [
+      "Read the File Before Quoting the Tract",
+      "A direct buyer should be able to explain which deed, lease, unit, division order, royalty statement, wells, decline evidence, development docket, burdens, and offer terms shaped the number."
+    ]
+  ],
+  "form_fields": [
+    ["owner_name", "text", "Owner or contact name", true],
+    ["county_state", "text", "Property county and state", true],
+    ["email", "email", "Email address", true],
+    ["property_details", "textarea", "Describe the interest, records, checks, and sale question", true]
+  ],
+  "taxonomy_enrichment": {
+    "situations": [
+      ["Define the decision before the offer", "{name} changes the timeline, authority, documentation, tax questions, title work, retained interest, and type of closing certainty an owner needs."],
+      ["Keep unresolved items on the run sheet", "For {name}, open ownership, missing statements, unconfirmed units, title conflicts, unknown terms, and timing issues stay beside the part of the offer they could change."]
+    ],
+    "interest-types": [
+      ["Price the right that was actually recorded", "{name} should be traced through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."],
+      ["Match the offer to a tract schedule", "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."]
+    ],
+    "basins": [
+      ["Use basin evidence without losing the tract", "{name} informs product mix, decline, well design, spacing, takeaway, basis, deductions, operator activity, development pace, and comparable transactions. It does not replace the property file."],
+      ["Keep checks and inventory in separate lanes", "Producing wells, intermittent wells, behind-pipe zones, permits, offsets, undeveloped benches, and broad operator acreage in {name} carry different evidence, timing, and risk."]
+    ],
+    "locations": [
+      ["Begin with the county record trail", "A royalty review in {name} starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and regulatory well data."],
+      ["Route local legal and tax questions correctly", "Probate, marital property, dormant-mineral law, pooling, recording, transfer tax, regulatory filings, and payor-notice rules can differ in {name}. Those questions belong with qualified advisers."]
+    ],
+    "resources": [
+      ["Turn the guide into a tract question", "{name} should help locate a record, test a paid decimal, separate observed checks from forecast potential, compare written terms, or prepare a precise question for an adviser."],
+      ["Keep the source and date attached", "Every figure used with {name} should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."]
+    ],
+    "investing": [
+      ["Reconcile production to paid royalties", "For {name}, products, volumes, realized prices, taxes, deductions, owner decimals, downtime, and adjustments should reconcile to the revenue actually paid."],
+      ["Test one driver at a time", "Price, basis, deductions, decline, downtime, development timing, title reserve, concentration, marketability, and discounting should be tested separately for {name} before scenarios are combined."],
+      ["Separate the checks from the drilling docket", "The {name} run sheet places current producing cash flow, intermittent wells, behind-pipe zones, permitted locations, offset completions, and unsupported acreage claims on different lines. Present income should not be blended with contingent future work."],
+      ["Read concentration before return", "A {name} package can depend on one operator, one well, one product, one county, or one development schedule. Those concentrations belong beside title stability, lease burdens, deductions, decline, forecast life, and marketability."],
+      ["State the forecast horizon", "A {name} review distinguishes near-term observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, terminal value, and abandonment exposure remain visible instead of disappearing into one multiple."],
+      ["Test the paid decimal", "A small decimal error can change the complete {name} result. Reconcile gross acres, net mineral acres, ownership fraction, lease royalty, unit participation, well allocation, depth limits, product limits, and suspense or adjustment history."],
+      ["Keep value labels distinct", "Fair market value, investment value, an asking price, a broker indication, and a direct buyer offer answer different questions. The {name} file identifies the intended use, effective date, property scope, exclusions, and limiting conditions."],
+      ["Show the downside case", "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. Each case retains its own dated assumptions."],
+      ["Preserve the update path", "A {name} review is easier to refresh when the file retains deeds, leases, division orders, statements, production downloads, operator notices, tax records, well lists, market evidence, assumptions, and observation dates."],
+      ["Make the handoff reviewable", "The completed {name} run sheet should let an owner, trustee, attorney, accountant, engineer, appraiser, or investment reviewer trace each material figure to a property record and dated assumption."],
+      ["Compare the acquisition terms", "A {name} comparison places price beside the legal interest conveyed, effective date, receivables, suspense, title reserves, curative cost, retained depths, retained acres, representations, funding method, and closing timing. Two equal headline prices can produce materially different net results."],
+      ["Record the decision rule", "The owner’s decision rule for {name} should state the income need, liquidity deadline, concentration limit, willingness to retain future upside, tax questions, acceptable title holdback, and documents required before signing. That written rule keeps later offer changes from moving the goalposts."]
+    ],
+    "exchange-1031": [
+      ["Put exchange planning before closing", "{name} begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing."],
+      ["Write deadlines as calendar dates", "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, inspections, backup choices, and closing tasks."],
+      ["Keep proceeds outside owner control", "Planning for {name} documents when the qualified intermediary is engaged, how assignment notices are delivered, who may direct funds, and which closing records confirm the handoff. This website does not act as intermediary."],
+      ["Confirm taxpayer and vesting", "The {name} file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified legal and tax review."],
+      ["Build a replacement-property file", "A candidate for {name} needs more than a marketing summary. Gather title, lease burdens, producing wells, revenue history, operator records, development evidence, value support, financing conditions, closing constraints, and adviser questions."],
+      ["Track identification language", "The identification record for {name} preserves the property description, delivery time, recipient, selection rule, amendments, and backup candidates. Vague references to a basin, fund, acreage package, or future purchase invite avoidable ambiguity."],
+      ["Reconcile value and debt separately", "For {name}, relinquished value, replacement value, debt paid, debt added, cash proceeds, transaction costs, and any retained amount stay on separate lines for qualified intermediary and tax-adviser review."],
+      ["Keep valuation and tax roles separate", "The {name} run sheet can compare relinquished and replacement-property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as qualified intermediary, or direct closing funds."],
+      ["Archive the exchange evidence", "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary statements, title records, financing, value support, adviser correspondence, and the final property schedule."],
+      ["Close with open questions visible", "Before {name} closes, the file shows which questions were answered by tax counsel, the qualified intermediary, title, valuation, financing, and closing professionals. Unresolved timing, debt, title, related-party, or property-character issues stay visible."],
+      ["Keep the relinquished and replacement schedules separate", "The {name} file should preserve a complete schedule for the interest sold and a separate schedule for each property considered for replacement. Ownership, legal descriptions, products, depths, burdens, operators, checks, debt, value support, and closing conditions should not be blended."],
+      ["Prepare backup properties before the deadline", "A {name} timeline is stronger when backup candidates receive early title, operating, valuation, financing, and closing review. A backup that cannot be described precisely, financed, diligenced, or closed within the available period is not a dependable backup."]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Overriding Royalty Interests (ORRI) in the Permian",
+ "metaDescription": "Hold an overriding royalty interest (ORRI) tied to a Permian Basin lease? An ex-operator explains how ORRIs work, expire, and get valued.",
+ "heroLead": "An ORRI rides on top of a specific lease and disappears when that lease does, which makes it one of the more time-limited interests you can own in this business.",
+ "intro": [
+  "An overriding royalty interest, or ORRI, is carved out of the working interest rather than the mineral estate, typically created when a landman, geologist, or original leaseholder retains a royalty share as part of assigning a lease to an operator. Unlike a mineral or royalty interest, which exists as long as the underlying minerals do, an ORRI exists only for the life of the specific lease it's tied to.",
+  "I buy ORRIs across the Permian from people who received them as part of deal-making years ago, sometimes as compensation for putting a lease together, sometimes inherited from someone who worked that side of the business, and the value question always starts with understanding exactly which lease the override is tied to. I've also bought ORRIs from families of geologists and landmen who worked the Permian during earlier development cycles, where the override was part of the original deal structure and has simply been sitting in the family ever since, often not fully understood by the current generation holding it."
+ ],
+ "sections": [
+  {
+   "heading": "Why ORRIs expire and minerals don't",
+   "paragraphs": [
+    "Because an ORRI is a carve-out of the working interest, tied to one specific lease, it terminates when that lease terminates, whether through expiration, release, or the well being plugged and abandoned with no held-by-production unit behind it. If the lease is renewed or a new lease is signed on the same tract, your original ORRI generally does not carry forward automatically unless the assignment document specifically provided for that.",
+    "This is the single biggest thing to understand before valuing or selling an ORRI: check the underlying lease's status and how much productive life it likely has left, because you're not buying or selling a permanent piece of the mineral estate, you're buying or selling a royalty stream with a real end point.",
+    "It's also worth checking whether your ORRI was created as a fixed percentage of production or structured as a sliding scale that increases after the operator recoups certain costs, sometimes called a sliding-scale or springing override. These structures are less common but do exist in some older Permian assignments and change the value calculation meaningfully."
+   ]
+  },
+  {
+   "heading": "Where ORRIs come from in this basin",
+   "paragraphs": [
+    "In the Permian, ORRIs often originated from lease brokers or geologists who assembled acreage positions for operators during a leasing push and took a small override as part of their compensation, or from operators who farmed out a portion of a prospect and retained an override on the assignee's drilling. Some ORRIs trace back decades to the original vertical drilling era and are still riding on leases that have been held by production ever since through continuous horizontal development.",
+    "If you inherited an ORRI and aren't sure of its origin, the assignment document that created it, recorded at the county clerk, will show the specific lease, the percentage, and any terms about whether it extends to renewals or just the original lease term."
+   ]
+  },
+  {
+   "heading": "Valuing and selling an ORRI",
+   "paragraphs": [
+    "Because the interest has a defined end point tied to the lease's productive life, valuation leans more heavily on the well's remaining decline and how likely the current lease is to stay held by production, since a well going offline effectively ends your income even though your underlying legal interest technically continues on paper.",
+    "I look at the specific well or wells the ORRI is tied to, the operator's activity on that lease, and whether there's a realistic held-by-production picture keeping it alive, then give you a number that reflects the real remaining life of that specific income stream, not a generic royalty valuation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my overriding royalty interest last forever?",
+   "answer": "No, an ORRI is tied to a specific lease and generally ends when that lease terminates, unlike a mineral or royalty interest which exists as long as the minerals do."
+  },
+  {
+   "question": "What happens to my ORRI if the operator releases the lease?",
+   "answer": "Typically the override ends along with the lease, unless the original assignment document specifically extended it to cover renewals or new leases on the same tract."
+  },
+  {
+   "question": "How is an ORRI different from a royalty interest?",
+   "answer": "A royalty interest is carved from the mineral estate and tied to the minerals themselves, while an ORRI is carved from the working interest and tied to a specific lease, which is why it can expire."
+  },
+  {
+   "question": "How do I find the assignment document that created my ORRI?",
+   "answer": "It should be recorded at the county clerk's office in the county where the lease is located, showing the percentage, the specific lease, and any terms about renewals."
+  },
+  {
+   "question": "Is an ORRI worth buying if the lease could end soon?",
+   "answer": "It depends entirely on how likely the lease is to stay held by production. I evaluate that activity directly before making an offer rather than pricing it like a standard royalty interest."
+  },
+  {
+   "question": "Can an ORRI be larger than the landowner's royalty?",
+   "answer": "Yes, an ORRI is a separate carve-out from the working interest and its size depends entirely on what was negotiated when it was created, independent of the underlying royalty rate."
+  },
+  {
+   "question": "What is a sliding-scale override and do many Permian ORRIs use one?",
+   "answer": "A sliding-scale override changes rate based on production volume or cost recovery milestones. It's less common than a simple fixed percentage but does show up in some older Permian assignments worth checking for."
+  }
+ ],
+ "wordCount": 936,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

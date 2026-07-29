@@ -1,0 +1,72 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Spot a Lowball Mineral Rights Offer",
+ "metaDescription": "Signs a Permian mineral or royalty offer is priced too low — flat multiples, no well data, pressure tactics, and how to benchmark it against your check.",
+ "heroLead": "I've seen the same mailer template land in Permian mailboxes for years, and the tell is almost always the same: a number with nothing behind it.",
+ "intro": [
+  "Mailbox offers aren't inherently dishonest — some buyers genuinely do work off broad averages because they're buying at volume and can't research every tract individually. But that same volume approach means the number they send you was never calculated from your actual well, and there's no way for a generic average to reflect what your specific interest is doing.",
+  "Here's what to check before you sign anything back, from someone who's spent years on the other side of the drilling program these checks are tied to. None of this requires a lawyer or an engineer to run through — just a few minutes with your own statements and a little skepticism about anything that arrives with a number and no explanation attached."
+ ],
+ "sections": [
+  {
+   "heading": "Did They Ask For Your Statements Before Quoting A Number?",
+   "paragraphs": [
+    "This is the single fastest tell. A buyer who's serious about pricing your interest correctly wants to see your royalty statements, your decimal interest, and ideally the well or wells your interest is tied to. If a letter arrives with a dollar figure already printed on it and no request for any of that information, the number was generated from a database of county averages, not your actual production. That doesn't make it fraudulent — it makes it a starting point at best, usually a low one, because a buyer pricing blind has every incentive to quote conservatively.",
+    "A real offer should be able to explain, at least in broad terms, how the number was built. If you ask and get a vague answer, that's worth noting."
+   ]
+  },
+  {
+   "heading": "Compare It Against Your Own Trailing Cash Flow",
+   "paragraphs": [
+    "Pull your last twelve to twenty-four months of royalty statements and add up your net income. Even a rough multiple applied to that trailing number will tell you whether an offer is in a reasonable range or well below it. If a buyer's number implies a multiple that seems dramatically lower than what you understand to be typical for a producing Permian royalty, ask them directly why — sometimes there's a real reason tied to a decline pattern or offset activity, and sometimes there isn't a good answer at all.",
+    "This is exactly why keeping your statements organized pays off — it's the fastest way to check any offer against your own numbers instead of taking someone else's math on faith."
+   ]
+  },
+  {
+   "heading": "Watch For Pressure And Artificial Deadlines",
+   "paragraphs": [
+    "A letter that says the offer expires in a set number of days, or a caller who pushes you to sign before you've had time to review the documents or talk to family, is using urgency instead of information to get a signature. Real value doesn't disappear in a week. If anything, a buyer confident in their number should be comfortable letting you take your time, get a second opinion, or run the math yourself.",
+    "It's reasonable to ask any buyer to hold an offer open while you review it, and how they respond to that request tells you something about how they operate."
+   ]
+  },
+  {
+   "heading": "Read What's Actually Being Bought",
+   "paragraphs": [
+    "Some offers quietly cover more than the specific interest you thought you were selling — check whether the purchase agreement describes your exact tract, your exact decimal interest, and whether it's limited to existing production or reaches forward to cover future wells drilled on the same unit. A vague legal description or blanket language covering 'all interests owned by seller in the county' can end up transferring more than you intended.",
+    "This is where reading the actual agreement, alongside the cover letter, matters — and it's a reasonable ask to have an attorney glance at it before you sign, especially on a larger interest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a mailbox offer with a flat number always a lowball?",
+   "answer": "Not always, but it's often priced conservatively because it's built from county averages rather than your specific well data. Treat it as a starting point worth benchmarking against your own statements, not a final number."
+  },
+  {
+   "question": "How can I tell if an offer reflects my actual production?",
+   "answer": "Ask whether the buyer requested your royalty statements, decimal interest, or well information before quoting a price. If they priced you without asking for any of that, the number likely comes from a broad average rather than your real interest."
+  },
+  {
+   "question": "Why would a buyer put a deadline on an offer?",
+   "answer": "Sometimes it reflects real commodity price movement, but it's also a common pressure tactic to get a signature before you've reviewed the offer or gotten a second opinion. A serious buyer should be willing to give you reasonable time to review the paperwork."
+  },
+  {
+   "question": "What should I check in the actual purchase agreement beyond the offer letter?",
+   "answer": "Confirm the legal description matches your exact tract and decimal interest, and check whether the sale is limited to your current interest or written broadly enough to reach future wells or additional acreage you didn't intend to include."
+  },
+  {
+   "question": "Is it reasonable to get a second opinion before accepting any offer?",
+   "answer": "Yes, and a buyer confident in their own number should have no issue with you doing so. Comparing an offer against another buyer's quote or against your own trailing cash flow calculation is a normal step, not a sign of distrust."
+  }
+ ],
+ "wordCount": 922,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-permianbasinroyaltybuyer-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

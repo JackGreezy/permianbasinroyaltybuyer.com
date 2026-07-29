@@ -1,0 +1,83 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "status": "written",
+ "metaTitle": "Selling Trust-Owned Permian Mineral Rights",
+ "metaDescription": "Trustee managing Permian Basin mineral or royalty interests inside a trust? An ex-operator on fiduciary duty, valuation, and the sale process for trustees.",
+ "heroLead": "A trustee has a duty to the beneficiaries that goes beyond just collecting a check, and that duty is exactly why trust-owned minerals deserve a more careful look than most.",
+ "intro": [
+  "Mineral rights held in a family trust come with a layer that a personally owned interest doesn't: the trustee's fiduciary obligation to manage the asset prudently for the beneficiaries, whether that's one surviving spouse, a group of adult children, or a trust set up for minors that won't distribute for years.",
+  "I've worked with trustees who are professional fiduciaries and trustees who are simply the oldest sibling who got named in the document, and the questions are usually the same: is the trust getting fair value from this interest, and does it make more sense to hold it or sell it. I've also worked with corporate trustees at banks and trust companies who need a documented, defensible valuation on file simply as a matter of standard fiduciary practice, separate from any active decision about whether to sell."
+ ],
+ "sections": [
+  {
+   "heading": "The trustee's duty on mineral assets",
+   "paragraphs": [
+    "Prudent management of a mineral interest generally means staying informed about production, making sure royalty is being paid correctly, and periodically evaluating whether continuing to hold the interest still serves the trust's purpose and the beneficiaries' interests, especially for a trust with a defined term or a specific income mandate.",
+    "Documentation matters here more than in a personal sale. A trustee should be able to show, if ever asked, that a decision to sell was based on a fair, current valuation rather than an arbitrary number, and I provide the documentation to support that.",
+    "Special needs trusts and trusts for minor beneficiaries carry an extra layer of caution, since the trustee's obligations often extend well beyond ordinary prudent investor standards. If your trust falls into either category, involve the trust's attorney early, before any valuation or sale discussion goes very far."
+   ]
+  },
+  {
+   "heading": "When selling makes sense for a trust",
+   "paragraphs": [
+    "Trusts with income mandates sometimes benefit from converting a volatile, declining royalty stream into a lump sum that can be reinvested into more predictable income-generating assets, which can better match what the trust document actually requires the trustee to provide beneficiaries. A small, hard-to-administer fractional interest can also be more trouble than it's worth relative to the trust's overall size.",
+    "On the other hand, some trusts are specifically structured to hold mineral assets long-term, and selling would run against the settlor's intent. That's a call the trustee makes with the trust document and, where appropriate, legal counsel, not something I'd ever push one way or the other on."
+   ]
+  },
+  {
+   "heading": "What I need from a trustee to move forward",
+   "paragraphs": [
+    "I'll need the trust document, or at least the certification of trust showing the trustee's authority to sell, recent production statements, and the deed or prior conveyance showing the trust's ownership. If there are co-trustees, I'll need to understand whether both need to sign or one has independent authority.",
+    "From there the process runs the same as any other sale, just with the trust's documentation standing in for an individual owner's, and I'm used to working within whatever review process a trustee needs to follow before authorizing a transaction like this."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can a trustee sell mineral rights without beneficiary approval?",
+   "answer": "It depends on the trust document. Many trusts give the trustee independent authority to sell assets, but some require beneficiary consent or court approval, so check your specific document."
+  },
+  {
+   "question": "What documents does a trustee need to sell mineral rights?",
+   "answer": "The trust document or certification of trust, recent production statements, and the deed showing the trust's ownership are the core pieces needed to move forward."
+  },
+  {
+   "question": "Is a trustee liable if they sell minerals below market value?",
+   "answer": "A trustee can face liability for failing to meet fiduciary duty, which is why documenting a fair, current valuation before selling matters for the trustee's own protection."
+  },
+  {
+   "question": "Should a trust hold or sell a declining mineral interest?",
+   "answer": "It depends on the trust's purpose and income requirements. A declining, volatile royalty stream may not match a trust mandate for stable income as well as a lump sum reinvested elsewhere would."
+  },
+  {
+   "question": "Can co-trustees disagree on selling a mineral interest?",
+   "answer": "It's possible, and how that's resolved depends on the trust document's rules about co-trustee authority. Some require unanimous agreement, others allow majority or independent action."
+  },
+  {
+   "question": "Does a corporate trustee at a bank need a different process than an individual trustee?",
+   "answer": "The underlying valuation and sale mechanics are the same, though corporate trustees often have internal approval processes and documentation standards that add steps before a sale is authorized."
+  },
+  {
+   "question": "How often should a trustee revalue mineral assets held in trust?",
+   "answer": "There's no fixed rule, but many trustees revisit valuations periodically, especially after a significant change in production, commodity prices, or nearby drilling activity."
+  },
+  {
+   "question": "Can a successor trustee sell minerals the original trustee never addressed?",
+   "answer": "Yes, once a successor trustee is properly appointed under the trust document, they generally inherit the same authority the original trustee held, including the ability to evaluate and sell trust assets like mineral interests."
+  },
+  {
+   "question": "Does the trust need its own tax identification number to receive sale proceeds?",
+   "answer": "Most trusts already have an EIN for tax reporting purposes, and that same number is typically used to receive proceeds from a mineral sale, separate from any individual beneficiary's Social Security number."
+  }
+ ],
+ "wordCount": 910,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

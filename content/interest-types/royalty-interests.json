@@ -1,0 +1,74 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "Permian Basin Royalty Interests: Owner's Guide",
+ "metaDescription": "Own a royalty interest in Permian Basin production? An ex-operator explains how royalty checks work, what drives them, and what the interest is worth.",
+ "heroLead": "A royalty interest is the cleanest position in this business: you collect a share of production revenue, and you never write a check back for drilling or operating costs.",
+ "intro": [
+  "A royalty interest entitles the owner to a fraction of production revenue from a well, free of the costs of drilling, completing, and operating it, which fall entirely on the working interest owner. That cost-free structure is what makes royalty ownership fundamentally different from being a working interest partner, and it's the position most Permian mineral owners actually hold once their acreage is leased and producing.",
+  "The royalty rate itself comes from whatever was negotiated in the original lease, historically often one-eighth on older leases, more commonly a quarter or more on modern Permian leases signed during competitive leasing periods. That rate, multiplied against your net revenue interest in the specific well, is what determines your check. I also ask whether your royalty is calculated at the wellhead or at the point of sale downstream, since that distinction affects which costs get deducted before your check is calculated and can explain differences between two owners with the same nominal royalty rate on the same well."
+ ],
+ "sections": [
+  {
+   "heading": "How a royalty check actually gets calculated",
+   "paragraphs": [
+    "Your check reflects your royalty rate, multiplied by your net revenue interest, which accounts for your fractional ownership within the spacing unit, multiplied by the well's actual production and the price received for that production, minus certain post-production costs depending on how your specific lease was worded regarding gathering, transportation, and processing deductions.",
+    "Those post-production deductions vary lease to lease and can meaningfully affect your net check even when gross production and prices look strong. If your statement shows deductions you don't understand, it's worth pulling your original lease and checking exactly how it addresses cost-free versus cost-bearing royalty language.",
+    "Commodity price also plays a direct role that's easy to forget month to month. The same well producing the same volume of oil and gas can generate very different royalty checks depending on where prices sit, which is why a single month's statement is a poor basis for judging an interest's overall value either way."
+   ]
+  },
+  {
+   "heading": "What makes one royalty interest worth more than another",
+   "paragraphs": [
+    "Two royalty interests with the same rate on paper can be worth very different amounts depending on the well's decline stage, the operator's activity level in that unit, and whether additional wells are likely to be drilled on the same spacing unit in coming years. A quarter royalty on a mature, flat-declining well and a quarter royalty on a brand-new high-rate well require completely different math to value fairly.",
+    "This is why I always ask for actual statements rather than working off the royalty rate alone. The rate tells you your share, the production history tells you what that share is actually worth."
+   ]
+  },
+  {
+   "heading": "Selling a royalty interest versus holding it",
+   "paragraphs": [
+    "Holding a royalty interest means continuing to collect whatever the well produces over its remaining life, with all the volatility that comes from commodity prices and natural decline. Selling converts that uncertain future stream into a lump sum today, priced against current production and a reasonable estimate of remaining decline.",
+    "There's no universal right answer between the two. I'll give you a fair number based on your actual statements and let you weigh it against your own situation, whether that's wanting steady income for years or wanting certainty and liquidity now."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I pay any costs as a royalty interest owner?",
+   "answer": "No, royalty owners don't bear drilling or operating costs. You may see certain post-production deductions on your statement depending on your specific lease's language, but not development costs."
+  },
+  {
+   "question": "What's a typical royalty rate in the Permian Basin?",
+   "answer": "Historically one-eighth on older leases, though modern Permian leases signed during competitive periods commonly run a quarter or higher, depending on the negotiating leverage at the time."
+  },
+  {
+   "question": "Why did my royalty check drop even though the well is still producing?",
+   "answer": "Natural decline, lower commodity prices, or post-production deductions can all reduce a check even with steady production. Reviewing your statement's detail line by line usually explains it."
+  },
+  {
+   "question": "Can I sell just one well's royalty and keep others?",
+   "answer": "Yes, if you hold royalty interests across multiple wells or tracts, you can typically sell them individually rather than as an all-or-nothing package."
+  },
+  {
+   "question": "How do I know what my royalty interest is currently worth?",
+   "answer": "Share your recent statements and I'll give you a straightforward read based on actual production and decline, rather than a generic estimate based on the royalty rate alone."
+  },
+  {
+   "question": "What's the difference between wellhead and point-of-sale royalty calculations?",
+   "answer": "A wellhead royalty is calculated before certain transportation and processing costs are deducted. A point-of-sale royalty may have more deductions applied first, which can result in a lower net check for the same gross production."
+  },
+  {
+   "question": "Does a royalty interest ever expire on its own?",
+   "answer": "No, a royalty interest tied to the mineral estate generally lasts as long as the minerals do, unlike an overriding royalty interest, which is tied to and expires with a specific lease."
+  }
+ ],
+ "wordCount": 867,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

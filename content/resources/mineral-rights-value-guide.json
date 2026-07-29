@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Permian Mineral Rights Are Worth in 2026",
+ "metaDescription": "How Permian mineral and royalty value is actually estimated — multiples on your check, decline, offset activity, and why no honest number is a flat rate.",
+ "heroLead": "Anyone who quotes you a flat dollar-per-acre number without asking a single question about your well hasn't looked at your interest — they've looked at a spreadsheet.",
+ "intro": [
+  "I ran drilling and completions programs in the Permian for close to three decades before I started looking at this from the buy side, and if there's one thing that hasn't changed, it's that value here is built from the well up, not the county down. Two owners a mile apart in the same section can hold interests worth very different amounts depending on which wellbore they're under, how far along that well is in its decline, and what's permitted or planned next door.",
+  "This page walks through how buyers actually build a number, so you can tell a grounded offer from a mailer that's fishing for a signature."
+ ],
+ "sections": [
+  {
+   "heading": "The Multiple-On-Cash-Flow Method",
+   "paragraphs": [
+    "For a producing royalty, the most common approach is a multiple applied to trailing cash flow — typically your average monthly or annual net royalty income multiplied by a factor that reflects how many years of that income a buyer is effectively paying for up front. That multiple moves with commodity prices, with how much of the well's decline has already played out, and with how much drilling activity is happening around your tract. It is never a fixed number, and anyone who quotes one without asking for your last twelve to twenty-four months of statements is guessing rather than pricing.",
+    "This is why sending your actual royalty stubs speeds up getting a real number instead of a placeholder one — a buyer working from your real production history can price close to what they'd actually pay, instead of padding the offer down to cover their own uncertainty."
+   ]
+  },
+  {
+   "heading": "Where Your Well Sits On The Decline Curve",
+   "paragraphs": [
+    "A brand-new Permian horizontal typically produces its steepest volumes in the first year, then settles into a long, shallow tail. A well that's three months into production and still near its peak is priced very differently from one that's four years in and has flattened out — the first has more remaining value ahead of it but also more uncertainty about how steep the early decline will run; the second has a track record buyers can underwrite with more confidence, even though the absolute monthly number is lower. Neither position is automatically worth more — it depends on how the math nets out once decline is modeled forward.",
+    "This is also where non-producing or undeveloped minerals differ sharply from producing royalties: without a check history to work from, value leans much more heavily on offset well performance and permitted activity than on anything you personally can hand over."
+   ]
+  },
+  {
+   "heading": "Offset Activity: Midland Basin Versus Delaware Basin",
+   "paragraphs": [
+    "Position inside the basin matters. Midland Basin acreage tends to be shallower, with a longer multi-decade drilling history and generally lower well costs, which shows up as somewhat steadier, more predictable well performance across a given section. Delaware Basin wells often carry higher initial rates and higher pressure, which can mean stronger early volumes but also a steeper early decline and more variability well to well. Neither basin position produces a uniformly higher or lower value — what matters is which operator is active on your specific acreage, how many wells they've permitted nearby, and whether recent offset wells have come in strong or soft.",
+    "County-level averages you'll see quoted online are a starting point at best. A well two sections over with a different operator and different completion design can move your real number meaningfully in either direction."
+   ]
+  },
+  {
+   "heading": "What A Non-Producing Interest Is Actually Priced Against",
+   "paragraphs": [
+    "If your minerals have never been leased or drilled, there's no check to build a multiple against, so value is estimated differently — largely against comparable lease bonus and royalty terms being paid on nearby acreage, adjusted for how likely near-term drilling actually looks given permitted locations and operator activity in your section. This is inherently a wider range than a producing royalty, and any number quoted here should be presented as an estimate tied to current activity, not a promise.",
+    "If you're holding non-producing minerals and there's real drilling news nearby, that's usually the moment value estimates move the most — worth revisiting a quote rather than assuming an old number still holds."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a standard dollar-per-acre price for Permian mineral rights?",
+   "answer": "No, and treat any number quoted without questions as a starting bid, not a valuation. Price depends heavily on whether the tract is producing or undeveloped, which well or wells it's tied to, where that well sits on its decline curve, and how much offset drilling is happening nearby. The same county can show a wide range of real transaction prices in a single year."
+  },
+  {
+   "question": "Why do buyers ask for my royalty statements before quoting a price?",
+   "answer": "Statements show actual production and payment history, which lets a buyer model your remaining value with real numbers instead of county averages. Owners who send statements up front generally get a tighter, more accurate first offer than owners who don't."
+  },
+  {
+   "question": "Does a non-producing mineral interest have any value?",
+   "answer": "Often yes, especially in an active part of the Midland or Delaware basin, but the value estimate leans on comparable lease and royalty terms nearby rather than a check history, so the range tends to be wider than for a producing royalty. Nearby permits and recent leasing activity are the biggest drivers."
+  },
+  {
+   "question": "Will my mineral rights be worth more if I wait for oil prices to rise?",
+   "answer": "It can work either way. Commodity price is one input among several — decline stage, offset activity, and drilling permits often move the number as much as price does. There's no way to guarantee a future price outcome, so waiting is a bet, not a certainty."
+  },
+  {
+   "question": "How do I get an estimate that reflects my actual interest instead of a generic average?",
+   "answer": "Send your legal description, your decimal interest if you have it, and your last several royalty statements if the interest is producing. That's what lets a buyer build a number against your real well and your real payment history instead of a county-wide guess."
+  }
+ ],
+ "wordCount": 1053,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-permianbasinroyaltybuyer-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

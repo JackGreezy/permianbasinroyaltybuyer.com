@@ -1,0 +1,75 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "status": "written",
+ "metaTitle": "Selling Estate Minerals in Probate | Permian Basin",
+ "metaDescription": "Executor or administrator handling Permian Basin mineral rights in an estate? An ex-operator explains valuation and the mechanics of an estate sale.",
+ "heroLead": "An executor's job is to settle the estate fairly, and that gets harder when one of the assets on the list is a mineral interest nobody else in the family fully understands.",
+ "intro": [
+  "When I get a call from an executor or estate administrator, it's usually because a mineral or royalty interest showed up in the inventory and nobody handling the estate has dealt with one before. That's normal. Most people aren't in the oil and gas business, and figuring out what an interest is worth while also managing every other estate asset is a lot to carry.",
+  "My job in that situation is straightforward: give you an honest, documented valuation you can use for the estate's records, and if the beneficiaries decide to sell rather than distribute the interest in kind, handle that sale cleanly within whatever the court or the will requires. I've worked with executors managing everything from a single small royalty interest to a scattered portfolio of mineral positions across four or five different Permian counties, all inherited from one estate, and the paperwork burden scales with that complexity fast."
+ ],
+ "sections": [
+  {
+   "heading": "Why estates often sell rather than distribute minerals",
+   "paragraphs": [
+    "Distributing a mineral interest among multiple beneficiaries means each one ends up with a small fractional share and their own ongoing division order relationship with the operator, which can be more administrative burden than any of them want, especially for a modest interest. Selling the interest as part of estate settlement and distributing cash instead is often simpler for everyone and avoids creating new fractional interests that get harder to manage with each generation.",
+    "That said, it's the beneficiaries' and executor's call, not mine. Some families do want to keep mineral rights in the family, and that's a legitimate choice when the interest is meaningful enough to justify it.",
+    "If the decedent held interests in multiple counties, expect to deal with more than one set of county records, since Texas probate matters are typically filed in the county of residence while the mineral records themselves sit in whatever county the acreage is actually located, which may be a different county entirely."
+   ]
+  },
+  {
+   "heading": "What an estate needs for a clean valuation",
+   "paragraphs": [
+    "For probate purposes, I'll need the same basics any buyer needs, recent statements or division order information, the legal description of the tract, and confirmation of the decedent's ownership, plus whatever the court requires to show the executor has authority to act, typically letters testamentary or letters of administration.",
+    "If the estate is going through independent administration in Texas, the process tends to move faster than dependent administration, which may require court approval for the sale itself. I've worked through both and can tell you early which situation you're in based on how the estate is being administered."
+   ]
+  },
+  {
+   "heading": "Timing the sale against the estate's needs",
+   "paragraphs": [
+    "Some estates need liquidity quickly, to cover final expenses, taxes, or an equal cash distribution among heirs who don't want to hold a shared mineral interest. Others are in less of a hurry and want the valuation on record while they finish administering everything else before deciding on a sale.",
+    "I can move at whatever pace the estate needs, whether that's a fast close to help settle final expenses or simply providing a documented offer the executor can hold onto and revisit once probate is further along."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an executor sell mineral rights before probate is finalized?",
+   "answer": "In many cases yes, once letters testamentary or letters of administration are issued, though it depends on whether the estate is under independent or dependent administration and what the will authorizes."
+  },
+  {
+   "question": "Do all beneficiaries have to agree to sell estate minerals?",
+   "answer": "If the executor has authority to sell as part of settling the estate, individual beneficiary consent for that sale isn't always required, though good practice is to keep everyone informed."
+  },
+  {
+   "question": "How is a mineral interest valued for estate and tax purposes?",
+   "answer": "Typically based on recent production history and current market conditions as of the date of death, which is different from a forward-looking sale price. I can provide documentation reflecting current value."
+  },
+  {
+   "question": "What documents does a buyer need from an executor?",
+   "answer": "Letters testamentary or administration, the death certificate, the will if applicable, and recent production statements or the deed showing the decedent's ownership."
+  },
+  {
+   "question": "Is selling minerals during probate faster than after distribution?",
+   "answer": "Often yes, because it avoids the extra step of retitling the interest into multiple heirs' names before a sale, which adds time and paperwork on the back end."
+  },
+  {
+   "question": "What if the decedent owned minerals in multiple Permian counties?",
+   "answer": "Each tract's ownership is confirmed through the deed records in its own county, even though the probate itself is typically administered in the decedent's county of residence."
+  },
+  {
+   "question": "Does the estate need a separate appraisal for each mineral interest?",
+   "answer": "Not necessarily separate appraisals, but each distinct interest generally needs its own valuation based on its specific production history, since they rarely share identical value even within the same estate."
+  }
+ ],
+ "wordCount": 851,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Permian Mineral Rights",
+ "metaDescription": "The paperwork a Permian mineral or royalty sale actually needs — deed, statements, tax ID, and what to do if you're missing something.",
+ "heroLead": "Nobody hands new mineral owners a folder to keep this stuff in, so most of it ends up scattered across a shoebox, a filing cabinet, and someone's email inbox.",
+ "intro": [
+  "Getting a fast, accurate offer and a smooth closing comes down almost entirely to how quickly you can put your hands on a handful of documents. None of this is exotic — it's the same paperwork that's been generated at every step of owning the interest, from the original deed to your most recent statement. What follows is what actually gets asked for, in roughly the order it matters.",
+  "If you're missing something on this list, that's normal and rarely a dealbreaker — most gaps can be filled through the county clerk's office or the operator's owner relations department."
+ ],
+ "sections": [
+  {
+   "heading": "The Deed Or Document Showing How You Acquired The Interest",
+   "paragraphs": [
+    "This is the foundation of title — a mineral deed, a warranty deed reserving minerals, a probate order, or whatever document established your ownership. If you don't have your own copy, the county clerk's office where the minerals are located keeps recorded copies going back decades, and most now have searchable online records. Note the instrument number and recording date if you can find them; it speeds up any title search considerably.",
+    "If your interest passed through inheritance and you're not sure whether it was formally probated, that's worth flagging now rather than discovering it during title review."
+   ]
+  },
+  {
+   "heading": "Recent Royalty Statements, If The Interest Is Producing",
+   "paragraphs": [
+    "Twelve to twenty-four months of statements is the standard ask, since that's what a buyer uses to build an accurate offer instead of a county-average guess. If you've been getting statements electronically, most operator portals let you download a batch at once; if you've been filing paper stubs, a simple photo or scan of each is fine. The more complete the run, the more precise the number a buyer can put in front of you.",
+    "If your check comes through a third-party payer rather than directly from the operator, note that too — it doesn't complicate things, but a buyer will want to know who to contact for production verification."
+   ]
+  },
+  {
+   "heading": "Your Decimal Interest Or Division Order",
+   "paragraphs": [
+    "If you've signed a division order, it will have your exact decimal interest printed on it — hand that over directly. If you've never received one or can't find it, that's fine; a buyer can often work it out from your statements and your deed's legal description. Just don't assume the decimal you remember from years ago is still current, since unit revisions or additional wells can change it.",
+    "This is also a good moment to double-check that decimal against your lease if you have any doubt about its accuracy — see our division orders guide for how that math works."
+   ]
+  },
+  {
+   "heading": "Basic Identification And Tax Information",
+   "paragraphs": [
+    "Closing requires standard identity verification — a government-issued ID and typically a completed W-9 for tax reporting purposes. If the interest is held in a trust, an LLC, or an estate rather than in your individual name, bring the entity's formation documents and confirmation of who has authority to sign on its behalf, since that changes the closing paperwork slightly. None of this is unusual; it's the same documentation any financial transaction of this size requires.",
+    "Keep a copy of everything you provide and everything you sign — your CPA will want the closing statement and final production records when it's time to report the sale."
+   ]
+  },
+  {
+   "heading": "Well Or Unit Identification, If You Have It",
+   "paragraphs": [
+    "If you know the name of the well or unit your interest is tied to, or the API number, include it — it lets a buyer pull production records directly instead of relying on your legal description alone to figure out which well is producing your check. This information is often printed right on your royalty statement near the property name, so it's usually the fastest thing to grab from paperwork you already have on hand.",
+    "If you don't have this and only know your county and rough location, that's still workable — a buyer can typically identify the well from your decimal interest and legal description, it just adds a step to the research."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find my original mineral deed?",
+   "answer": "The county clerk's office where the minerals are located keeps recorded copies, often searchable online going back many years. A buyer or title company can typically help locate it if you're not sure how to search."
+  },
+  {
+   "question": "Do I need every single royalty statement, or just recent ones?",
+   "answer": "Twelve to twenty-four months of recent statements is generally enough to build an accurate offer. Older statements can be useful for context but aren't usually required to get started."
+  },
+  {
+   "question": "What documents are needed if the mineral interest is held in a trust or LLC?",
+   "answer": "In addition to the standard deed and production documentation, bring the entity's formation documents and confirmation of signing authority, since the closing paperwork needs to reflect who's legally authorized to convey on the entity's behalf."
+  },
+  {
+   "question": "Is a W-9 required to sell mineral rights?",
+   "answer": "Yes, typically, since the sale proceeds generally need to be reported for tax purposes. This is standard for any transaction of this kind and isn't specific to any one buyer."
+  }
+ ],
+ "wordCount": 898,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

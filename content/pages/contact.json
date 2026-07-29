@@ -1,0 +1,79 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Permian Basin Royalty Buyer",
+ "metaDescription": "Reach out about your Permian mineral or royalty interest — questions, statements, or a request for an offer, no obligation and no pressure.",
+ "heroLead": "Whether you have a specific question about a statement or you're ready to send documentation for an offer, one person reads and responds to what comes in here.",
+ "intro": [
+  "You don't need to already know what you own to reach out. Plenty of owners start with a question — what's a division order, why did my check drop, is my county one you buy in — and the conversation goes from there. We'd rather answer a question honestly than have you guess.",
+  "If you're ready to move further, include whatever documentation you have and we'll follow up with next steps, typically within a business day or two."
+ ],
+ "sections": [
+  {
+   "heading": "What To Include If You're Ready For An Offer",
+   "paragraphs": [
+    "Your county, your interest type if you know it, and any documentation you can attach — statements, a deed, or a division order. If you're missing something, send what you have; incomplete is a fine place to start, and we'll tell you what else would help.",
+    "If your interest is held in a trust, LLC, or estate rather than in your individual name, mention that up front — it changes a few details of how we structure the paperwork but doesn't change the process."
+   ]
+  },
+  {
+   "heading": "What To Include If You Just Have A Question",
+   "paragraphs": [
+    "General questions don't require any documentation at all. If you're trying to understand a line on your statement, whether a mailer offer you received looks reasonable, or what a division order is asking you to sign, just describe the situation and we'll answer plainly. This kind of question is common, and answering it doesn't commit you to anything.",
+    "Our resource library covers most of these topics in depth if you'd rather read through them on your own time first."
+   ]
+  },
+  {
+   "heading": "Response Time And What Happens Next",
+   "paragraphs": [
+    "One person reviews inquiries and responds directly — you won't be routed through a call center or a rotating rep. For a straightforward question, expect a response within a business day or two. For an offer request, we'll typically confirm receipt quickly and follow up with either a written offer or a request for a bit more information within a few business days.",
+    "There's no cost to reach out and no obligation attached to any response you receive."
+   ]
+  },
+  {
+   "heading": "If You're Contacting Us About A Title Or Ownership Question",
+   "paragraphs": [
+    "Some of the messages we get aren't about pricing at all — they're from owners trying to sort out whether an interest was ever probated, whether a name discrepancy on an old deed is a real problem, or how to track down a legal description for land that's been in the family for decades. We field these regularly and can usually point you toward the right next step, whether that's a call to a specific county clerk's office or a note that this particular question needs an attorney rather than us.",
+    "We're not attorneys ourselves, so for anything that touches an actual legal dispute or a formal probate filing, we'll tell you plainly that it's outside what we can advise on, and we'd rather say that upfront than pretend otherwise."
+   ]
+  },
+  {
+   "heading": "If You've Already Received An Offer From Someone Else",
+   "paragraphs": [
+    "It's common for owners to reach out holding a mailer offer from another buyer and wanting a second opinion before responding. Send us what you were offered along with your county and interest type, and we'll give you an honest read on whether it looks reasonable against typical activity in that area — even if that means telling you the other offer looks fair and you don't need to switch buyers.",
+    "There's no obligation attached to this kind of question either, and comparing offers before deciding is a normal, sensible step that any legitimate buyer should be comfortable with you taking."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to have documentation ready before I contact you?",
+   "answer": "No. You're welcome to reach out with just a question, or with partial information. We'll tell you what would help move things forward if you decide to pursue an offer."
+  },
+  {
+   "question": "How quickly will I hear back?",
+   "answer": "Typically within a business day or two for general questions, and within a few business days for a written offer once we have enough documentation to price your interest accurately."
+  },
+  {
+   "question": "Will I be talking to the same person throughout the process?",
+   "answer": "Yes. One point of contact handles your file from the first message through closing, so you're not repeating your situation to a new person each time."
+  },
+  {
+   "question": "Is contacting you the same as agreeing to sell?",
+   "answer": "No. Reaching out, asking questions, or even requesting a written offer carries no obligation. You decide at every step whether to move forward."
+  },
+  {
+   "question": "Can I reach out on behalf of a family member or as one of several heirs?",
+   "answer": "Yes. Tell us the situation up front, including who else is involved in the interest, and we'll walk you through what's needed on the ownership side before any paperwork moves forward. This is common with interests split among heirs and doesn't slow things down if it's flagged early."
+  }
+ ],
+ "wordCount": 859,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

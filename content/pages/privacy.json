@@ -1,0 +1,75 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy — Permian Basin Royalty Buyer",
+ "metaDescription": "How Permian Basin Royalty Buyer collects, uses, and protects the information you share when requesting an offer or contacting us about mineral rights.",
+ "heroLead": "You're sharing production statements, deeds, and personal identifying information with us during this process, and you deserve a plain explanation of what happens to it.",
+ "intro": [
+  "This page explains what information we collect when you contact us or request an offer, how we use it, who we share it with, and how you can ask questions or request changes. We've tried to write it the way we'd want it explained to us — without the density that makes most privacy policies unreadable.",
+  "If anything here is unclear, reach out through our contact page and we'll answer directly rather than pointing you back to the fine print."
+ ],
+ "sections": [
+  {
+   "heading": "What Information We Collect",
+   "paragraphs": [
+    "When you reach out through this site — whether by submitting a form, calling, or emailing — we collect what you provide: your name, phone number, email address, mailing address, and any documentation you choose to share, such as royalty statements, deeds, division orders, or legal descriptions of your interest. If you request an offer, we may also collect your decimal interest, well or unit information, and identity verification documents like a copy of a government-issued ID once a transaction moves toward closing.",
+    "We also collect limited technical information automatically when you visit the site, such as your browser type and general location inferred from your IP address, primarily for basic site functionality and security. We do not use this technical data to build an advertising profile on you."
+   ]
+  },
+  {
+   "heading": "How We Use Your Information",
+   "paragraphs": [
+    "We use the information you provide to research your mineral or royalty interest, prepare a written offer, communicate with you about that offer, and — if you choose to proceed — complete title review and closing on a sale. Documentation like royalty statements and deeds is used specifically to build an accurate valuation of your interest; we don't repurpose it for unrelated marketing.",
+    "If you contact us with a general question and don't move forward with an offer, we retain your inquiry only long enough to respond and for a reasonable period afterward in case you follow up, consistent with our data retention practices described below."
+   ]
+  },
+  {
+   "heading": "Who We Share Information With",
+   "paragraphs": [
+    "We do not sell your personal information. We may share relevant details with third parties directly necessary to complete a transaction you've chosen to pursue — a title company conducting title review, an attorney handling closing documents, or the county clerk's office where a deed is recorded, since recording is a public process by law. We may also share information with service providers who help operate this site, such as hosting or communications infrastructure, under confidentiality obligations consistent with the purposes described here.",
+    "We may disclose information if required by law, subpoena, or court order, or if necessary to protect our legal rights or the safety of others. Outside of these circumstances, your information stays within the scope of the transaction you're engaged in with us."
+   ]
+  },
+  {
+   "heading": "How Long We Keep Your Information And How You Can Request Changes",
+   "paragraphs": [
+    "For completed transactions, we retain records — including closing documents and production information used in valuation — for as long as reasonably necessary to comply with legal, tax, and recordkeeping obligations related to mineral rights transactions. For inquiries that don't result in a transaction, we retain contact information for a reasonable period in case you follow up, and you can request deletion at any time.",
+    "You can request a copy of the information we hold about you, ask us to correct inaccurate information, or request deletion of information not required for a completed transaction's legal recordkeeping, by contacting us directly. We'll respond to reasonable requests promptly."
+   ]
+  },
+  {
+   "heading": "Security And Updates To This Policy",
+   "paragraphs": [
+    "We use reasonable administrative and technical safeguards to protect the information you share with us, including sensitive documents like statements and identifying information, but no method of transmission or storage is completely secure, and we can't guarantee absolute security. If you have a specific concern about how you're sharing documentation with us, ask and we'll work with you on a more secure option.",
+    "We may update this policy from time to time as our practices or applicable law change. Material changes will be reflected with an updated date on this page, and continued use of the site after changes are posted constitutes acceptance of the updated policy."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my personal information to other companies?",
+   "answer": "No. We don't sell personal information. We only share what's necessary to complete a transaction you've chosen to pursue, such as with a title company or for county recording, or as required by law."
+  },
+  {
+   "question": "What happens to my royalty statements and deed once I send them?",
+   "answer": "They're used to research and value your interest and, if you proceed, to support title review and closing. We retain transaction records as long as reasonably necessary for legal and recordkeeping purposes, and you can ask about deletion of information tied to inquiries that didn't result in a sale."
+  },
+  {
+   "question": "Can I ask what information you have on file about me?",
+   "answer": "Yes. Contact us directly and we'll provide a copy of the information we hold, correct anything inaccurate, or delete information that isn't required for legal recordkeeping on a completed transaction."
+  },
+  {
+   "question": "Is it safe to email sensitive documents like my deed or statements?",
+   "answer": "We use reasonable safeguards to protect information you share, but no transmission method is completely secure. If you'd prefer a more secure way to share sensitive documents, let us know and we'll work with you on an alternative."
+  }
+ ],
+ "wordCount": 936,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

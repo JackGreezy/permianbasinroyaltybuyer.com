@@ -1,0 +1,79 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read a Permian Royalty Statement",
+ "metaDescription": "A former operator walks through a real Permian royalty stub line by line — gross value, deductions, decimal interest, and why the number moves every month.",
+ "heroLead": "Pull out your last royalty check stub and keep it next to you while you read this — every line on that page is telling you something, and almost nobody ever sits an owner down and explains it.",
+ "intro": [
+  "I spent most of my career on the operator side in the Permian, and one thing never changed: the division order department mails out thousands of these statements a month, and maybe one owner in fifty calls in with a question that shows they actually understand what they're looking at. That's not a knock on owners. The stub is dense on purpose — it packs a well's entire monthly accounting into a handful of columns, and nobody hands you a legend.",
+  "This is the legend. If you own a royalty or an ORRI in the Midland or Delaware basin, learning to read this document is the single most useful thing you can do before you ever talk to a buyer, because it tells you whether an offer against your check makes sense or whether someone is quoting you against a number that doesn't match your actual interest."
+ ],
+ "sections": [
+  {
+   "heading": "The Header Block: Property, Owner Number, and Interest Type",
+   "paragraphs": [
+    "Top of the page you'll find the well or unit name, an API number (that's the well's permanent state ID, useful if you ever want to pull production history yourself), and your owner number — the operator's internal account for you. Next to it sits your interest type: RI for a straight royalty interest, ORRI for an overriding royalty carved out of a working interest, sometimes WI if you inherited a working interest instead of a royalty. That distinction matters more than most owners realize, because a working interest carries cost exposure a royalty interest never does — if you're not sure which one you hold, that's the first thing to nail down before you talk value with anyone.",
+    "You'll also see your decimal interest, usually written as something like 0.00234567. That number is the fraction of the well's production that's yours, derived from your net mineral acres divided by the spacing unit's total acreage, multiplied by the royalty fraction in the lease. It's worth double-checking against your lease and any division order you signed — decimal errors happen, especially on older wells that have gone through multiple unit revisions."
+   ]
+  },
+  {
+   "heading": "Gross Value, Then Everything That Gets Taken Out",
+   "paragraphs": [
+    "The stub will show gross value — your share of what the oil or gas actually sold for before anything is subtracted. Below that come the deductions, and this is where most confusion starts. Depending on your lease language, you may see gathering, compression, dehydration, and transportation charges, plus severance tax and ad valorem tax. Some older Permian leases were written with a clean 'proceeds' clause that doesn't allow post-production deductions; a lot of leases from the 1980s and 90s allow them explicitly. If your net check is running noticeably lower than gross value as a percentage, it's usually the post-production deduction language in your lease, not an error.",
+    "What lands in your account after all of that is net value, and that's the number that actually gets paid. When someone quotes an offer 'based on your monthly check,' make sure you're both talking about the same figure — gross and net can differ enough to change the math on a valuation."
+   ]
+  },
+  {
+   "heading": "Why Oil And Gas Move On Different Lines",
+   "paragraphs": [
+    "Most Permian royalty owners get paid on both oil and associated gas out of the same wellbore, and the two behave differently on the page. Oil is usually sold at a posted price with a differential tied to the local grade — West Texas Intermediate quoted against a regional basis. Gas gets priced against a index point, and in a lot of Permian wells the gas volume includes natural gas liquids stripped out and sold separately at their own price. That's why your gas line can swing harder month to month than your oil line — it's carrying commodity price, NGL price, and processing terms all at once.",
+    "None of this means the operator is doing anything wrong. It means two commodities with different markets are riding in the same check, and reading them separately tells you more than watching the total."
+   ]
+  },
+  {
+   "heading": "Reading The Trend, Not One Month",
+   "paragraphs": [
+    "A single low month rarely tells you the real story. Wells in the Permian decline steeply in year one — sometimes 60 to 70 percent off the peak month within the first twelve months is normal for an unconventional lateral — then the decline flattens into a long shallow tail that can run for decades. If your check has been dropping steadily for a year and a half, that's likely the well doing what wells do, not a mistake. What's worth flagging is a sudden cliff with no explanation, a check that goes to zero without a shut-in notice, or an interest that was paying and just stops.",
+    "Lay your last twelve to twenty-four stubs side by side before you draw a conclusion about value or decline. One month is noise. A trend line is signal."
+   ]
+  },
+  {
+   "heading": "When The Numbers Genuinely Don't Add Up",
+   "paragraphs": [
+    "Sometimes the stub really is wrong. Common causes: a title dispute or missing heirship paperwork puts your interest into suspense (your share accrues but isn't paid out until the operator clears title), a decimal interest gets miscalculated after a unit is re-drawn, or an operator changes hands and the new company's division order department hasn't finished onboarding your file. If you see 'suspense' anywhere on a statement, that's the operator's own flag that something needs to be resolved on their end — usually a phone call and a document, not a fight.",
+    "Keep your statements. A stack of consistent monthly stubs is the clearest evidence of what an interest has actually produced, and it's the first thing any serious buyer or your own tax preparer will want to see."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check drop by half in one month?",
+   "answer": "Check the volume line first, alongside the dollar total. A steep drop is often decline curve behavior in year one or two of a well's life, or a price swing on oil or gas that month. If volume held steady and the price didn't move much but your check still fell, ask the operator's owner relations line for an explanation — it could be a deduction change or a suspense adjustment."
+  },
+  {
+   "question": "What's the real difference between gross value and net value on my stub?",
+   "answer": "Gross value is your share of the sale price before anything comes out. Net value is what's actually deposited after post-production costs and taxes are deducted, per the terms of your specific lease. Two owners in the same well can see different net percentages if their leases were negotiated at different times with different deduction language."
+  },
+  {
+   "question": "What does it mean if my statement shows an amount 'in suspense'?",
+   "answer": "Suspense means the operator has calculated your share but is holding payment, usually because of an unresolved title issue, a probate that hasn't been finalized, or missing paperwork on your end like a W-9 or a division order signature. It's recoverable once the underlying issue is cleared, but it does require you to act."
+  },
+  {
+   "question": "How do I check whether my decimal interest is correct?",
+   "answer": "Pull your original lease and any division order you signed, and work the math yourself: your net mineral acres divided by the total acres in the spacing unit, multiplied by the royalty fraction in the lease. If your stub's decimal doesn't match that calculation, call the division order department and ask them to walk through their number with you."
+  },
+  {
+   "question": "Should I keep old royalty statements once I've been paid?",
+   "answer": "Yes, for at least several years. They're your production history, they support your tax reporting, and they're the strongest evidence you have if you ever want a second opinion on value or need to correct an error later. A buyer worth talking to will also want to see them before quoting a number against your interest."
+  }
+ ],
+ "wordCount": 1367,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

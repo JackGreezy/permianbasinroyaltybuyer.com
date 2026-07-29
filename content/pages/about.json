@@ -1,0 +1,68 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Permian Basin Royalty Buyer",
+ "metaDescription": "Why this site exists, how we work, and what we believe about the Permian mineral market — from a former operator now buying directly from owners.",
+ "heroLead": "I spent my career on the operator side of the Permian, and this site exists because of a gap I watched from that side of the table for years: owners getting a number with no explanation behind it.",
+ "intro": [
+  "Division order departments mail out thousands of royalty statements a month, and almost nobody sits an owner down to explain what any of it means. Buyers mail out flat-rate offers built from county averages, and almost nobody explains where that number came from either. That gap between what owners are told and what's actually happening with their production is the reason this site exists, and it shapes how we work.",
+  "We're a direct buyer of mineral and royalty interests across the Permian Basin. We're not a licensed appraiser, an attorney, or a CPA, and we say that plainly rather than let anyone assume otherwise."
+ ],
+ "sections": [
+  {
+   "heading": "How We Work",
+   "paragraphs": [
+    "One person handles your file from the first conversation through closing — you're not repeating your situation to a new voice every time you call. Every offer comes with an explanation of how the number was built, along with the number itself. If title turns up a wrinkle, we say what it is and what it takes to fix rather than letting a deal go quiet. And we don't put artificial deadlines on offers; taking a week or a month to think it over, or to get a second opinion, doesn't cost you anything with us.",
+    "We put the actual math on the table where we can — trailing cash flow, decline stage, offset activity — instead of asking you to trust a single number with no context behind it. If something about your interest makes it hard to price precisely, we'll tell you that too, rather than pretending certainty we don't have."
+   ]
+  },
+  {
+   "heading": "What We Believe About This Market",
+   "paragraphs": [
+    "We believe an informed owner makes a better counterparty than an uninformed one, even when that means an owner reads our own guides, gets a second opinion, and decides not to sell to us at all. That's a deliberate choice — this site's resource library covers statements, appraisals, title, and taxes in enough depth to be genuinely useful whether or not you ever talk to us, because the alternative is an industry where the party with more information always has the advantage.",
+    "We also believe local fluency matters more than most buyers let on. A Midland Basin well and a Delaware Basin well don't behave the same, and pricing them off the same blended average is how owners end up either overpaying attention to a lowball or missing a legitimate offer because it looks too similar to the junk mail they're used to."
+   ]
+  },
+  {
+   "heading": "Where We Work",
+   "paragraphs": [
+    "We buy across the core producing counties on both sides of the Permian — the shallower, longer-history acreage typical of the Midland Basin, and the higher-pressure, steeper-decline acreage more common toward the Delaware Basin. Spacing units, operator activity, and decline behavior differ meaningfully between the two, and we price accordingly rather than applying one basin-wide number.",
+    "If your interest sits in a county we're not actively buying in, or in a part of the basin where we don't have enough offset data to price responsibly, we'll tell you directly instead of stringing along a placeholder offer."
+   ]
+  },
+  {
+   "heading": "When We'd Tell You Not To Sell",
+   "paragraphs": [
+    "This is the part most buyers skip. If your well is early in its production life with real offset drilling permitted nearby, selling now likely means giving up meaningful upside for a smaller number than a wait might produce — we'll say that plainly, even though it means less business for us. If a partial sale fits your actual goals better than selling everything, we'll bring that up instead of pushing for the larger transaction. And if you're weighing tax timing or an estate question, we'll tell you to talk to your CPA or attorney first, because that's genuinely not our call to make.",
+    "We're a buyer, not a fiduciary, so take that candor for what it's worth — but it's offered because a deal that's wrong for you eventually turns into a bad reference, and we'd rather earn the next conversation than force this one."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a licensed appraiser, attorney, or CPA?",
+   "answer": "No. We're a direct buyer of mineral and royalty interests. For a formal appraisal, legal question, or tax advice, we'll point you to a licensed professional rather than answer outside our lane."
+  },
+  {
+   "question": "Why does this site publish so many free guides instead of just an offer form?",
+   "answer": "Because we believe an informed owner makes a better decision, whether or not that decision involves selling to us. Understanding your statement, your title, and your options is worth more long-term than any single offer."
+  },
+  {
+   "question": "Do you ever tell owners not to sell?",
+   "answer": "Yes, when the situation calls for it — early-stage wells with strong offset activity nearby, or cases where a partial sale fits better than a full one. We'd rather say so than push a deal that isn't right for the owner."
+  },
+  {
+   "question": "What parts of the Permian do you buy in?",
+   "answer": "Core producing counties on both the Midland Basin and Delaware Basin sides. We price the two differently since decline behavior and operator activity differ between them, and we'll tell you directly if we're not active in your specific county."
+  }
+ ],
+ "wordCount": 917,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-permianbasinroyaltybuyer-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

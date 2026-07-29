@@ -1,0 +1,74 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "status": "written",
+ "metaTitle": "NPRI in the Permian Basin: Owner's Guide",
+ "metaDescription": "Own a non-participating royalty interest (NPRI) in Permian Basin production? An ex-operator explains what NPRIs pay, and don't include, and what they're worth.",
+ "heroLead": "An NPRI pays like a royalty but has none of the say a mineral owner has over leasing, and that distinction trips up more owners than almost anything else in this business.",
+ "intro": [
+  "A non-participating royalty interest, or NPRI, is a royalty carved out of the mineral estate that entitles the holder to a share of production revenue without any right to negotiate leases, collect bonus payments, or participate in decisions about whether and to whom the tract gets leased. It's called non-participating for exactly that reason: you participate in the production income, not in the leasing process.",
+  "I see NPRIs across the Permian most often in older deeds where a mineral owner sold or reserved a royalty fraction decades ago while keeping or transferring the executive rights separately. If your deed uses the term non-participating royalty, or reserves a royalty percentage without leasing authority, this is what you hold. I've also seen NPRIs created through a mineral owner's sale of a partial interest rather than a straight reservation, which can affect how the interest reads on paper even though it functions the same way once production begins."
+ ],
+ "sections": [
+  {
+   "heading": "What an NPRI does and doesn't include",
+   "paragraphs": [
+    "An NPRI holder is entitled to a fixed fraction of production revenue, calculated against whatever royalty rate is in the lease the mineral owner negotiates, but has no vote on lease terms, no bonus payment when a new lease is signed, and generally no say in pooling decisions that affect the tract.",
+    "That means your income can be affected by lease terms you had no part in negotiating. If the mineral owner signs a lease with a lower royalty rate than you'd have wanted, your NPRI check reflects that lower rate, which is one of the more frustrating parts of holding this type of interest, particularly on older leases signed well before current pricing.",
+    "Some NPRI deeds specify a fixed fraction of production, while others specify a fraction of whatever royalty the mineral owner eventually negotiates, and those two structures behave very differently if a lease is later renegotiated at a different royalty rate. Reading your deed's exact language carefully matters more here than for almost any other interest type."
+   ]
+  },
+  {
+   "heading": "Why NPRIs sometimes get overlooked or underpaid",
+   "paragraphs": [
+    "Because NPRI holders aren't party to the lease negotiation, operators occasionally miss them in the division order process, particularly on older, hand-typed deeds from decades ago where the language describing the reservation is less standardized than modern deed forms. If you believe you hold an NPRI and haven't received a statement in some time despite known nearby production, it's worth confirming directly with the operator that your interest is correctly reflected on the division order.",
+    "This is also why title work matters more on NPRIs than it might seem. A poorly worded historical reservation can create genuine ambiguity about the size of the interest or even whether it survived subsequent conveyances, and that ambiguity affects both your check and your ability to sell cleanly."
+   ]
+  },
+  {
+   "heading": "Selling an NPRI in the Permian",
+   "paragraphs": [
+    "NPRIs are valued similarly to other royalty interests, based on the current lease's royalty rate, recent production, and remaining decline, adjusted for the fact that you have no leasing authority and therefore no say if the current lease terms are ever renegotiated or a new lease is needed after expiration.",
+    "I buy NPRIs regularly across Permian counties and will walk through your specific deed language with you to confirm exactly what you hold before putting a number on the table, since the deed language on these interests varies more than on a standard mineral or royalty deed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I get a bonus payment as an NPRI owner when a new lease is signed?",
+   "answer": "No, bonus payments go to the mineral owner who holds the executive right. NPRI holders receive only their royalty share of production, not lease bonus payments."
+  },
+  {
+   "question": "Can I block a lease I don't like as an NPRI holder?",
+   "answer": "No, NPRI holders don't have the authority to approve or reject lease terms. That right belongs to whoever holds the executive mineral rights."
+  },
+  {
+   "question": "Why haven't I received an NPRI check even though there's a producing well nearby?",
+   "answer": "This can happen when older or ambiguous deed language causes an operator to miss the interest in the division order process. Contact the operator directly to confirm your interest is recorded."
+  },
+  {
+   "question": "Is an NPRI worth less than a full royalty interest?",
+   "answer": "Not necessarily less valuable, but it does carry the added risk that lease terms affecting your payment were negotiated by someone else, which some buyers factor into their offer."
+  },
+  {
+   "question": "How do I confirm the size of my NPRI?",
+   "answer": "Review the original deed reservation language carefully, ideally with a landman or title professional if the wording is unclear, since older NPRI reservations can be worded inconsistently."
+  },
+  {
+   "question": "What's the difference between a fixed fraction and a floating fraction NPRI?",
+   "answer": "A fixed fraction NPRI entitles you to a set percentage of production regardless of the lease royalty rate. A floating fraction is tied to whatever royalty rate the mineral owner negotiates, so it can change with a new lease."
+  },
+  {
+   "question": "Can an NPRI be created without the mineral owner's knowledge?",
+   "answer": "No, an NPRI is created through a deed the mineral owner signs, either reserving it when selling minerals or granting it separately, so it always originates from an intentional conveyance."
+  }
+ ],
+ "wordCount": 916,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

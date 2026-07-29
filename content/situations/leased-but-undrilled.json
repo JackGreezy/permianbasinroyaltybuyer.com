@@ -1,0 +1,75 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "status": "written",
+ "metaTitle": "Leased but Undrilled Permian Minerals: Owner's Guide",
+ "metaDescription": "Collected a lease bonus on Permian minerals but no well has been drilled yet? An ex-operator explains the lease clock, delay rentals, and your options.",
+ "heroLead": "A signed lease and a bonus check don't mean a well is coming next month, and I've talked to plenty of owners who are still waiting years after signing.",
+ "intro": [
+  "Getting a bonus payment for signing an oil and gas lease feels like the start of something, and sometimes it is, but plenty of leased Permian acreage sits untouched for the full primary term, or gets held by production on a neighboring unit without a well ever going on your specific tract. Understanding where your lease stands in its life cycle matters more than the bonus check you already cashed.",
+  "I've operated leases and I've bought interests still sitting in this exact spot, leased but quiet, and the questions I get are almost always the same: is this lease going to produce, and what is it worth if it doesn't. I've also seen owners assume a lease has quietly expired only to discover, once they check the county records, that it was extended years earlier through a delay rental or held by a nearby unit they didn't know their tract was pooled into."
+ ],
+ "sections": [
+  {
+   "heading": "Understanding your lease's primary term",
+   "paragraphs": [
+    "Most Permian leases run a primary term of three to five years, during which the operator has the exclusive right to drill without being obligated to. If a well isn't drilled and the lease isn't held by production or extended through a delay rental payment, it expires at the end of that term and the mineral rights revert fully to you, free of any lease.",
+    "Check your lease document for the exact primary term and any delay rental clause. Some leases require an annual payment to keep the lease alive without drilling, others don't, and knowing which kind you signed tells you whether silence from the operator means they've moved on or simply haven't gotten to your tract yet.",
+    "Some leases also include a Pugh clause, which limits how much of a large tract can be held by production from a small portion actually being drilled. If your lease has one, it's worth understanding, since it can mean part of your acreage reverts to you even while another part stays held by an existing well."
+   ]
+  },
+  {
+   "heading": "Held by production on a pooled unit",
+   "paragraphs": [
+    "In this basin, your specific tract doesn't need a wellbore on it to be held by production. If your acreage is pooled into a unit with a well drilled elsewhere in that unit, the whole unit, including your tract, can be held indefinitely even though no well ever touches your specific acres. That's normal and it's worth checking the pooling or unitization records at the county clerk to see if that's your situation.",
+    "If your tract is held by production this way, you may already be entitled to royalty from the pooled well even without a well on your specific parcel, depending on how the pooling was structured. It's worth confirming with the operator directly whether you're being paid correctly."
+   ]
+  },
+  {
+   "heading": "What leased-but-undrilled acreage is worth",
+   "paragraphs": [
+    "A leased, undrilled interest carries potential value tied to how active the surrounding area is and how much lease term remains. A tract with two years left on the primary term in a county seeing active permitting nearby is a very different proposition than one with six months left in a quiet area where the operator seems to have stopped filing permits.",
+    "I'll look at your lease terms, the county activity around your tract, and whether there's real reason to think drilling is coming, and give you an honest read on whether the interest is worth more held or sold now, rather than pushing one direction regardless of what the facts show."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my minerals if the lease expires without a well being drilled?",
+   "answer": "The lease terminates and the mineral rights revert to you free and clear, at which point you're able to lease again to a new or the same operator on new terms."
+  },
+  {
+   "question": "Can I sell mineral rights that are currently leased but not producing?",
+   "answer": "Yes, you can sell the underlying mineral or royalty interest even while a lease is in place. The buyer takes over your position subject to that existing lease."
+  },
+  {
+   "question": "Why is my leased tract not being drilled while nearby tracts are?",
+   "answer": "Operators sequence drilling based on their own development plans, spacing units, and permitting priorities, which don't always follow lease boundaries or timelines an individual owner can predict."
+  },
+  {
+   "question": "Is a delay rental payment the same as a royalty?",
+   "answer": "No, a delay rental is a payment to keep an undrilled lease alive during its primary term. Royalty only begins once a well on your unit is actually producing."
+  },
+  {
+   "question": "Should I wait out the lease term or sell now?",
+   "answer": "It depends on how much term is left and how active the surrounding county is. I'll give you a straight read on your specific lease rather than a generic answer."
+  },
+  {
+   "question": "What is a Pugh clause and does my lease have one?",
+   "answer": "A Pugh clause limits how much acreage stays held by production from a single well, protecting undrilled portions of a larger tract from being held indefinitely. Check your lease document for this language directly."
+  },
+  {
+   "question": "Can an operator extend my lease without drilling by paying a delay rental?",
+   "answer": "Yes, if your lease includes a delay rental clause, the operator can keep the lease alive through the primary term with that payment instead of actually drilling a well."
+  }
+ ],
+ "wordCount": 928,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-permianbasinroyaltybuyer-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

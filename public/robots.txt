@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://permianbasinroyaltybuyer.com/sitemap.xml
+# AI: https://permianbasinroyaltybuyer.com/llms.txt

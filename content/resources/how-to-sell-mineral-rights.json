@@ -1,0 +1,68 @@
+{
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Permian Mineral Rights, Step by Step",
+ "metaDescription": "The real process for selling Permian mineral or royalty rights — documents, valuation, title, and closing — explained by a former operator.",
+ "heroLead": "Selling a mineral interest isn't complicated once you know the sequence — it's confusing mainly because most owners go through it exactly once.",
+ "intro": [
+  "There's no standard playbook handed to owners when a check starts showing up, and even less guidance when they decide to sell. What follows is the actual sequence, roughly in the order it happens, based on what I've watched happen from the operator and buyer side over the years.",
+  "Not every sale needs every step — a small non-producing interest moves faster than a large producing royalty spread across several wells — but this is the shape of it."
+ ],
+ "sections": [
+  {
+   "heading": "Start With What You Actually Own",
+   "paragraphs": [
+    "Before anything else, gather your deed or the document showing how you acquired the interest, your legal description (section, block, survey, county), and if the interest is producing, your recent royalty statements. If you're not certain of your exact decimal interest, that's fine at this stage — a buyer can often work from your statements and a copy of your deed to figure it out. What matters is having something on paper rather than a memory of what a relative told you years ago.",
+    "If the interest was inherited and never formally probated, note that now — it'll come up during title review regardless, so flagging it early saves a surprise later."
+   ]
+  },
+  {
+   "heading": "Get A Real Number, Not A Guess",
+   "paragraphs": [
+    "Send your documentation to a buyer and ask for a written offer built against your actual interest. A producing royalty is generally priced off a multiple of trailing cash flow adjusted for decline and offset activity; a non-producing interest is priced off comparable leasing and royalty terms nearby. Either way, the offer should be able to explain roughly how it was calculated. It's reasonable to get more than one quote and compare — a fast decision isn't required, and no legitimate buyer should tell you otherwise.",
+    "This is also the point to ask questions: what happens to future wells drilled on the same unit, whether the offer covers your whole interest or a portion, and what the closing timeline typically looks like."
+   ]
+  },
+  {
+   "heading": "Title Review Is The Step That Actually Takes Time",
+   "paragraphs": [
+    "Once you accept terms, the buyer (or their title company) runs a title check to confirm the chain of ownership back through your deed and any prior conveyances. This is where inherited interests without formal probate, name discrepancies, or old survey descriptions can slow things down. None of these typically kill a deal — they usually just require a document to be filed, like an heirship affidavit or a corrective deed. This is the phase where patience matters more than anything else in the process.",
+    "If you know title on your interest has any complexity, it's worth mentioning it up front rather than letting the buyer discover it mid-review — it rarely changes the outcome, but it does change how smoothly the timeline runs."
+   ]
+  },
+  {
+   "heading": "Closing: Deed, Recording, And Payment",
+   "paragraphs": [
+    "Once title is clear, you'll sign a mineral deed conveying the interest, it gets notarized, and it's filed with the county clerk in the county where the minerals sit. Funds are typically disbursed at or shortly after closing, once the recorded deed is confirmed. Keep a copy of everything — the signed deed, the closing statement, and your final royalty statements — both for your own records and because your CPA will want them when it's time to report the sale.",
+    "A straightforward producing-royalty sale with clean title can often close within a matter of weeks; anything requiring probate or a title cure generally runs longer, simply because that work has its own timeline outside the buyer's control."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What documents do I need to start the process of selling mineral rights?",
+   "answer": "Your deed or the document showing how you acquired the interest, the legal description of the tract, and if the interest is producing, your recent royalty statements. If you're missing any of these, a buyer can often still help you locate them through the county records."
+  },
+  {
+   "question": "How long does selling a mineral interest usually take?",
+   "answer": "A straightforward sale with clean title can commonly close within a few weeks of accepting terms. Sales involving inherited interests without probate, or other title complications, typically take longer since that work runs on its own timeline."
+  },
+  {
+   "question": "Do I have to sell my entire interest, or can I sell part of it?",
+   "answer": "Many owners sell only a portion of their interest and keep the remainder, which lets you take some liquidity now while still holding future upside. This should be spelled out clearly in the purchase agreement and the resulting deed."
+  },
+  {
+   "question": "What happens to my mineral rights if I don't want to sell right now?",
+   "answer": "Nothing changes — you keep receiving royalty income as normal, and there's no obligation to act on an offer within any particular timeframe. Some owners prefer to wait for more offset drilling activity before deciding, since that can shift the value picture."
+  }
+ ],
+ "wordCount": 851,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-permianbasinroyaltybuyer-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
