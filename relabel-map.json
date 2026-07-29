@@ -20,6 +20,7 @@
         "img[width=\"1\"]",
         "img[height=\"1\"]",
         "iframe[src*=\"googletagmanager\"]",
+        "iframe[src*=\"company-target\"]",
         "iframe[src=\"about:blank\"]",
         ".grecaptcha-badge"
       ],
@@ -114,6 +115,7 @@
       "img[width=\"1\"]",
       "img[height=\"1\"]",
       "iframe[src*=\"googletagmanager\"]",
+      "iframe[src*=\"company-target\"]",
       "iframe[src=\"about:blank\"]",
       ".grecaptcha-badge",
       "main svg"
@@ -131,6 +133,22 @@
     "social_pattern": "facebook\\.com|instagram\\.com|linkedin\\.com|twitter\\.com|x\\.com|youtube\\.com"
   },
   "scripts": "strip",
+  "approved_body_image_pool": [
+    "/ours/pages/mineral-rights-pages-about-permianbasinroyaltybuyer-com.jpg",
+    "/ours/pages/mineral-rights-pages-how-it-works-permianbasinroyaltybuyer-com.jpg",
+    "/ours/pages/mineral-rights-pages-get-an-offer-permianbasinroyaltybuyer-com.jpg",
+    "/ours/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg",
+    "/ours/basins/mineral-rights-basins-delaware-basin-permianbasinroyaltybuyer-com.jpg",
+    "/ours/interest-types/mineral-rights-interest-types-mineral-rights-permianbasinroyaltybuyer-com.jpg",
+    "/ours/interest-types/mineral-rights-interest-types-royalty-interests-permianbasinroyaltybuyer-com.jpg",
+    "/ours/interest-types/mineral-rights-interest-types-working-interests-permianbasinroyaltybuyer-com.jpg",
+    "/ours/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-permianbasinroyaltybuyer-com.jpg",
+    "/ours/resources/mineral-rights-resources-division-orders-explained-permianbasinroyaltybuyer-com.jpg",
+    "/ours/resources/mineral-rights-resources-royalty-statements-guide-permianbasinroyaltybuyer-com.jpg",
+    "/ours/resources/mineral-rights-resources-mineral-rights-value-guide-permianbasinroyaltybuyer-com.jpg",
+    "/ours/situations/mineral-rights-situations-inherited-mineral-rights-permianbasinroyaltybuyer-com.jpg",
+    "/ours/investing/mineral-rights-investing-how-royalty-income-works-permianbasinroyaltybuyer-com.jpg"
+  ],
   "pages": {
     "home": {
       "signature": [
@@ -154,6 +172,7 @@
           "type": "agency",
           "action": "relabel",
           "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-cmp-is": "rr-carousel", "data-cmp-autoplay": "false", "data-cmp-delay": "0"}},
             {"sel": ".cmp-carousel__slides", "attrs": {"style": ""}},
             {"sel": ".cmp-carousel__item", "attrs": {"style": ""}}
           ]
@@ -201,7 +220,7 @@
             "title": ".article-teaser__project-description",
             "image": ".article-teaser__image"
           },
-          "kill_in_card": [".cmp-image"],
+          "kill_in_card": [],
           "view_all": ["All Selling Situations", "/situations"],
           "view_all_selector": ".cmp-related-projects__description-container .cmp-button"
         },
@@ -220,7 +239,7 @@
             "title": ".article-teaser__project-description",
             "image": ".article-teaser__image"
           },
-          "kill_in_card": [".cmp-image"],
+          "kill_in_card": [],
           "view_all": ["All Interest Types", "/interest-types"],
           "view_all_selector": ".cmp-related-projects__description-container .cmp-button"
         },
@@ -239,7 +258,7 @@
             "title": ".article-teaser__project-description",
             "image": ".article-teaser__image"
           },
-          "kill_in_card": [".cmp-image"],
+          "kill_in_card": [],
           "view_all": ["All 1031 Exchange Guides", "/exchange-1031"],
           "view_all_selector": ".cmp-related-projects__description-container .cmp-button"
         },
@@ -287,7 +306,7 @@
             "more": ".article-teaser__action-link",
             "image": ".article-teaser__image"
           },
-          "kill_in_card": [".cmp-image"],
+          "kill_in_card": [],
           "view_all": ["All Owner Resources", "/resources"],
           "view_all_selector": ".cmp-related-articles__title-container .cmp-button"
         },
@@ -307,7 +326,7 @@
             "more": ".article-teaser__action-link",
             "image": ".article-teaser__image"
           },
-          "kill_in_card": [".cmp-image"],
+          "kill_in_card": [],
           "view_all": ["All Mineral Investing Guides", "/investing"],
           "view_all_selector": ".cmp-related-articles__title-container .cmp-button"
         },
@@ -320,11 +339,13 @@
       "carousels": [
         {
           "selector": ".carousel > .cmp-carousel",
+          "type": "swiper",
           "slides": ".cmp-carousel__item",
           "track": ".swiper-wrapper",
           "prev": ".swiper-button-prev",
           "next": ".swiper-button-next",
-          "visible": 1
+          "visible": 1,
+          "autoplay": 3000
         },
         {
           "selector": "[data-rr-band='situations'] .cmp-related-projects",
@@ -427,6 +448,15 @@
             {"sel": ".cmp-teaser-multi-image__wrapper-image1", "bg": "/ours/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg"},
             {"sel": ".cmp-teaser-multi-image__wrapper-image2", "bg": "/ours/interest-types/mineral-rights-interest-types-royalty-interests-permianbasinroyaltybuyer-com.jpg"},
             {"sel": ".cmp-teaser-multi-image__wrapper-image3", "bg": "/ours/resources/mineral-rights-resources-royalty-statements-guide-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 img", "img": "/ours/basins/mineral-rights-basins-midland-basin-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 img", "img": "/ours/interest-types/mineral-rights-interest-types-royalty-interests-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 img", "img": "/ours/resources/mineral-rights-resources-royalty-statements-guide-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 .cmp-image", "attrs": {"data-title": "Midland Basin mineral rights"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 .cmp-image", "attrs": {"data-title": "Permian Basin royalty interests"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 .cmp-image", "attrs": {"data-title": "Permian Basin royalty statements"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 .cmp-teaser-multi-image__wrapper-caption a", "text": "Midland Basin", "href": "/basins/midland-basin", "optional": true},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 .cmp-teaser-multi-image__wrapper-caption a", "text": "Royalty Interests", "href": "/interest-types/royalty-interests", "optional": true},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 .cmp-teaser-multi-image__wrapper-caption a", "text": "Royalty Statements", "href": "/resources/royalty-statements-guide", "optional": true},
             {"sel": ".cmp-button__text", "text": "REQUEST A ROYALTY REVIEW", "optional": true},
             {"sel": ".cmp-button", "href": "/contact", "optional": true}
           ]
@@ -458,6 +488,12 @@
             {"sel": ".cmp-teaser-multi-image__wrapper-image1", "bg": "/ours/pages/mineral-rights-pages-get-an-offer-permianbasinroyaltybuyer-com.jpg"},
             {"sel": ".cmp-teaser-multi-image__wrapper-image2", "bg": "/ours/situations/mineral-rights-situations-inherited-mineral-rights-permianbasinroyaltybuyer-com.jpg"},
             {"sel": ".cmp-teaser-multi-image__wrapper-image3", "bg": "/ours/resources/mineral-rights-resources-division-orders-explained-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 img", "img": "/ours/pages/mineral-rights-pages-get-an-offer-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 img", "img": "/ours/situations/mineral-rights-situations-inherited-mineral-rights-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 img", "img": "/ours/resources/mineral-rights-resources-division-orders-explained-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 .cmp-image", "attrs": {"data-title": "Get a Permian Basin royalty offer"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 .cmp-image", "attrs": {"data-title": "Inherited mineral rights review"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 .cmp-image", "attrs": {"data-title": "Division order review"}},
             {"sel": ".cmp-button__text", "text": "COMPARE WRITTEN TERMS"},
             {"sel": ".cmp-button", "href": "/resources"}
           ]
@@ -478,6 +514,15 @@
             {"sel": ".cmp-teaser-multi-image__wrapper-image1", "bg": "/ours/basins/mineral-rights-basins-delaware-basin-permianbasinroyaltybuyer-com.jpg"},
             {"sel": ".cmp-teaser-multi-image__wrapper-image2", "bg": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-permianbasinroyaltybuyer-com.jpg"},
             {"sel": ".cmp-teaser-multi-image__wrapper-image3", "bg": "/ours/resources/mineral-rights-resources-mineral-rights-value-guide-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 img", "img": "/ours/basins/mineral-rights-basins-delaware-basin-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 img", "img": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 img", "img": "/ours/resources/mineral-rights-resources-mineral-rights-value-guide-permianbasinroyaltybuyer-com.jpg"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 .cmp-image", "attrs": {"data-title": "Delaware Basin mineral rights"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 .cmp-image", "attrs": {"data-title": "Mineral rights ownership review"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 .cmp-image", "attrs": {"data-title": "Mineral rights value guide"}},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image1 .cmp-teaser-multi-image__wrapper-caption a", "text": "Delaware Basin", "href": "/basins/delaware-basin"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image2 .cmp-teaser-multi-image__wrapper-caption a", "text": "Mineral Rights", "href": "/interest-types/mineral-rights"},
+            {"sel": ".cmp-teaser-multi-image__wrapper-image3 .cmp-teaser-multi-image__wrapper-caption a", "text": "Mineral Value Guide", "href": "/resources/mineral-rights-value-guide"},
             {"sel": ".cmp-button__text", "text": "READ OWNER RESOURCES"},
             {"sel": ".cmp-button", "href": "/resources"}
           ]
@@ -542,7 +587,7 @@
       "form_slot": "main > .aem-Grid > .section.cmp-section--site-width-1248 > .cmp-section > .cmp-section__container",
       "semantic_title_selector": "main > .aem-Grid > .section.cmp-section--background-color-primary h1",
       "submit_label": "Request a Royalty Review",
-      "repair_css": "main>.aem-Grid>.section.cmp-section--background-color-primary:first-child{padding-top:96px!important}main form[action='/api/contact']{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important;max-width:900px!important;margin:36px auto 62px!important;padding:0 24px!important}main form[action='/api/contact'] .text{display:flex!important;flex-direction:column!important}main form[action='/api/contact'] input,main form[action='/api/contact'] textarea{display:block!important;width:100%!important;box-sizing:border-box!important;border:1px solid #b8c2c7!important;background:#fff!important;color:#111!important;padding:15px 16px!important;font:inherit!important}main form[action='/api/contact'] textarea{min-height:170px!important}main form[action='/api/contact'] .text:has(textarea),main form[action='/api/contact'] button{grid-column:1/-1!important}main form[action='/api/contact'] button{justify-self:start!important;border:0!important;padding:15px 24px!important;background:#111!important;color:#fff!important;font-weight:800!important;cursor:pointer!important}[data-rr-map-band]{padding:0!important}[data-rr-map-band] .cmp-section__container{display:block!important;max-width:none!important;padding:0!important}@media(max-width:980px){main>.aem-Grid>.section.cmp-section--background-color-primary:first-child{padding-top:52px!important}}@media(max-width:760px){main form[action='/api/contact']{grid-template-columns:1fr!important}main form[action='/api/contact'] .text:has(textarea),main form[action='/api/contact'] button{grid-column:auto!important}}"
+      "repair_css": "main form[action='/api/contact']{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important;max-width:900px!important;margin:36px auto 62px!important;padding:0 24px!important}main form[action='/api/contact'] .text{display:flex!important;flex-direction:column!important}main form[action='/api/contact'] input,main form[action='/api/contact'] textarea{display:block!important;width:100%!important;box-sizing:border-box!important;border:1px solid #b8c2c7!important;background:#fff!important;color:#111!important;padding:15px 16px!important;font:inherit!important}main form[action='/api/contact'] textarea{min-height:170px!important}main form[action='/api/contact'] .text:has(textarea),main form[action='/api/contact'] button{grid-column:1/-1!important}main form[action='/api/contact'] button{justify-self:start!important;border:0!important;padding:15px 24px!important;background:#111!important;color:#fff!important;font-weight:800!important;cursor:pointer!important}[data-rr-map-band]{padding:0!important}[data-rr-map-band] .cmp-section__container{display:block!important;max-width:none!important;padding:0!important}@media(max-width:760px){main form[action='/api/contact']{grid-template-columns:1fr!important}main form[action='/api/contact'] .text:has(textarea),main form[action='/api/contact'] button{grid-column:auto!important}}"
     },
     "index": {
       "signature": [
@@ -565,6 +610,7 @@
         "main > .aem-Grid > .section.cmp-section--background-color-slate.cmp-section--padding32"
       ],
       "grid": "main > .aem-Grid > .section.cmp-section--background-color-slate .cmp-grid-container__items > .aem-Grid",
+      "heading": "main > .aem-Grid > .section.cmp-section--background-color-slate .cmp-text h3",
       "card": ".teaser.cmp-teaser--type-card",
       "card_fields": {
         "title": ".cmp-teaser__title",
@@ -572,8 +618,8 @@
         "more": ".cmp-button__text",
         "image": ".cmp-teaser__image"
       },
-      "kill_in_card": [".cmp-image"],
-      "repair_css": "main .cmp-grid-container__items > .aem-Grid{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:28px!important}main .cmp-teaser--type-card{display:block!important;width:auto!important;margin:0!important}main .cmp-teaser--type-card .cmp-teaser{height:100%!important}main .cmp-teaser--type-card img{display:block!important;width:100%!important;height:245px!important;object-fit:cover!important}@media(max-width:980px){main .cmp-grid-container__items > .aem-Grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){main .cmp-grid-container__items > .aem-Grid{grid-template-columns:1fr!important}}"
+      "kill_in_card": [],
+      "repair_css": "main .cmp-grid-container__items > .aem-Grid{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:28px!important}main .cmp-teaser--type-card{display:block!important;width:auto!important;margin:0!important}main .cmp-teaser--type-card .cmp-teaser{height:100%!important}main .cmp-teaser--type-card img{display:block!important;width:100%!important;height:auto!important;aspect-ratio:584/390!important;object-fit:cover!important}@media(max-width:980px){main .cmp-grid-container__items > .aem-Grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:620px){main .cmp-grid-container__items > .aem-Grid{grid-template-columns:1fr!important}}"
     },
     "slug": {
       "signature": [
@@ -597,7 +643,14 @@
         "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(4) img",
         "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(5) img",
         "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(6) img",
-        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(7) img"
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(7) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(8) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(9) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(10) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(11) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(12) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(13) img",
+        "main > .aem-Grid > .section.cmp-section--remove-top-padding .cmp-carousel__item:nth-of-type(14) img"
       ],
       "strip": [
         "main > .aem-Grid > .hero-banner h5",
@@ -622,7 +675,7 @@
             "title": ".article-teaser__project-description",
             "image": ".article-teaser__image"
           },
-          "kill_in_card": [".cmp-image"]
+          "kill_in_card": []
         }
       ],
       "carousels": [
