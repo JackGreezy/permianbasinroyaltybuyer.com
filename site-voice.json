@@ -548,5 +548,13 @@
         "A {name} timeline is stronger when backup candidates receive early title, operating, valuation, financing, and closing review. A backup that cannot be described precisely, financed, diligenced, or closed within the available period is not a dependable backup."
       ]
     ]
+  },
+  "slug_ui": {
+    "related_kicker": "Royalty run sheet",
+    "related_heading": "Move the tract to the next line of the run sheet",
+    "related_intro": "Keep the tract, paid decimal, check history, decline, inventory, and offer bridge from {item} visible in these connected reviews.",
+    "related_action": "View the Full Royalty Run Sheet",
+    "faq_kicker": "Permian owner file",
+    "faq_intro": "These questions identify the record, decimal, production fact, title step, or offer term that still needs a clean answer."
   }
 }
