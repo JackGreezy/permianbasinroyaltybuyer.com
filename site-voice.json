@@ -30,52 +30,84 @@
   },
   "scrub": [
     [
+      "\\bexplained by a former operator\\b",
+      "organized through the Midland run sheet"
+    ],
+    [
+      "\\bfrom an engineer who used to run the well side of it\\b",
+      "through the Midland run sheet"
+    ],
+    [
+      "\\bAn ex-(?:E&P engineer|operator) explains\\b",
+      "The Midland run sheet explains"
+    ],
+    [
+      "\\bA former operator explains\\b",
+      "The Midland run sheet explains"
+    ],
+    [
+      "\\bA former operator walks through\\b",
+      "The Midland run sheet walks through"
+    ],
+    [
+      "\\bAn ex-(?:E&P engineer|operator)\\b",
+      "The Midland review team"
+    ],
+    [
+      "\\bA former operator\\b",
+      "The Midland review team"
+    ],
+    [
       "\\bI['’]m\\b",
-      "the buyer team is"
+      "we are"
     ],
     [
       "\\bI['’]ve\\b",
-      "the buyer team has"
+      "we have"
     ],
     [
       "\\bI['’]ll\\b",
-      "the buyer team will"
+      "we will"
     ],
     [
       "\\bI['’]d\\b",
-      "the buyer team would"
+      "we would"
     ],
     [
       "\\bI don['’]t\\b",
-      "the buyer team does not"
+      "we do not"
     ],
     [
       "\\bI can['’]t\\b",
-      "the buyer team cannot"
+      "we cannot"
     ],
     [
       "\\bI can\\b",
-      "the buyer team can"
+      "we can"
     ],
     [
       "\\bmyself\\b",
-      "the buyer team"
+      "ourselves"
     ],
     [
       "\\bmine\\b",
-      "the team's"
+      "ours"
     ],
     [
       "\\bmy\\b",
-      "the owner's"
+      "our"
     ],
     [
       "\\bme\\b",
-      "the buyer team"
+      "us"
     ],
     [
       "\\bI\\b",
-      "the buyer team"
+      "we"
+    ],
+    [
+      "(^|[.!?]\\s+)we\\b",
+      "\\1We"
     ],
     [
       "\\bthe buyer team ask\\b",
@@ -288,6 +320,32 @@
     [
       "\\bthe buyer team aren['’]t\\b",
       "the buyer team is not"
+    ]
+  ],
+  "question_scrub": [
+    [
+      "\\bourselves\\b",
+      "yourself"
+    ],
+    [
+      "\\bours\\b",
+      "yours"
+    ],
+    [
+      "\\bour\\b",
+      "your"
+    ],
+    [
+      "\\bus\\b",
+      "you"
+    ],
+    [
+      "\\bwe\\b",
+      "you"
+    ],
+    [
+      "^you\\b",
+      "You"
     ]
   ],
   "heroes": [

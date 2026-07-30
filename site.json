@@ -5,8 +5,8 @@
  "intent": "seller",
  "tier": "Test",
  "available": true,
- "voice": "retired-operator: ex-E&P engineer; explains the buyer side candidly",
- "angle": "royalty-check angle for Permian owners",
+ "voice": "Midland royalty run sheet: tract, paid decimal, check history, decline, offer bridge, and clean closing file",
+ "angle": "record-led direct royalty review for Permian owners",
  "taxonomyCounts": {
   "locations": 78,
   "basins": 2,
@@ -16,5 +16,5 @@
   "pages": 7
  },
  "totalPages": 113,
- "status": "scaffold"
+ "status": "release-ready"
 }
