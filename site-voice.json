@@ -29,71 +29,266 @@
     ]
   },
   "scrub": [
-    ["\\bI['’]m\\b", "the buyer team is"],
-    ["\\bI['’]ve\\b", "the buyer team has"],
-    ["\\bI['’]ll\\b", "the buyer team will"],
-    ["\\bI['’]d\\b", "the buyer team would"],
-    ["\\bI don['’]t\\b", "the buyer team does not"],
-    ["\\bI can['’]t\\b", "the buyer team cannot"],
-    ["\\bI can\\b", "the buyer team can"],
-    ["\\bmyself\\b", "the buyer team"],
-    ["\\bmine\\b", "the team's"],
-    ["\\bmy\\b", "the owner's"],
-    ["\\bme\\b", "the buyer team"],
-    ["\\bI\\b", "the buyer team"],
-    ["\\bthe buyer team ask\\b", "the buyer team asks"],
-    ["\\bthe buyer team want\\b", "the buyer team wants"],
-    ["\\bthe buyer team look\\b", "the buyer team looks"],
-    ["\\bthe buyer team tell\\b", "the buyer team tells"],
-    ["\\bthe buyer team move\\b", "the buyer team moves"],
-    ["\\bthe buyer team see\\b", "the buyer team sees"],
-    ["\\bthe buyer team work\\b", "the buyer team works"],
-    ["\\bthe buyer team say\\b", "the buyer team says"],
-    ["\\bthe buyer team have\\b", "the buyer team has"],
-    ["\\bthe buyer team get\\b", "the buyer team gets"],
-    ["\\bthe buyer team buy\\b", "the buyer team buys"],
-    ["\\bthe buyer team check\\b", "the buyer team checks"],
-    ["\\bthe buyer team need\\b", "the buyer team needs"],
-    ["\\bthe buyer team sell\\b", "the buyer team sells"],
-    ["\\bthe buyer team pull\\b", "the buyer team pulls"],
-    ["\\bthe buyer team know\\b", "the buyer team knows"],
-    ["\\bthe buyer team evaluate\\b", "the buyer team evaluates"],
-    ["\\bthe buyer team build\\b", "the buyer team builds"],
-    ["\\bthe buyer team own\\b", "the buyer team owns"],
-    ["\\bthe buyer team handle\\b", "the buyer team handles"],
-    ["\\bthe buyer team find\\b", "the buyer team finds"],
-    ["\\bthe buyer team value\\b", "the buyer team values"],
-    ["\\bthe buyer team put\\b", "the buyer team puts"],
-    ["\\bthe buyer team price\\b", "the buyer team prices"],
-    ["\\bthe buyer team keep\\b", "the buyer team keeps"],
-    ["\\bthe buyer team start\\b", "the buyer team starts"],
-    ["\\bthe buyer team run\\b", "the buyer team runs"],
-    ["\\bthe buyer team do\\b", "the buyer team does"],
-    ["\\bthe buyer team offer\\b", "the buyer team offers"],
-    ["\\bthe buyer team give\\b", "the buyer team gives"],
-    ["\\bthe buyer team share\\b", "the buyer team shares"],
-    ["\\bthe buyer team send\\b", "the buyer team sends"],
-    ["\\bthe buyer team underwrite\\b", "the buyer team underwrites"],
-    ["\\bthe buyer team try\\b", "the buyer team tries"],
-    ["\\bthe buyer team talk\\b", "the buyer team talks"],
-    ["\\bthe buyer team accept\\b", "the buyer team accepts"],
-    ["\\bthe buyer team provide\\b", "the buyer team provides"],
-    ["\\bthe buyer team hire\\b", "the buyer team hires"],
-    ["\\bthe buyer team claim\\b", "the buyer team claims"],
-    ["\\bthe buyer team focus\\b", "the buyer team focuses"],
-    ["\\bthe buyer team understand\\b", "the buyer team understands"],
-    ["\\bthe buyer team bring\\b", "the buyer team brings"],
-    ["\\bthe buyer team quote\\b", "the buyer team quotes"],
-    ["\\bthe buyer team think\\b", "the buyer team thinks"],
-    ["\\bthe buyer team hold\\b", "the buyer team holds"],
-    ["\\bthe buyer team gather\\b", "the buyer team gathers"],
-    ["\\bthe buyer team pay\\b", "the buyer team pays"],
-    ["\\bthe buyer team owe\\b", "the buyer team owes"],
-    ["\\bthe buyer team block\\b", "the buyer team blocks"],
-    ["\\bthe buyer team treat\\b", "the buyer team treats"],
-    ["\\bthe buyer team am\\b", "the buyer team is"],
-    ["\\bthe buyer team were\\b", "the buyer team was"],
-    ["\\bthe buyer team aren['’]t\\b", "the buyer team is not"]
+    [
+      "\\bI['’]m\\b",
+      "the buyer team is"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "the buyer team has"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "the buyer team will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "the buyer team would"
+    ],
+    [
+      "\\bI don['’]t\\b",
+      "the buyer team does not"
+    ],
+    [
+      "\\bI can['’]t\\b",
+      "the buyer team cannot"
+    ],
+    [
+      "\\bI can\\b",
+      "the buyer team can"
+    ],
+    [
+      "\\bmyself\\b",
+      "the buyer team"
+    ],
+    [
+      "\\bmine\\b",
+      "the team's"
+    ],
+    [
+      "\\bmy\\b",
+      "the owner's"
+    ],
+    [
+      "\\bme\\b",
+      "the buyer team"
+    ],
+    [
+      "\\bI\\b",
+      "the buyer team"
+    ],
+    [
+      "\\bthe buyer team ask\\b",
+      "the buyer team asks"
+    ],
+    [
+      "\\bthe buyer team want\\b",
+      "the buyer team wants"
+    ],
+    [
+      "\\bthe buyer team look\\b",
+      "the buyer team looks"
+    ],
+    [
+      "\\bthe buyer team tell\\b",
+      "the buyer team tells"
+    ],
+    [
+      "\\bthe buyer team move\\b",
+      "the buyer team moves"
+    ],
+    [
+      "\\bthe buyer team see\\b",
+      "the buyer team sees"
+    ],
+    [
+      "\\bthe buyer team work\\b",
+      "the buyer team works"
+    ],
+    [
+      "\\bthe buyer team say\\b",
+      "the buyer team says"
+    ],
+    [
+      "\\bthe buyer team have\\b",
+      "the buyer team has"
+    ],
+    [
+      "\\bthe buyer team get\\b",
+      "the buyer team gets"
+    ],
+    [
+      "\\bthe buyer team buy\\b",
+      "the buyer team buys"
+    ],
+    [
+      "\\bthe buyer team check\\b",
+      "the buyer team checks"
+    ],
+    [
+      "\\bthe buyer team need\\b",
+      "the buyer team needs"
+    ],
+    [
+      "\\bthe buyer team sell\\b",
+      "the buyer team sells"
+    ],
+    [
+      "\\bthe buyer team pull\\b",
+      "the buyer team pulls"
+    ],
+    [
+      "\\bthe buyer team know\\b",
+      "the buyer team knows"
+    ],
+    [
+      "\\bthe buyer team evaluate\\b",
+      "the buyer team evaluates"
+    ],
+    [
+      "\\bthe buyer team build\\b",
+      "the buyer team builds"
+    ],
+    [
+      "\\bthe buyer team own\\b",
+      "the buyer team owns"
+    ],
+    [
+      "\\bthe buyer team handle\\b",
+      "the buyer team handles"
+    ],
+    [
+      "\\bthe buyer team find\\b",
+      "the buyer team finds"
+    ],
+    [
+      "\\bthe buyer team value\\b",
+      "the buyer team values"
+    ],
+    [
+      "\\bthe buyer team put\\b",
+      "the buyer team puts"
+    ],
+    [
+      "\\bthe buyer team price\\b",
+      "the buyer team prices"
+    ],
+    [
+      "\\bthe buyer team keep\\b",
+      "the buyer team keeps"
+    ],
+    [
+      "\\bthe buyer team start\\b",
+      "the buyer team starts"
+    ],
+    [
+      "\\bthe buyer team run\\b",
+      "the buyer team runs"
+    ],
+    [
+      "\\bthe buyer team do\\b",
+      "the buyer team does"
+    ],
+    [
+      "\\bthe buyer team offer\\b",
+      "the buyer team offers"
+    ],
+    [
+      "\\bthe buyer team give\\b",
+      "the buyer team gives"
+    ],
+    [
+      "\\bthe buyer team share\\b",
+      "the buyer team shares"
+    ],
+    [
+      "\\bthe buyer team send\\b",
+      "the buyer team sends"
+    ],
+    [
+      "\\bthe buyer team underwrite\\b",
+      "the buyer team underwrites"
+    ],
+    [
+      "\\bthe buyer team try\\b",
+      "the buyer team tries"
+    ],
+    [
+      "\\bthe buyer team talk\\b",
+      "the buyer team talks"
+    ],
+    [
+      "\\bthe buyer team accept\\b",
+      "the buyer team accepts"
+    ],
+    [
+      "\\bthe buyer team provide\\b",
+      "the buyer team provides"
+    ],
+    [
+      "\\bthe buyer team hire\\b",
+      "the buyer team hires"
+    ],
+    [
+      "\\bthe buyer team claim\\b",
+      "the buyer team claims"
+    ],
+    [
+      "\\bthe buyer team focus\\b",
+      "the buyer team focuses"
+    ],
+    [
+      "\\bthe buyer team understand\\b",
+      "the buyer team understands"
+    ],
+    [
+      "\\bthe buyer team bring\\b",
+      "the buyer team brings"
+    ],
+    [
+      "\\bthe buyer team quote\\b",
+      "the buyer team quotes"
+    ],
+    [
+      "\\bthe buyer team think\\b",
+      "the buyer team thinks"
+    ],
+    [
+      "\\bthe buyer team hold\\b",
+      "the buyer team holds"
+    ],
+    [
+      "\\bthe buyer team gather\\b",
+      "the buyer team gathers"
+    ],
+    [
+      "\\bthe buyer team pay\\b",
+      "the buyer team pays"
+    ],
+    [
+      "\\bthe buyer team owe\\b",
+      "the buyer team owes"
+    ],
+    [
+      "\\bthe buyer team block\\b",
+      "the buyer team blocks"
+    ],
+    [
+      "\\bthe buyer team treat\\b",
+      "the buyer team treats"
+    ],
+    [
+      "\\bthe buyer team am\\b",
+      "the buyer team is"
+    ],
+    [
+      "\\bthe buyer team were\\b",
+      "the buyer team was"
+    ],
+    [
+      "\\bthe buyer team aren['’]t\\b",
+      "the buyer team is not"
+    ]
   ],
   "heroes": [
     [
@@ -173,60 +368,185 @@
     ]
   ],
   "form_fields": [
-    ["owner_name", "text", "Owner or contact name", true],
-    ["county_state", "text", "Property county and state", true],
-    ["email", "email", "Email address", true],
-    ["property_details", "textarea", "Describe the interest, records, checks, and sale question", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ],
   "taxonomy_enrichment": {
     "situations": [
-      ["Define the decision before the offer", "{name} changes the timeline, authority, documentation, tax questions, title work, retained interest, and type of closing certainty an owner needs."],
-      ["Keep unresolved items on the run sheet", "For {name}, open ownership, missing statements, unconfirmed units, title conflicts, unknown terms, and timing issues stay beside the part of the offer they could change."]
+      [
+        "Define the decision before the offer",
+        "{name} changes the timeline, authority, documentation, tax questions, title work, retained interest, and type of closing certainty an owner needs."
+      ],
+      [
+        "Keep unresolved items on the run sheet",
+        "For {name}, open ownership, missing statements, unconfirmed units, title conflicts, unknown terms, and timing issues stay beside the part of the offer they could change."
+      ]
     ],
     "interest-types": [
-      ["Price the right that was actually recorded", "{name} should be traced through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."],
-      ["Match the offer to a tract schedule", "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."]
+      [
+        "Price the right that was actually recorded",
+        "{name} should be traced through deeds, reservations, leases, assignments, units, division orders, statements, products, depths, and cost obligations before a sale is quoted."
+      ],
+      [
+        "Match the offer to a tract schedule",
+        "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, formations, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."
+      ]
     ],
     "basins": [
-      ["Use basin evidence without losing the tract", "{name} informs product mix, decline, well design, spacing, takeaway, basis, deductions, operator activity, development pace, and comparable transactions. It does not replace the property file."],
-      ["Keep checks and inventory in separate lanes", "Producing wells, intermittent wells, behind-pipe zones, permits, offsets, undeveloped benches, and broad operator acreage in {name} carry different evidence, timing, and risk."]
+      [
+        "Use basin evidence without losing the tract",
+        "{name} informs product mix, decline, well design, spacing, takeaway, basis, deductions, operator activity, development pace, and comparable transactions. It does not replace the property file."
+      ],
+      [
+        "Keep checks and inventory in separate lanes",
+        "Producing wells, intermittent wells, behind-pipe zones, permits, offsets, undeveloped benches, and broad operator acreage in {name} carry different evidence, timing, and risk."
+      ]
     ],
     "locations": [
-      ["Begin with the county record trail", "A royalty review in {name} starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and regulatory well data."],
-      ["Route local legal and tax questions correctly", "Probate, marital property, dormant-mineral law, pooling, recording, transfer tax, regulatory filings, and payor-notice rules can differ in {name}. Those questions belong with qualified advisers."],
-      ["Read the local tract against the Permian schedule", "For {name}, the royalty run sheet keeps the tract separate from broad county averages. The review pairs the legal description with producing wells, product lines, paid decimals, deductions, check history, decline, nearby permits, offset completions, operator changes, title exceptions, retained depths, and the exact property schedule in the written offer. Observed payments and recorded interests stay distinct from possible future locations, marketing claims, and assumptions that still need dated support."]
+      [
+        "Begin with the county record trail",
+        "A royalty review in {name} starts with the recording office, legal description, deed chain, reservations, lease, units, division orders, payor records, statements, and regulatory well data."
+      ],
+      [
+        "Route local legal and tax questions correctly",
+        "Probate, marital property, dormant-mineral law, pooling, recording, transfer tax, regulatory filings, and payor-notice rules can differ in {name}. Those questions belong with qualified advisers."
+      ],
+      [
+        "Read the local tract against the Permian schedule",
+        "For {name}, the royalty run sheet keeps the tract separate from broad county averages. The review pairs the legal description with producing wells, product lines, paid decimals, deductions, check history, decline, nearby permits, offset completions, operator changes, title exceptions, retained depths, and the exact property schedule in the written offer. Observed payments and recorded interests stay distinct from possible future locations, marketing claims, and assumptions that still need dated support."
+      ]
     ],
     "resources": [
-      ["Turn the guide into a tract question", "{name} should help locate a record, test a paid decimal, separate observed checks from forecast potential, compare written terms, or prepare a precise question for an adviser."],
-      ["Keep the source and date attached", "Every figure used with {name} should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."]
+      [
+        "Turn the guide into a tract question",
+        "{name} should help locate a record, test a paid decimal, separate observed checks from forecast potential, compare written terms, or prepare a precise question for an adviser."
+      ],
+      [
+        "Keep the source and date attached",
+        "Every figure used with {name} should retain its source, observation date, unit, period, property, adjustment, and fact-or-scenario label."
+      ]
     ],
     "investing": [
-      ["Reconcile production to paid royalties", "For {name}, products, volumes, realized prices, taxes, deductions, owner decimals, downtime, and adjustments should reconcile to the revenue actually paid."],
-      ["Test one driver at a time", "Price, basis, deductions, decline, downtime, development timing, title reserve, concentration, marketability, and discounting should be tested separately for {name} before scenarios are combined."],
-      ["Separate the checks from the drilling docket", "The {name} run sheet places current producing cash flow, intermittent wells, behind-pipe zones, permitted locations, offset completions, and unsupported acreage claims on different lines. Present income should not be blended with contingent future work."],
-      ["Read concentration before return", "A {name} package can depend on one operator, one well, one product, one county, or one development schedule. Those concentrations belong beside title stability, lease burdens, deductions, decline, forecast life, and marketability."],
-      ["State the forecast horizon", "A {name} review distinguishes near-term observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, terminal value, and abandonment exposure remain visible instead of disappearing into one multiple."],
-      ["Test the paid decimal", "A small decimal error can change the complete {name} result. Reconcile gross acres, net mineral acres, ownership fraction, lease royalty, unit participation, well allocation, depth limits, product limits, and suspense or adjustment history."],
-      ["Keep value labels distinct", "Fair market value, investment value, an asking price, a broker indication, and a direct buyer offer answer different questions. The {name} file identifies the intended use, effective date, property scope, exclusions, and limiting conditions."],
-      ["Show the downside case", "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. Each case retains its own dated assumptions."],
-      ["Preserve the update path", "A {name} review is easier to refresh when the file retains deeds, leases, division orders, statements, production downloads, operator notices, tax records, well lists, market evidence, assumptions, and observation dates."],
-      ["Make the handoff reviewable", "The completed {name} run sheet should let an owner, trustee, attorney, accountant, engineer, appraiser, or investment reviewer trace each material figure to a property record and dated assumption."],
-      ["Compare the acquisition terms", "A {name} comparison places price beside the legal interest conveyed, effective date, receivables, suspense, title reserves, curative cost, retained depths, retained acres, representations, funding method, and closing timing. Two equal headline prices can produce materially different net results."],
-      ["Record the decision rule", "The owner’s decision rule for {name} should state the income need, liquidity deadline, concentration limit, willingness to retain future upside, tax questions, acceptable title holdback, and documents required before signing. That written rule keeps later offer changes from moving the goalposts."]
+      [
+        "Reconcile production to paid royalties",
+        "For {name}, products, volumes, realized prices, taxes, deductions, owner decimals, downtime, and adjustments should reconcile to the revenue actually paid."
+      ],
+      [
+        "Test one driver at a time",
+        "Price, basis, deductions, decline, downtime, development timing, title reserve, concentration, marketability, and discounting should be tested separately for {name} before scenarios are combined."
+      ],
+      [
+        "Separate the checks from the drilling docket",
+        "The {name} run sheet places current producing cash flow, intermittent wells, behind-pipe zones, permitted locations, offset completions, and unsupported acreage claims on different lines. Present income should not be blended with contingent future work."
+      ],
+      [
+        "Read concentration before return",
+        "A {name} package can depend on one operator, one well, one product, one county, or one development schedule. Those concentrations belong beside title stability, lease burdens, deductions, decline, forecast life, and marketability."
+      ],
+      [
+        "State the forecast horizon",
+        "A {name} review distinguishes near-term observed checks, medium-term decline, and longer-term development assumptions. Shut-in periods, workovers, recompletions, terminal value, and abandonment exposure remain visible instead of disappearing into one multiple."
+      ],
+      [
+        "Test the paid decimal",
+        "A small decimal error can change the complete {name} result. Reconcile gross acres, net mineral acres, ownership fraction, lease royalty, unit participation, well allocation, depth limits, product limits, and suspense or adjustment history."
+      ],
+      [
+        "Keep value labels distinct",
+        "Fair market value, investment value, an asking price, a broker indication, and a direct buyer offer answer different questions. The {name} file identifies the intended use, effective date, property scope, exclusions, and limiting conditions."
+      ],
+      [
+        "Show the downside case",
+        "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability. Each case retains its own dated assumptions."
+      ],
+      [
+        "Preserve the update path",
+        "A {name} review is easier to refresh when the file retains deeds, leases, division orders, statements, production downloads, operator notices, tax records, well lists, market evidence, assumptions, and observation dates."
+      ],
+      [
+        "Make the handoff reviewable",
+        "The completed {name} run sheet should let an owner, trustee, attorney, accountant, engineer, appraiser, or investment reviewer trace each material figure to a property record and dated assumption."
+      ],
+      [
+        "Compare the acquisition terms",
+        "A {name} comparison places price beside the legal interest conveyed, effective date, receivables, suspense, title reserves, curative cost, retained depths, retained acres, representations, funding method, and closing timing. Two equal headline prices can produce materially different net results."
+      ],
+      [
+        "Record the decision rule",
+        "The owner’s decision rule for {name} should state the income need, liquidity deadline, concentration limit, willingness to retain future upside, tax questions, acceptable title holdback, and documents required before signing. That written rule keeps later offer changes from moving the goalposts."
+      ]
     ],
     "exchange-1031": [
-      ["Put exchange planning before closing", "{name} begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing."],
-      ["Write deadlines as calendar dates", "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, inspections, backup choices, and closing tasks."],
-      ["Keep proceeds outside owner control", "Planning for {name} documents when the qualified intermediary is engaged, how assignment notices are delivered, who may direct funds, and which closing records confirm the handoff. This website does not act as intermediary."],
-      ["Confirm taxpayer and vesting", "The {name} file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified legal and tax review."],
-      ["Build a replacement-property file", "A candidate for {name} needs more than a marketing summary. Gather title, lease burdens, producing wells, revenue history, operator records, development evidence, value support, financing conditions, closing constraints, and adviser questions."],
-      ["Track identification language", "The identification record for {name} preserves the property description, delivery time, recipient, selection rule, amendments, and backup candidates. Vague references to a basin, fund, acreage package, or future purchase invite avoidable ambiguity."],
-      ["Reconcile value and debt separately", "For {name}, relinquished value, replacement value, debt paid, debt added, cash proceeds, transaction costs, and any retained amount stay on separate lines for qualified intermediary and tax-adviser review."],
-      ["Keep valuation and tax roles separate", "The {name} run sheet can compare relinquished and replacement-property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as qualified intermediary, or direct closing funds."],
-      ["Archive the exchange evidence", "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary statements, title records, financing, value support, adviser correspondence, and the final property schedule."],
-      ["Close with open questions visible", "Before {name} closes, the file shows which questions were answered by tax counsel, the qualified intermediary, title, valuation, financing, and closing professionals. Unresolved timing, debt, title, related-party, or property-character issues stay visible."],
-      ["Keep the relinquished and replacement schedules separate", "The {name} file should preserve a complete schedule for the interest sold and a separate schedule for each property considered for replacement. Ownership, legal descriptions, products, depths, burdens, operators, checks, debt, value support, and closing conditions should not be blended."],
-      ["Prepare backup properties before the deadline", "A {name} timeline is stronger when backup candidates receive early title, operating, valuation, financing, and closing review. A backup that cannot be described precisely, financed, diligenced, or closed within the available period is not a dependable backup."]
+      [
+        "Put exchange planning before closing",
+        "{name} begins before the owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing."
+      ],
+      [
+        "Write deadlines as calendar dates",
+        "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, inspections, backup choices, and closing tasks."
+      ],
+      [
+        "Keep proceeds outside owner control",
+        "Planning for {name} documents when the qualified intermediary is engaged, how assignment notices are delivered, who may direct funds, and which closing records confirm the handoff. This website does not act as intermediary."
+      ],
+      [
+        "Confirm taxpayer and vesting",
+        "The {name} file identifies the taxpayer, current vesting, relinquished interest, contract parties, proposed replacement property, debt, expected proceeds, and entity questions for qualified legal and tax review."
+      ],
+      [
+        "Build a replacement-property file",
+        "A candidate for {name} needs more than a marketing summary. Gather title, lease burdens, producing wells, revenue history, operator records, development evidence, value support, financing conditions, closing constraints, and adviser questions."
+      ],
+      [
+        "Track identification language",
+        "The identification record for {name} preserves the property description, delivery time, recipient, selection rule, amendments, and backup candidates. Vague references to a basin, fund, acreage package, or future purchase invite avoidable ambiguity."
+      ],
+      [
+        "Reconcile value and debt separately",
+        "For {name}, relinquished value, replacement value, debt paid, debt added, cash proceeds, transaction costs, and any retained amount stay on separate lines for qualified intermediary and tax-adviser review."
+      ],
+      [
+        "Keep valuation and tax roles separate",
+        "The {name} run sheet can compare relinquished and replacement-property economics, but it does not determine eligibility, choose an identification rule, provide tax advice, act as qualified intermediary, or direct closing funds."
+      ],
+      [
+        "Archive the exchange evidence",
+        "A completed {name} file retains contracts, assignments, identification notices, delivery evidence, settlement statements, intermediary statements, title records, financing, value support, adviser correspondence, and the final property schedule."
+      ],
+      [
+        "Close with open questions visible",
+        "Before {name} closes, the file shows which questions were answered by tax counsel, the qualified intermediary, title, valuation, financing, and closing professionals. Unresolved timing, debt, title, related-party, or property-character issues stay visible."
+      ],
+      [
+        "Keep the relinquished and replacement schedules separate",
+        "The {name} file should preserve a complete schedule for the interest sold and a separate schedule for each property considered for replacement. Ownership, legal descriptions, products, depths, burdens, operators, checks, debt, value support, and closing conditions should not be blended."
+      ],
+      [
+        "Prepare backup properties before the deadline",
+        "A {name} timeline is stronger when backup candidates receive early title, operating, valuation, financing, and closing review. A backup that cannot be described precisely, financed, diligenced, or closed within the available period is not a dependable backup."
+      ]
     ]
   }
 }
