@@ -417,7 +417,7 @@
           "action": "relabel",
           "ops": [
             {"sel": ".cmp-text h2", "copy": "about_intro_title"},
-            {"sel": ".cmp-text p", "copy": "about_intro"}
+            {"sel": ".cmp-text p", "copy": "about_intro_body"}
           ]
         },
         {
@@ -615,6 +615,7 @@
       "card_fields": {
         "title": ".cmp-teaser__title",
         "sub": ".cmp-teaser__description p",
+        "summary_chars": 200,
         "more": ".cmp-button__text",
         "image": ".cmp-teaser__image"
       },

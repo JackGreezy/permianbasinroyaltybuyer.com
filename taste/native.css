@@ -1,0 +1,157 @@
+/* permianbasinroyaltybuyer.com — Mortenson-native skin for engine-injected components.
+   Donor tokens: urw-din-condensed / urw-din-semi-condensed headings, urw-din body;
+   blue #007cc2, deep blue #004f8c, charcoal #231f20, black #1c1c1c, gray #f5f5f5,
+   green #769e2e, orange eyebrow #f88900. Buttons: black .cmp-button, small uppercase DIN, 2px radius. */
+
+/* ---------- Header: white bar, uppercase DIN nav, black button ---------- */
+html body.rr-native header .cmp-header__nav-search{display:none!important}
+html body.rr-native header .rr-dropdown-menu{display:none!important}
+html body.rr-native header .rr-header-utility{gap:28px!important;align-items:center!important}
+html body.rr-native header .rr-header-explore-toggle{display:none!important}
+html body.rr-native header .rr-header-explore::after{content:none!important;display:none!important}
+html body.rr-native header .rr-header-submenu{position:static!important;display:flex!important;align-items:center!important;gap:0 26px!important;width:auto!important;margin:0!important;padding:0!important;list-style:none!important;visibility:visible!important;opacity:1!important;pointer-events:auto!important;transform:none!important}
+html body.rr-native header .rr-header-submenu::before{content:none!important;display:none!important}
+html body.rr-native header .rr-header-submenu li{display:block!important;margin:0!important;padding:0!important}
+html body.rr-native header .rr-header-submenu a{display:block!important;padding:0!important;border:0!important;background:none!important;color:#1c1c1c!important;font-family:urw-din-condensed,sans-serif!important;font-size:15px!important;font-weight:500!important;letter-spacing:.04em!important;line-height:1!important;text-transform:uppercase!important;text-decoration:none!important;white-space:nowrap!important}
+html body.rr-native header .rr-header-submenu a:hover,html body.rr-native header .rr-header-submenu a:focus-visible{background:none!important;color:#007cc2!important}
+html body.rr-native header a.rr-header-phone{padding:0!important;color:#1c1c1c!important;font-family:urw-din-condensed,sans-serif!important;font-size:15px!important;font-weight:500!important;letter-spacing:.04em!important;line-height:1!important;text-decoration:none!important}
+html body.rr-native header a.rr-header-cta{display:inline-flex!important;align-items:center!important;min-height:0!important;height:auto!important;padding:9px 14px 8px!important;border:0!important;border-radius:2px!important;background:#1c1c1c!important;color:#fff!important;font-family:urw-din-condensed,sans-serif!important;font-size:14px!important;font-weight:500!important;letter-spacing:.06em!important;line-height:1!important;text-transform:uppercase!important;text-decoration:none!important;box-shadow:none!important}
+html body.rr-native header a.rr-header-cta:hover{background:#007cc2!important}
+
+/* Wordmark: donor logotype — condensed uppercase, charcoal + blue line, never broken */
+html body.rr-native .rr-wordmark{display:inline-flex!important;flex-direction:column!important;align-items:flex-start!important;max-width:none!important;width:max-content!important;font-family:urw-din-condensed,sans-serif!important;line-height:1!important;white-space:nowrap!important;text-decoration:none!important}
+html body.rr-native .rr-wordmark .rr-wm-1{color:#1c1c1c!important;font-size:22px!important;font-weight:600!important;letter-spacing:.03em!important;line-height:1!important;white-space:nowrap!important;overflow-wrap:normal!important}
+html body.rr-native .rr-wordmark .rr-wm-2{margin-top:2px!important;color:#007cc2!important;font-size:11.5px!important;font-weight:600!important;letter-spacing:.2em!important;line-height:1!important;white-space:nowrap!important;overflow-wrap:normal!important;opacity:1!important}
+
+/* Burger + drawer: donor's white slide-out with uppercase DIN rows */
+html body.rr-native header .rr-burger{border:0!important;border-radius:0!important;background:none!important;color:#1c1c1c!important}
+html body.rr-native header .rr-burger span{width:24px!important;height:2px!important;background:#1c1c1c!important;opacity:1!important}
+html body.rr-native [data-rr-mobile]{background:#fff!important;color:#1c1c1c!important}
+html body.rr-native.rr-nav-open [data-rr-mobile]{padding:72px 24px 28px!important;box-shadow:-10px 0 30px rgba(0,0,0,.18)!important}
+html body.rr-native [data-rr-mobile] .rr-m-link{padding:15px 0!important;border-bottom:1px solid #e1e1e1!important;color:#1c1c1c!important;font-family:urw-din-condensed,sans-serif!important;font-size:20px!important;font-weight:500!important;letter-spacing:.04em!important;text-transform:uppercase!important;text-decoration:none!important}
+html body.rr-native [data-rr-mobile] .rr-m-link[href^="/contact"]{margin-top:18px!important;padding:13px 16px!important;border:0!important;border-radius:2px!important;background:#1c1c1c!important;color:#fff!important;font-size:17px!important}
+html body.rr-native [data-rr-mobile] .rr-m-link[href^="tel:"]{border:0!important;color:#007cc2!important}
+html body.rr-native [data-rr-mobile] .rr-x{color:#1c1c1c!important}
+html body.rr-native .rr-scrim{background:rgba(35,31,32,.55)!important}
+
+/* ---------- Home ---------- */
+/* Rails: donor article/project teasers with a single cover photo and natural card height */
+html body.rr-native .cmp-related-articles .article-teaser{align-items:stretch!important;height:auto!important;min-height:0!important;background:#fff!important}
+html body.rr-native .cmp-related-articles .article-teaser__image{flex:0 0 44%!important;width:44%!important;height:auto!important;min-height:300px!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important}
+html body.rr-native .cmp-related-articles .article-teaser__image .cmp-image{display:none!important}
+html body.rr-native .cmp-related-articles .article-teaser__content{flex:1 1 56%!important;height:auto!important;min-height:0!important;padding:24px 22px!important;box-sizing:border-box!important}
+html body.rr-native .cmp-related-articles .article-teaser__category{color:#c45f00!important}
+html body.rr-native .cmp-related-articles__cta a.cmp-button,html body.rr-native .cmp-related-projects__cta a.cmp-button{display:inline-flex!important;align-items:center!important;padding:10px 16px 9px!important;border:0!important;border-radius:2px!important;background:#1c1c1c!important;color:#fff!important;font-family:urw-din-condensed,sans-serif!important;font-size:14px!important;font-weight:500!important;letter-spacing:.06em!important;text-transform:uppercase!important;text-decoration:none!important}
+html body.rr-native .cmp-related-articles__cta a.cmp-button *,html body.rr-native .cmp-related-projects__cta a.cmp-button *{color:#fff!important}
+html body.rr-native .related-projects:not([data-rr-taste-related]) .article-teaser__image{height:280px!important;min-height:0!important}
+html body.rr-native .related-projects:not([data-rr-taste-related]) .article-teaser__image .cmp-image,html body.rr-native .related-projects:not([data-rr-taste-related]) .article-teaser__image figure,html body.rr-native .related-projects:not([data-rr-taste-related]) .article-teaser__image picture{height:100%!important}
+html body.rr-native .related-projects:not([data-rr-taste-related]) .article-teaser__content{height:auto!important;min-height:0!important;padding:18px 20px 22px!important}
+html body.rr-native .related-projects:not([data-rr-taste-related]) .article-teaser{height:auto!important}
+
+/* About: split teasers on charcoal read in white; captions over photos get the donor shade */
+
+
+/* ---------- Slug: the donor project page ---------- */
+html body.rr-native.rr-taste-slug main.main-wrapper{display:flex!important;flex-direction:column!important;align-items:stretch!important;overflow-x:clip!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero{position:relative!important;left:50%!important;display:flex!important;flex-direction:column!important;justify-content:flex-end!important;box-sizing:border-box!important;width:100vw!important;min-width:0!important;max-width:none!important;height:clamp(360px,34vw,520px)!important;min-height:0!important;margin:0 0 0 -50vw!important;padding:0!important;border:0!important;border-radius:0!important;background:#231f20!important;box-shadow:none!important;overflow:hidden!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero::before{content:none!important;display:none!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero::after{content:""!important;position:absolute!important;inset:0!important;z-index:1!important;display:block!important;background:linear-gradient(90deg,rgba(0,0,0,.62) 0%,rgba(0,0,0,.28) 55%,rgba(0,0,0,.08) 100%)!important;pointer-events:none!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero-media{position:absolute!important;inset:0!important;z-index:0!important;display:block!important;width:100%!important;height:100%!important;max-width:none!important;border-radius:0!important;object-fit:cover!important;opacity:1!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero-copy{position:relative!important;z-index:2!important;box-sizing:border-box!important;width:min(1248px,calc(100vw - 48px))!important;max-width:none!important;margin:0 auto!important;padding:0 0 clamp(40px,5vw,72px)!important;background:none!important;border:0!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero h1{max-width:18ch!important;min-width:0!important;margin:0!important;color:#fff!important;font-family:urw-din-semi-condensed,urw-din-condensed,sans-serif!important;font-size:clamp(40px,4.4vw,64px)!important;font-weight:400!important;letter-spacing:0!important;line-height:1.02!important;text-shadow:none!important;text-transform:none!important}
+html body.rr-native.rr-taste-slug .rr-taste-prose-shell{position:static!important;box-sizing:border-box!important;width:min(824px,calc(100vw - 48px))!important;max-width:none!important;margin:0 auto!important;padding:56px 0 24px!important;border:0!important;border-radius:0!important;background:none!important;box-shadow:none!important}
+html body.rr-native [data-rr-taste-prose]{width:auto!important;max-width:none!important;margin:0!important;padding:0!important;color:#1c1c1c!important}
+html body.rr-native [data-rr-taste-prose]>p,html body.rr-native [data-rr-taste-prose] li{color:#231f20!important;font-family:urw-din,sans-serif!important;font-size:17px!important;line-height:1.6!important}
+html body.rr-native [data-rr-taste-prose]>h2,html body.rr-native [data-rr-taste-prose]>h3{margin:44px 0 14px!important;color:#1c1c1c!important;font-family:urw-din-semi-condensed,urw-din-condensed,sans-serif!important;font-size:clamp(28px,2.6vw,36px)!important;font-weight:400!important;letter-spacing:0!important;line-height:1.1!important;text-transform:none!important}
+html body.rr-native [data-rr-taste-prose] a{color:#007cc2!important}
+
+/* Slug FAQ: the donor contact "How can we help" grid, questions set as DIN heads */
+html body.rr-native [data-rr-taste-faq]{box-sizing:border-box!important;width:min(1248px,calc(100vw - 48px))!important;margin:32px auto 0!important;padding:56px 0 24px!important;border-top:1px solid #e1e1e1!important;background:none!important}
+html body.rr-native [data-rr-taste-faq] .eyebrow{margin:0 0 8px!important;color:#c45f00!important;font-family:urw-din-condensed,sans-serif!important;font-size:14px!important;font-weight:600!important;letter-spacing:.08em!important;text-transform:uppercase!important}
+html body.rr-native [data-rr-taste-faq] h3{margin:0 0 8px!important;color:#1c1c1c!important;font-family:urw-din-semi-condensed,urw-din-condensed,sans-serif!important;font-size:clamp(30px,3vw,42px)!important;font-weight:400!important;line-height:1.05!important}
+html body.rr-native [data-rr-taste-faq] .aem-Grid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:36px 56px!important}
+html body.rr-native [data-rr-taste-faq] .aem-GridColumn{width:auto!important;float:none!important;padding:0!important}
+html body.rr-native [data-rr-taste-faq] h4{margin:0 0 10px!important;color:#1c1c1c!important;font-family:urw-din-condensed,sans-serif!important;font-size:20px!important;font-weight:600!important;letter-spacing:.02em!important;line-height:1.2!important;text-transform:uppercase!important}
+html body.rr-native [data-rr-taste-faq] .cmp-text p{margin:0!important;color:#4a4a4a!important;font-family:urw-din,sans-serif!important;font-size:16px!important;line-height:1.55!important}
+
+/* Slug related: the donor "Related Projects" rail, text cards */
+html body.rr-native [data-rr-taste-related].related-projects{box-sizing:border-box!important;width:100vw!important;margin:56px 0 0 calc(50% - 50vw)!important;padding:64px 0 72px!important;background:#f5f5f5!important}
+html body.rr-native [data-rr-taste-related] .cmp-related-projects__wrapper{box-sizing:border-box!important;width:min(1248px,calc(100vw - 48px))!important;margin:0 auto!important}
+html body.rr-native [data-rr-taste-related] .cmp-related-projects__content{display:flex!important;align-items:flex-end!important;justify-content:space-between!important;gap:24px!important;margin:0 0 28px!important}
+html body.rr-native [data-rr-taste-related] h2{margin:0!important;color:#1c1c1c!important;font-family:urw-din-semi-condensed,urw-din-condensed,sans-serif!important;font-size:clamp(30px,3vw,42px)!important;font-weight:400!important;line-height:1.05!important}
+html body.rr-native [data-rr-taste-related] .cmp-related-projects__posts-wrapper{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:16px!important;transform:none!important}
+html body.rr-native [data-rr-taste-related] .teaser{width:auto!important;margin:0!important}
+html body.rr-native [data-rr-taste-related] .article-teaser__action-link{display:block!important;height:100%!important;text-decoration:none!important}
+html body.rr-native [data-rr-taste-related] .article-teaser{display:block!important;height:100%!important;box-sizing:border-box!important;padding:26px 24px 30px!important;border-top:3px solid #007cc2!important;background:#fff!important}
+html body.rr-native [data-rr-taste-related] .article-teaser__content{height:auto!important;padding:0!important}
+html body.rr-native [data-rr-taste-related] h3{margin:0 0 10px!important;color:#1c1c1c!important;font-family:urw-din-semi-condensed,urw-din-condensed,sans-serif!important;font-size:24px!important;font-weight:400!important;line-height:1.15!important}
+html body.rr-native [data-rr-taste-related] .article-teaser__project-description p{margin:0!important;color:#4a4a4a!important;font-family:urw-din,sans-serif!important;font-size:15px!important;line-height:1.5!important}
+html body.rr-native [data-rr-taste-related] .article-teaser__action-link:hover h3{color:#007cc2!important}
+
+/* Slug closing CTA: the donor blue statement band */
+html body.rr-native [data-rr-taste-cta]{box-sizing:border-box!important;width:100vw!important;margin:0 0 0 calc(50% - 50vw)!important;padding:80px 24px!important;background:#004f8c!important;text-align:center!important}
+html body.rr-native [data-rr-taste-cta] .cmp-section__container{max-width:824px!important;margin:0 auto!important}
+html body.rr-native [data-rr-taste-cta] .eyebrow{margin:0 0 10px!important;color:#9fd3f2!important;font-family:urw-din-condensed,sans-serif!important;font-size:14px!important;font-weight:600!important;letter-spacing:.08em!important;text-transform:uppercase!important}
+html body.rr-native [data-rr-taste-cta] h2{margin:0 0 14px!important;color:#fff!important;font-family:urw-din-semi-condensed,urw-din-condensed,sans-serif!important;font-size:clamp(32px,3.4vw,48px)!important;font-weight:400!important;line-height:1.05!important}
+html body.rr-native [data-rr-taste-cta] .para-lrg{color:rgba(255,255,255,.9)!important;font-family:urw-din,sans-serif!important;font-size:18px!important;line-height:1.5!important}
+html body.rr-native [data-rr-taste-cta] p:last-child{display:flex!important;flex-wrap:wrap!important;justify-content:center!important;gap:12px!important;margin:26px 0 0!important}
+html body.rr-native [data-rr-taste-cta] a.cmp-button{display:inline-flex!important;align-items:center!important;padding:11px 18px 10px!important;border:1px solid #fff!important;border-radius:2px!important;background:transparent!important;color:#fff!important;font-family:urw-din-condensed,sans-serif!important;font-size:15px!important;font-weight:500!important;letter-spacing:.06em!important;text-transform:uppercase!important;text-decoration:none!important}
+html body.rr-native [data-rr-taste-cta] a.cmp-button:first-child{border-color:#769e2e!important;background:#769e2e!important}
+html body.rr-native [data-rr-taste-cta] a.cmp-button *{color:#fff!important}
+
+/* ---------- Contact: donor-plain white form, DIN labels, black button ---------- */
+html body.rr-native #contact-form{box-sizing:border-box!important;max-width:760px!important;margin:32px auto 0!important;padding:0!important;border:0!important;border-radius:0!important;background:none!important;box-shadow:none!important}
+html body.rr-native #contact-form label{margin:0 0 6px!important;color:#1c1c1c!important;font-family:urw-din-condensed,sans-serif!important;font-size:14px!important;font-weight:600!important;letter-spacing:.08em!important;text-transform:uppercase!important}
+html body.rr-native #contact-form input,html body.rr-native #contact-form textarea{box-sizing:border-box!important;width:100%!important;padding:11px 12px!important;border:1px solid #ccc!important;border-radius:2px!important;background:#fff!important;color:#1c1c1c!important;font:400 16px/1.4 urw-din,sans-serif!important;box-shadow:none!important}
+html body.rr-native #contact-form input:focus,html body.rr-native #contact-form textarea:focus{border-color:#007cc2!important;outline:0!important}
+html body.rr-native #contact-form input::placeholder,html body.rr-native #contact-form textarea::placeholder{color:transparent!important}
+html body.rr-native #contact-form button[type=submit]{padding:12px 20px 11px!important;border:0!important;border-radius:2px!important;background:#1c1c1c!important;color:#fff!important;font:500 15px/1 urw-din-condensed,sans-serif!important;letter-spacing:.06em!important;text-transform:uppercase!important;cursor:pointer!important;box-shadow:none!important}
+html body.rr-native #contact-form button[type=submit]:hover{background:#007cc2!important}
+html body.rr-native .rr-contact-map{border:0!important;border-radius:0!important;box-shadow:none!important}
+
+/* ---------- Footer: donor charcoal footer, giant condensed name line ---------- */
+html body.rr-native footer.footer{background:#231f20!important}
+html body.rr-native footer .cmp-footer,html body.rr-native footer .cmp-footer__container{background-color:#231f20!important}
+html body.rr-native footer .rr-wordmark .rr-wm-1{color:#fff!important;font-size:clamp(40px,4.6vw,64px)!important;font-weight:500!important;letter-spacing:.01em!important}
+html body.rr-native footer .rr-wordmark .rr-wm-2{margin-top:6px!important;color:#7fc4ec!important;font-size:14px!important;letter-spacing:.24em!important}
+html body.rr-native footer .cmp-navigation__item-link{color:#fff!important;font-family:urw-din,sans-serif!important;font-size:14px!important;font-weight:600!important;text-decoration:none!important}
+html body.rr-native footer .cmp-navigation__item-link:hover{color:#7fc4ec!important}
+html body.rr-native footer .cmp-footer__copyright-link{color:#fff!important;font-family:urw-din,sans-serif!important;font-size:12px!important;font-weight:600!important;text-decoration:underline!important;text-underline-offset:3px!important}
+html body.rr-native footer .cmp-footer__copyright-text{color:#bdbdbd!important;font-family:urw-din,sans-serif!important;font-size:11px!important}
+html body.rr-native footer .rr-footer-map{box-sizing:border-box!important;width:min(1248px,calc(100% - 48px))!important;max-width:none!important;height:240px!important;min-height:240px!important;margin:8px auto 32px!important;border:0!important;border-radius:0!important;background:#3a3536!important;box-shadow:none!important;filter:grayscale(.2)!important}
+html body.rr-native footer .rr-footer-ia{box-sizing:border-box!important;width:min(1248px,calc(100% - 48px))!important;margin:0 auto!important;padding:0 0 40px!important;gap:10px 22px!important;background:none!important;font-family:urw-din,sans-serif!important;font-size:12px!important;font-weight:600!important;letter-spacing:0!important;text-transform:none!important}
+html body.rr-native footer .rr-footer-ia a{color:#fff!important;text-decoration:underline!important;text-underline-offset:3px!important}
+html body.rr-native footer .rr-footer-ia a:hover{color:#7fc4ec!important}
+
+@media(max-width:767px){
+  html body.rr-native header .rr-wordmark{margin-left:4px!important}
+  html body.rr-native .rr-wordmark .rr-wm-1{font-size:20px!important}
+  html body.rr-native [data-rr-taste-faq] .aem-Grid{grid-template-columns:1fr!important;gap:28px!important}
+  html body.rr-native [data-rr-taste-related] .cmp-related-projects__posts-wrapper{grid-template-columns:1fr!important}
+  html body.rr-native [data-rr-taste-related] .cmp-related-projects__content{flex-direction:column!important;align-items:flex-start!important}
+  html body.rr-native .cmp-related-articles .article-teaser{flex-direction:column!important}
+  html body.rr-native .cmp-related-articles .article-teaser__image{flex:none!important;width:100%!important;min-height:220px!important}
+  html body.rr-native footer .rr-wordmark .rr-wm-1{font-size:38px!important}
+  html body.rr-native footer .rr-footer-ia{flex-direction:column!important;align-items:flex-start!important}
+}
+/* About: split teasers set on the donor charcoal band read in white */
+html body.rr-native .cmp-section--background-color-black .cmp-teaser-multi-image__description,html body.rr-native .cmp-section--background-color-black .cmp-teaser-multi-image__description p{color:#fff!important}
+html body.rr-native [data-rr-taste-faq] .cmp-grid-container__items{margin:0!important;width:auto!important}
+html body.rr-native [data-rr-taste-faq] .cmp-grid-container{overflow:visible!important}
+html body.rr-native [data-rr-taste-related] .cmp-related-projects__content,html body.rr-native [data-rr-taste-related] .cmp-related-projects__content-wrapper{background:none!important;padding:0!important}
+/* Rails: keep the donor scrollbar clear of the square arrows */
+html body.rr-native .cmp-related-projects .swiper-scrollbar,html body.rr-native .cmp-related-articles .swiper-scrollbar{max-width:calc(100% - 124px)!important}
+@media(max-width:767px){
+  html body.rr-native header .cmp-header__logo{padding-left:12px!important}
+  html body.rr-native .cmp-carousel .cmp-carousel__indicators{display:none!important}
+}
+/* Contact map: set inside the donor 1248 column */
+html body.rr-native .rr-contact-map{box-sizing:border-box!important;width:min(1248px,calc(100vw - 48px))!important;max-width:none!important;height:360px!important;margin:24px auto 8px!important;background:#f5f5f5!important}
+@media(max-width:767px){html body.rr-native .rr-contact-map{height:260px!important}}
+/* Home hero carousel: the slide can be measured a few px short on first paint; the active
+   slide bleeds over the neighbour so no sliver of the next photo shows */
+html body.rr-native .cmp-carousel .cmp-carousel__item{position:relative!important;overflow:visible!important}
+html body.rr-native .cmp-carousel .cmp-carousel__item.swiper-slide-active{z-index:2!important}
+html body.rr-native .cmp-carousel .cmp-carousel__item .hero-banner{width:100vw!important;max-width:none!important}
+/* Engine fallback burger: added when the real one has scrolled out of view; the real burger is always present */
+html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
