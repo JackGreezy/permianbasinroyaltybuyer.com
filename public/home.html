@@ -87,7 +87,7 @@ html body header .rr-dropdown-host.rr-dropdown-host:hover:not(.rr-dropdown-suppr
 html body header .rr-dropdown-host.rr-dropdown-host:focus-within:not(.rr-dropdown-suppress)>.rr-dropdown-menu.rr-dropdown-menu,
 html body header .rr-dropdown-host.rr-dropdown-host.rr-dropdown-open>.rr-dropdown-menu.rr-dropdown-menu{opacity:1!important;visibility:visible!important;pointer-events:auto!important;transform:none!important}
 header .rr-dropdown-menu .rr-dropdown-link{position:relative!important;display:flex!important;align-items:center!important;width:100%!important;min-height:44px!important;margin:0!important;padding:10px 14px!important;box-sizing:border-box!important;border:0!important;background:transparent!important;font-family:inherit!important;letter-spacing:0!important;text-align:left!important;text-decoration:none!important;text-transform:none!important;white-space:normal!important}
-header .rr-dropdown-menu .rr-dropdown-link::after{content:""!important;position:absolute!important;right:14px!important;width:7px!important;height:7px!important;transform:rotate(45deg)!important}
+header .rr-dropdown-menu .rr-dropdown-link::after{content:""!important;position:absolute!important;right:14px!important;width:7px!important;height:7px!important;border-top:1.5px solid currentColor!important;border-right:1.5px solid currentColor!important;transform:rotate(45deg)!important}
 header .rr-dropdown-menu .rr-dropdown-link--all{margin-top:6px!important}
 @media(max-width:980px){header .rr-dropdown-menu{display:none!important}}</style><style data-rr-native-filtered="1" id="rr-chrome">.skip-link,.visually-hidden{position:absolute!important;left:-9999px!important;width:1px;height:1px;overflow:hidden}
 .rr-wordmark{display:flex;flex-direction:column;justify-content:center;text-decoration:none;color:inherit;white-space:nowrap}
@@ -146,7 +146,7 @@ html,body{max-width:100%!important;overflow-x:clip!important}
 .rr-home-h1{position:relative!important;z-index:2!important;max-width:15ch!important;margin:.8rem 0 1.25rem!important;font-family:inherit!important;text-wrap:balance!important}
 header .rr-header-explore{position:relative!important}
 header .rr-header-explore-toggle{display:inline-flex!important;align-items:center!important;color:inherit!important;text-decoration:none!important;white-space:nowrap!important}
-header .rr-header-explore-toggle::after{content:""!important;display:block!important;width:.45rem!important;height:.45rem!important;margin-left:.55rem!important;transform:translateY(-2px) rotate(45deg)!important}
+header .rr-header-explore-toggle::after{content:""!important;display:block!important;width:.45rem!important;height:.45rem!important;margin-left:.55rem!important;border-right:2px solid currentColor!important;border-bottom:2px solid currentColor!important;transform:translateY(-2px) rotate(45deg)!important}
 header .rr-dropdown-host{position:relative!important;display:flex!important;align-items:stretch!important;overflow:visible!important}
 header .rr-dropdown-host::before{content:""!important;position:absolute!important;z-index:99998!important;top:100%!important;left:0!important;width:100%!important;height:12px!important;pointer-events:auto!important}
 header .rr-dropdown-host>.rr-dropdown-menu{position:absolute!important;z-index:99999!important;top:100%!important;left:0!important;display:block!important;width:max-content!important;min-width:260px!important;max-width:min(360px,calc(100vw - 24px))!important;margin:0!important;padding:10px!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important;transform:translateY(-4px)!important;transition:opacity .16s ease,visibility .16s ease,transform .16s ease!important}
@@ -402,6 +402,9 @@ html body.rr-native .cmp-carousel .cmp-carousel__item.swiper-slide-active{z-inde
 html body.rr-native .cmp-carousel .cmp-carousel__item .hero-banner{width:100vw!important;max-width:none!important}
 /* Engine fallback burger: added when the real one has scrolled out of view; the real burger is always present */
 html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
+
+/* About image-collage captions: donor spacing has 0 gap between image bottom and caption, reading as clipped/overlapping */
+html body.rr-native .cmp-teaser-multi-image__wrapper-caption{margin-top:10px!important}
 </style></head>
 <body class="homepage basepage basicpage no-focus-outline rr-taste-variant-2 rr-ref-mortenson-com rr-design-mortenson-run-sheet rr-native" data-rr-page="home" id="page-c96b63cdf7">
 <a class="basepage__skip-nav cmp-button" href="#main-content" id="skip-nav">
@@ -657,7 +660,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 <div class="cmp-related-projects__wrapper">
 <div class="cmp-related-projects__content">
 <div class="cmp-related-projects__content-wrapper">
-<h2 data-gtm-vis-first-on-screen196163689_194="7733" id="related-projects-heading">Situations</h2>
+<h2 data-gtm-vis-first-on-screen196163689_194="7733" id="related-projects-heading">Owner Situations Before a Sale</h2>
 <div class="cmp-related-projects__description">Different sale decisions require different records, timing, authority, title work, retained interests, and closing terms.</div>
 </div>
 <div class="cmp-related-projects__cta"><div class="cta button">
@@ -772,7 +775,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 <div class="cmp-related-projects__wrapper">
 <div class="cmp-related-projects__content">
 <div class="cmp-related-projects__content-wrapper">
-<h2 data-gtm-vis-first-on-screen196163689_194="7733" id="related-projects-heading">Interest Types</h2>
+<h2 data-gtm-vis-first-on-screen196163689_194="7733" id="related-projects-heading">Royalty and Mineral Interest Types</h2>
 <div class="cmp-related-projects__description">The recorded rights, depths, products, burdens, costs, and payment position control what a buyer can acquire.</div>
 </div>
 <div class="cmp-related-projects__cta"><div class="cta button">
@@ -887,7 +890,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 <div class="cmp-related-projects__wrapper">
 <div class="cmp-related-projects__content">
 <div class="cmp-related-projects__content-wrapper">
-<h2 data-gtm-vis-first-on-screen196163689_194="7733" id="related-projects-heading">Exchange 1031</h2>
+<h2 data-gtm-vis-first-on-screen196163689_194="7733" id="related-projects-heading">1031 Exchange Guides for Mineral Sales</h2>
 <div class="cmp-related-projects__description">Potential exchange planning starts before closing, with qualified intermediary and tax-adviser review.</div>
 </div>
 <div class="cmp-related-projects__cta"><div class="cta button">
@@ -1059,7 +1062,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 <div class="cmp-related-articles__wrapper">
 <div class="cmp-related-articles__content">
 <div class="cmp-related-articles__content-wrapper">
-<h2 class="cmp-related-articles__title" data-gtm-vis-first-on-screen196163689_194="8982">Resources</h2>
+<h2 class="cmp-related-articles__title" data-gtm-vis-first-on-screen196163689_194="8982">Royalty Owner Resources</h2>
 </div>
 <div class="cmp-related-articles__cta"><div class="cta button cmp-button--tertiary cmp-button--color-black">
 <a aria-label="See More Insights" class="cmp-button" href="/resources" id="button-7308432303" target="_self">All Owner Resources</a>
@@ -1081,7 +1084,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Resource</span>
+<span class="article-teaser__category insights-article">Royalty Owner Resource</span>
 </p>
 <h5 class="article-teaser__title">How to Sell Mineral Rights</h5>
 <div class="article-teaser__description">The real process for selling Permian mineral or royalty rights — documents, valuation, title, and closing — organized through the Midland run sheet.</div>
@@ -1103,7 +1106,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Resource</span>
+<span class="article-teaser__category insights-article">Royalty Owner Resource</span>
 </p>
 <h5 class="article-teaser__title">Reading Your Royalty Statements</h5>
 <div class="article-teaser__description">The Midland run sheet walks through a real Permian royalty stub line by line — gross value, deductions, decimal interest, and why the number moves every month.</div>
@@ -1125,7 +1128,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Resource</span>
+<span class="article-teaser__category insights-article">Royalty Owner Resource</span>
 </p>
 <h5 class="article-teaser__title">Division Orders Explained</h5>
 <div class="article-teaser__description">What a division order actually is, why the operator sends one, and what to check before you sign — through the Midland run sheet.</div>
@@ -1147,7 +1150,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Resource</span>
+<span class="article-teaser__category insights-article">Royalty Owner Resource</span>
 </p>
 <h5 class="article-teaser__title">What Are Mineral Rights Worth?</h5>
 <div class="article-teaser__description">How Permian mineral and royalty value is actually estimated — multiples on your check, decline, offset activity, and why no honest number is a flat rate.</div>
@@ -1169,7 +1172,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Resource</span>
+<span class="article-teaser__category insights-article">Royalty Owner Resource</span>
 </p>
 <h5 class="article-teaser__title">Documents You Need to Sell</h5>
 <div class="article-teaser__description">The paperwork a Permian mineral or royalty sale actually needs — deed, statements, tax ID, and what to do if you're missing something.</div>
@@ -1191,7 +1194,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Resource</span>
+<span class="article-teaser__category insights-article">Royalty Owner Resource</span>
 </p>
 <h5 class="article-teaser__title">How to Spot a Lowball Offer</h5>
 <div class="article-teaser__description">Signs a Permian mineral or royalty offer is priced too low — flat multiples, no well data, pressure tactics, and how to benchmark it against your check.</div>
@@ -1210,7 +1213,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 <div class="cmp-related-articles__wrapper">
 <div class="cmp-related-articles__content">
 <div class="cmp-related-articles__content-wrapper">
-<h2 class="cmp-related-articles__title" data-gtm-vis-first-on-screen196163689_194="8982">Investing</h2>
+<h2 class="cmp-related-articles__title" data-gtm-vis-first-on-screen196163689_194="8982">How Buyers Price Permian Royalties</h2>
 </div>
 <div class="cmp-related-articles__cta"><div class="cta button cmp-button--tertiary cmp-button--color-black">
 <a aria-label="See More Insights" class="cmp-button" href="/investing" id="button-7308432303" target="_self">All Mineral Investing Guides</a>
@@ -1232,7 +1235,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Investing</span>
+<span class="article-teaser__category insights-article">How Buyers Price Permian Royaltie</span>
 </p>
 <h5 class="article-teaser__title">How Royalty Income Works</h5>
 <div class="article-teaser__action-container">
@@ -1253,7 +1256,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Investing</span>
+<span class="article-teaser__category insights-article">How Buyers Price Permian Royaltie</span>
 </p>
 <h5 class="article-teaser__title">Cash Flow vs. Long-Term Value</h5>
 <div class="article-teaser__action-container">
@@ -1274,7 +1277,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Investing</span>
+<span class="article-teaser__category insights-article">How Buyers Price Permian Royaltie</span>
 </p>
 <h5 class="article-teaser__title">Producing vs. Non-Producing for Investors</h5>
 <div class="article-teaser__action-container">
@@ -1295,7 +1298,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Investing</span>
+<span class="article-teaser__category insights-article">How Buyers Price Permian Royaltie</span>
 </p>
 <h5 class="article-teaser__title">How to Evaluate a Mineral Package</h5>
 <div class="article-teaser__action-container">
@@ -1316,7 +1319,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Investing</span>
+<span class="article-teaser__category insights-article">How Buyers Price Permian Royaltie</span>
 </p>
 <h5 class="article-teaser__title">The Real Risks of Mineral Investing</h5>
 <div class="article-teaser__action-container">
@@ -1337,7 +1340,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 <div class="article-teaser__content" style="height: 482px;">
 <p class="article-teaser__info eyebrow">
-<span class="article-teaser__category insights-article">Investing</span>
+<span class="article-teaser__category insights-article">How Buyers Price Permian Royaltie</span>
 </p>
 <h5 class="article-teaser__title">Mineral Rights as an Investment</h5>
 <div class="article-teaser__action-container">
@@ -1399,7 +1402,7 @@ html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
 </div>
 </div>
 </div>
-<div class="rr-footer-map" data-rr-footer-map=""><iframe allowfullscreen="" data-rr-footer-map-frame="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=24+Smith+Rd%2C+Midland%2C+TX+79705&amp;output=embed" style="position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important" title="Google map"></iframe></div><nav class="rr-footer-ia"><a href="/locations">Locations</a><a href="/situations">Situations</a><a href="/interest-types">Interest Types</a><a href="/basins">Basins</a><a href="/resources">Resources</a><a href="/investing">Investing</a><a href="/exchange-1031">Exchange 1031</a><a href="/about">About</a><a href="/contact">Contact</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms</a></nav></footer>
+<div class="rr-footer-map" data-rr-footer-map=""><iframe allowfullscreen="" data-rr-footer-map-frame="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=24+Smith+Rd%2C+Midland%2C+TX+79705&amp;output=embed" style="position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important" title="Google map"></iframe></div><nav class="rr-footer-ia"><a href="/basins">Permian Sub-Basins and Plays</a><a href="/investing">How Buyers Price Permian Royalties</a><a href="/exchange-1031">1031 Exchange Guides for Mineral Sales</a></nav></footer>
 <div class="embedhtml contentfragment aem-GridColumn aem-GridColumn--default--12">
 <div class="cmp-embed-html" id="embedhtml-15a9d3c7dc" style="margin-bottom: 0px;">
 </div>
@@ -2153,7 +2156,11 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    var viewport=list.parentElement;
+    // Pin the viewport to its track before measuring: a site that grids/flexes this ancestor
+    // would otherwise report the sum of its unsized slides and oversize every card.
+    if(viewport&&viewport!==root){viewport.style.setProperty('width','100%','important');viewport.style.setProperty('max-width','100%','important');viewport.style.setProperty('min-width','0','important');}
+    var viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
     root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
     list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
     slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
@@ -2276,8 +2283,7 @@ document.querySelectorAll('.uf-cus-sel').forEach(function(root){
   });
   root.dataset.rrSelectReady='true';
 });
-})();</script><style id="rr-zero-js-repair">
-html,body{height:auto!important;min-height:100%!important;max-height:none!important;overflow-y:visible!important}
+})();</script><style data-rr-native-filtered="1" id="rr-zero-js-repair">html,body{height:auto!important;min-height:100%!important;max-height:none!important;overflow-y:visible!important}
 html:not(.no-js) .aos-init,html:not(.no-js) .aos-animate,.aos-init,.aos-animate,.wow,.animated,.mk-animate-element,.fade-in,.fadein,.fadeIn,.fadeInUp,.fadeInDown,.fadeInLeft,.fadeInRight,.vveani,[data-reveal],[class*="reveal"],[class*="animate__"]{opacity:1!important;transform:none!important;animation:none!important;transition:none!important;visibility:visible!important}
 h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"] h2,[class*="FullBleedStory"] h1,[class*="FullBleedStory"] h2,[class*="Text_ellipsis"],[class*="listingTitle"],[class*="listingExtraLargeTitle"]{overflow:visible!important;text-overflow:clip!important;-webkit-line-clamp:unset;-webkit-box-orient:initial!important;line-clamp:unset;display:block!important;max-height:none!important;white-space:normal!important}
 [data-rr-prose="detail"],.rr-detail-prose{display:block!important;max-width:980px!important;margin:0 auto!important;padding:72px 28px!important;font-size:18px!important;line-height:1.65!important;opacity:1!important;visibility:visible!important;transform:none!important}
@@ -2293,7 +2299,7 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-band] canvas,[data-rr-static-grid] canvas,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-button-prev,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-button-next,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
 [data-rr-carousel]{position:relative!important}
 [data-rr-carousel]>.rr-carousel-controls{position:absolute!important;right:20px!important;bottom:20px!important;left:auto!important;top:auto!important;z-index:30!important;display:flex!important;justify-content:flex-end!important;gap:10px!important;width:auto!important;height:auto!important;margin:0!important;transform:none!important}
-[data-rr-carousel] .rr-carousel-control{position:relative!important;display:grid!important;place-items:center!important;box-sizing:border-box!important;min-width:44px!important;width:44px!important;height:44px!important;padding:0!important;border:2px solid #fff!important;border-radius:999px!important;background:var(--rr-taste-dark,#111)!important;color:#fff!important;cursor:pointer!important}
+[data-rr-carousel] .rr-carousel-control{position:relative!important;display:grid!important;place-items:center!important;box-sizing:border-box!important;min-width:44px!important;width:44px!important;height:44px!important;padding:0!important;cursor:pointer!important}
 [data-rr-carousel] .rr-carousel-control::before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-top:2px solid currentColor!important;border-right:2px solid currentColor!important}
 [data-rr-carousel] .rr-carousel-control::after{content:none!important;display:none!important}
 [data-rr-carousel] .rr-carousel-control--prev::before{transform:rotate(-135deg)!important;margin-left:4px!important}
@@ -2303,7 +2309,7 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-band="resources"] [data-rr-carousel="direct"] .swiper-slide article>.flex{flex-direction:column!important;align-items:flex-start!important}
 [data-rr-band="resources"] [data-rr-carousel="direct"] .swiper-slide article>.flex>p{display:block!important;width:100%!important;min-width:0!important;word-break:normal!important;overflow-wrap:break-word!important}
 [data-rr-carousel="agency"] .rr-agency-controls{display:flex!important;justify-content:flex-end!important;gap:10px!important;margin:24px 0 0!important}
-[data-rr-carousel="agency"] .rr-agency-control{display:grid!important;place-items:center!important;width:48px!important;height:48px!important;padding:0!important;border:2px solid #111!important;border-radius:0!important;background:#fff!important;color:#111!important;cursor:pointer!important}
+[data-rr-carousel="agency"] .rr-agency-control{display:grid!important;place-items:center!important;width:48px!important;height:48px!important;padding:0!important;border-radius:0!important;cursor:pointer!important}
 [data-rr-carousel="agency"] .rr-agency-control::before{content:""!important;display:block!important;width:11px!important;height:11px!important;border-top:2px solid currentColor!important;border-right:2px solid currentColor!important}
 [data-rr-carousel="agency"] .rr-agency-control--prev::before{transform:rotate(-135deg)!important;margin-left:4px!important}
 [data-rr-carousel="agency"] .rr-agency-control--next::before{transform:rotate(45deg)!important;margin-right:4px!important}
@@ -2322,7 +2328,12 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-band="situations"].section--narrative-key-numbers .card--key-number .card__text p{width:auto!important;min-width:0!important;max-width:none!important;margin:0!important;font-size:clamp(.94rem,1.15vw,1.08rem)!important;line-height:1.55!important}
 [data-rr-band="situations"].section--narrative-key-numbers .card--key-number .meta{display:none!important}
 [data-rr-band="situations"].section--narrative-key-numbers>.hidden\@md{display:none!important}
-@media(max-width:760px){[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin{display:block!important;padding:3rem 1.2rem!important}[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin>[class~="visible@md"]{display:none!important}[data-rr-band="situations"].section--narrative-key-numbers>.hidden\@md{display:grid!important;padding:2rem 1.2rem!important}[data-rr-band="situations"].section--narrative-key-numbers .cards--narrative-key-numbers{grid-template-columns:1fr!important}[data-rr-band="situations"].section--narrative-key-numbers .card--key-number{grid-template-columns:1fr!important;min-height:0!important}[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .key-number,[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .card__text{grid-column:1!important}}
+@media(max-width:760px){[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin{display:block!important;padding:3rem 1.2rem!important}
+[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin>[class~="visible@md"]{display:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers>.hidden\@md{display:grid!important;padding:2rem 1.2rem!important}
+[data-rr-band="situations"].section--narrative-key-numbers .cards--narrative-key-numbers{grid-template-columns:1fr!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number{grid-template-columns:1fr!important;min-height:0!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .key-number,[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .card__text{grid-column:1!important}}
 .mk-section-video{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;padding:0!important;transform:none!important}
 .mk-section-video img{display:block!important;width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}
 .mk-gallery .mk-svg-icon,.mk-gallery .image-hover-overlay{display:none!important}
@@ -2346,7 +2357,8 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-band] .esg-entry-content p{margin:0!important;font-size:14px!important;line-height:1.55!important;color:#444!important}
 [data-rr-band] .esg-loader{display:none!important}
 @media(max-width:900px){[data-rr-band] .esg-grid .mainul{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
-@media(max-width:560px){[data-rr-band] .esg-grid .mainul{grid-template-columns:1fr!important}[data-rr-band] .esg-entry-media-wrapper{height:230px!important}}
+@media(max-width:560px){[data-rr-band] .esg-grid .mainul{grid-template-columns:1fr!important}
+[data-rr-band] .esg-entry-media-wrapper{height:230px!important}}
 .rr-round4-hero{position:relative!important;min-height:680px!important;display:flex!important;align-items:center!important;overflow:hidden!important;background:#111!important;color:#fff!important}
 .rr-round4-hero img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important;z-index:0!important;opacity:1!important;visibility:visible!important}
 .rr-round4-hero:before{content:""!important;position:absolute!important;inset:0!important;z-index:1!important;background:linear-gradient(90deg,rgba(0,0,0,.62),rgba(0,0,0,.22))!important;pointer-events:none!important}
@@ -2354,16 +2366,15 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 .rr-round4-hero h1{max-width:900px!important;margin:0 0 20px!important;color:#fff!important;font-size:clamp(34px,5vw,76px)!important;line-height:1.04!important;text-transform:none!important;text-shadow:0 2px 26px rgba(0,0,0,.55)!important}
 .rr-round4-hero p{max-width:760px!important;margin:0 0 30px!important;color:#fff!important;font-size:clamp(18px,1.5vw,23px)!important;line-height:1.55!important;text-shadow:0 1px 18px rgba(0,0,0,.55)!important}
 .rr-round4-hero a{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:46px!important;padding:13px 24px!important;border:1px solid currentColor!important;color:#fff!important;background:rgba(0,0,0,.2)!important;text-decoration:none!important;text-transform:uppercase!important;letter-spacing:.1em!important;font-size:13px!important}
-@media(max-width:760px){.rr-round4-hero{min-height:600px!important}.rr-round4-hero-inner{width:calc(100% - 36px)!important;padding:96px 0 72px!important}.rr-round4-hero h1{font-size:clamp(28px,10vw,43px)!important}}
-@media(max-width:760px){
-#page-section-2 #fancy-title-4{font-size:36px!important;line-height:1.12!important}
+@media(max-width:760px){.rr-round4-hero{min-height:600px!important}
+.rr-round4-hero-inner{width:calc(100% - 36px)!important;padding:96px 0 72px!important}
+.rr-round4-hero h1{font-size:clamp(28px,10vw,43px)!important}}
+@media(max-width:760px){#page-section-2 #fancy-title-4{font-size:36px!important;line-height:1.12!important}
 #page-section-2 #fancy-title-5,#page-section-2 #fancy-title-6{font-size:16px!important;line-height:1.5!important;padding:0 16px!important}
 .upb_row_bg,.upb_bg_overlay,.upb_bg_overlay_pattern{left:0!important;right:auto!important;width:100%!important;min-width:100%!important;max-width:100%!important;transform:none!important}
 .mk-gallery{display:grid!important;grid-template-columns:1fr!important;gap:18px!important;width:100%!important;max-width:100%!important;height:auto!important;min-height:0!important;transform:none!important}
 .mk-gallery .mk-gallery-item,.mk-gallery .item-holder,.mk-gallery .image-hover-overlay{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;max-width:100%!important;min-width:0!important;height:auto!important;transform:none!important}
-.mk-gallery .mk-gallery-item img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;object-fit:cover!important}
-}
-</style><script id="rr-mineral-header-script">
+.mk-gallery .mk-gallery-item img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;object-fit:cover!important}}</style><script id="rr-mineral-header-script">
 document.addEventListener("DOMContentLoaded",function(){
   document.querySelectorAll("[data-rr-dropdown-trigger]").forEach(function(trigger){
     trigger.addEventListener("click",function(event){

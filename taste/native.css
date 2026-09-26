@@ -155,3 +155,6 @@ html body.rr-native .cmp-carousel .cmp-carousel__item.swiper-slide-active{z-inde
 html body.rr-native .cmp-carousel .cmp-carousel__item .hero-banner{width:100vw!important;max-width:none!important}
 /* Engine fallback burger: added when the real one has scrolled out of view; the real burger is always present */
 html body.rr-native header .rr-burger.rr-burger-fallback{display:none!important}
+
+/* About image-collage captions: donor spacing has 0 gap between image bottom and caption, reading as clipped/overlapping */
+html body.rr-native .cmp-teaser-multi-image__wrapper-caption{margin-top:10px!important}

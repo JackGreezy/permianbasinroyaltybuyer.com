@@ -58,32 +58,8 @@
       "The Midland review team"
     ],
     [
-      "\\bI['’]m\\b",
-      "we are"
-    ],
-    [
-      "\\bI['’]ve\\b",
-      "we have"
-    ],
-    [
-      "\\bI['’]ll\\b",
-      "we will"
-    ],
-    [
-      "\\bI['’]d\\b",
-      "we would"
-    ],
-    [
-      "\\bI don['’]t\\b",
-      "we do not"
-    ],
-    [
-      "\\bI can['’]t\\b",
-      "we cannot"
-    ],
-    [
-      "\\bI can\\b",
-      "we can"
+      "\\bI['\u2019]m\\b",
+      "we're"
     ],
     [
       "\\bmyself\\b",
@@ -318,7 +294,7 @@
       "the buyer team was"
     ],
     [
-      "\\bthe buyer team aren['’]t\\b",
+      "\\bthe buyer team aren['\u2019]t\\b",
       "the buyer team is not"
     ]
   ],
@@ -398,7 +374,7 @@
     "about_team_body": "Ownership, valuation questions, title follow-up, offer revisions, and closing documents stay on one visible thread so an owner is not forced to restart the property story at each step.",
     "about_reason_title": "Show the Offer Bridge",
     "about_reason_body": "The headline price sits beside cash at closing, excluded tracts or depths, retained interests, title reserves, curative responsibility, effective dates, payment timing, tax forms, and conditions that can change net proceeds.",
-    "about_scope_title": "Name the Buyer’s Lane",
+    "about_scope_title": "Name the Buyer\u2019s Lane",
     "about_scope_body": "Permian Basin Royalty Buyer is a direct buyer, not a law firm, tax adviser, title company, engineering firm, appraisal practice, broker, qualified intermediary, or fiduciary. Those decisions require qualified independent review.",
     "about_close_title": "Finish With a Reviewable Closing File",
     "about_close_body": "A clean file retains the signed deed, legal descriptions, tract schedule, settlement statement, funding record, tax documents, title correspondence, operator notices, payor confirmation, and the final list of interests retained.",
@@ -554,7 +530,7 @@
       ],
       [
         "Record the decision rule",
-        "The owner’s decision rule for a package should state the income need, liquidity deadline, concentration limit, willingness to retain future upside, tax questions, acceptable title holdback, and documents required before signing. That written rule keeps later offer changes from moving the goalposts."
+        "The owner\u2019s decision rule for a package should state the income need, liquidity deadline, concentration limit, willingness to retain future upside, tax questions, acceptable title holdback, and documents required before signing. That written rule keeps later offer changes from moving the goalposts."
       ]
     ],
     "exchange-1031": [
@@ -611,9 +587,27 @@
   "slug_ui": {
     "related_kicker": "Owner guides",
     "related_heading": "Keep reading before you sign",
-    "related_intro": "Keep the tract, paid decimal, check history, decline, inventory, and offer bridge from {item} visible in these connected reviews.",
+    "related_intro": "Keep the tract, paid decimal, check history, decline, and offer bridge in view as you read these connected reviews.",
     "related_action": "See every guide",
     "faq_kicker": "Permian owner file",
     "faq_intro": "These questions identify the record, decimal, production fact, title step, or offer term that still needs a clean answer."
+  },
+  "taxonomy_titles": {
+    "locations": "Permian Counties We Review",
+    "situations": "Owner Situations Before a Sale",
+    "interest-types": "Royalty and Mineral Interest Types",
+    "basins": "Permian Sub-Basins and Plays",
+    "resources": "Royalty Owner Resources",
+    "investing": "How Buyers Price Permian Royalties",
+    "exchange-1031": "1031 Exchange Guides for Mineral Sales"
+  },
+  "taxonomy_intros": {
+    "locations": "Each Permian county carries its own recording office, operators, and development pace. Start with the county that holds your tract and the run sheet follows the record from there.",
+    "situations": "An inheritance, a trust, a divorce, or an unsolicited letter changes who can sign and what has to be proven before a sale. Find the situation closest to yours before you compare offers.",
+    "interest-types": "Mineral, royalty, NPRI, override, and working interests carry different rights and burdens. Name the recorded interest before anyone puts a price on it.",
+    "basins": "Midland and Delaware Basin tracts can differ in product mix, decline, spacing, and deductions. These guides keep the basin read tied to your own wells and paid decimal.",
+    "resources": "Plain references for reading royalty statements, division orders, deeds, and offer terms, so an owner can check the math behind a Permian offer.",
+    "investing": "How a Permian buyer separates today's checks from undrilled inventory, reads decline, and discounts the result, with every assumption left in view.",
+    "exchange-1031": "If sale proceeds may roll into a 1031 exchange, the mineral closing and the exchange deadlines have to line up. These guides cover the royalty side while your advisers handle the tax side."
   }
 }
