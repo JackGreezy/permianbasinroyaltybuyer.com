@@ -59,5 +59,491 @@
   "brand_apple_icon": "/brand/apple-touch-icon.png",
   "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:none!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n/* rr-logo-call-start */\n.rr-mobile-call{--call-bg:#075cb9;--call-fg:#ffffff;--call-radius:6px}\n.rr-mobile-call{display:none!important}\n@media(max-width:760px),(hover:none) and (pointer:coarse){\n body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}\n .rr-mobile-call{display:flex!important;position:fixed!important;inset:auto 18px calc(18px + env(safe-area-inset-bottom,0px)) auto!important;width:56px!important;height:56px!important;min-width:56px!important;align-items:center!important;justify-content:center!important;background:var(--call-bg)!important;color:var(--call-fg)!important;border:2px solid var(--call-fg)!important;border-radius:var(--call-radius,6px)!important;box-shadow:0 3px 12px #0004!important;z-index:900!important;text-decoration:none!important;transform:none!important;opacity:1!important;visibility:visible!important}\n .rr-mobile-call:focus-visible{outline:3px solid var(--call-fg)!important;outline-offset:3px!important}\n .rr-mobile-call-icon{display:block!important;width:24px!important;height:24px!important;background:currentColor!important;mask:url('/brand/phone.svg') center/contain no-repeat;-webkit-mask:url('/brand/phone.svg') center/contain no-repeat}\n body:has(input:focus,textarea:focus) .rr-mobile-call{display:none!important}\n}\n/* rr-logo-call-end */\n",
   "brand_runtime_script": "/brand/visibility.js?v=5d6424499781",
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/martin-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/ector-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/ward-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/winkler-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/loving-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/pecos-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/culberson-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/lea-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/eddy-county": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/atoka-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/balmorhea-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/coahoma-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/coyanosa-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/denver-city-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/eunice-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/forsan-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/garden-city-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/gardendale-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/goldsmith-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/hope-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/iraan-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/jal-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/kermit-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/la-huerta-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/lindsay-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/livingston-wheeler-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/loop-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/loving-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/malaga-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/mccamey-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/mckinney-acres-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/monument-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/nadine-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/north-hobbs-nm": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/pyote-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/sand-springs-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/seagraves-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/sheffield-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/southwest-sandhill-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/thorntonville-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/toyah-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/west-odessa-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/wickett-tx": {
+      "src": "/ours/locations/regional-ackerly-tx.jpg",
+      "alt": "Regional view: Ackerly, Texas",
+      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Texas",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+    },
+    "/locations/midland-tx": {
+      "src": "/ours/locations/sell-mineral-rights-midland-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Midland, TX"
+    },
+    "/locations/midland-county": {
+      "src": "/ours/locations/sell-mineral-rights-midland-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Midland County, TX/NM"
+    },
+    "/locations/glasscock-county": {
+      "src": "/ours/locations/sell-mineral-rights-glasscock-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Glasscock County, TX/NM"
+    },
+    "/locations/howard-county": {
+      "src": "/ours/locations/sell-mineral-rights-howard-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Howard County, TX/NM"
+    },
+    "/locations/big-spring-tx": {
+      "src": "/ours/locations/sell-mineral-rights-big-spring-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Big Spring, TX"
+    },
+    "/locations/odessa-tx": {
+      "src": "/ours/locations/sell-mineral-rights-odessa-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Odessa, TX"
+    },
+    "/locations/andrews-county": {
+      "src": "/ours/locations/sell-mineral-rights-andrews-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Andrews County, TX/NM"
+    },
+    "/locations/andrews-tx": {
+      "src": "/ours/locations/sell-mineral-rights-andrews-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Andrews, TX"
+    },
+    "/locations/reagan-county": {
+      "src": "/ours/locations/sell-mineral-rights-reagan-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Reagan County, TX/NM"
+    },
+    "/locations/upton-county": {
+      "src": "/ours/locations/sell-mineral-rights-upton-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Upton County, TX/NM"
+    },
+    "/locations/reeves-county": {
+      "src": "/ours/locations/sell-mineral-rights-reeves-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Reeves County, TX/NM"
+    },
+    "/locations/hobbs-nm": {
+      "src": "/ours/locations/sell-mineral-rights-hobbs-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hobbs, NM"
+    },
+    "/locations/carlsbad-nm": {
+      "src": "/ours/locations/sell-mineral-rights-carlsbad-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Carlsbad, NM"
+    },
+    "/locations/ackerly-tx": {
+      "src": "/ours/locations/sell-mineral-rights-ackerly-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ackerly, TX"
+    },
+    "/locations/artesia-nm": {
+      "src": "/ours/locations/sell-mineral-rights-artesia-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Artesia, NM"
+    },
+    "/locations/barstow-tx": {
+      "src": "/ours/locations/sell-mineral-rights-barstow-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Barstow, TX"
+    },
+    "/locations/big-lake-tx": {
+      "src": "/ours/locations/sell-mineral-rights-big-lake-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Big Lake, TX"
+    },
+    "/locations/fort-stockton-tx": {
+      "src": "/ours/locations/sell-mineral-rights-fort-stockton-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fort Stockton, TX"
+    },
+    "/locations/gaines-county": {
+      "src": "/ours/locations/sell-mineral-rights-gaines-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Gaines County, TX/NM"
+    },
+    "/locations/grandfalls-tx": {
+      "src": "/ours/locations/sell-mineral-rights-grandfalls-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Grandfalls, TX"
+    },
+    "/locations/happy-valley-nm": {
+      "src": "/ours/locations/sell-mineral-rights-happy-valley-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Happy Valley, NM"
+    },
+    "/locations/imperial-tx": {
+      "src": "/ours/locations/sell-mineral-rights-imperial-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Imperial, TX"
+    },
+    "/locations/loco-hills-nm": {
+      "src": "/ours/locations/sell-mineral-rights-loco-hills-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Loco Hills, NM"
+    },
+    "/locations/lovington-nm": {
+      "src": "/ours/locations/sell-mineral-rights-lovington-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lovington, NM"
+    },
+    "/locations/mentone-tx": {
+      "src": "/ours/locations/sell-mineral-rights-mentone-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mentone, TX"
+    },
+    "/locations/monahans-tx": {
+      "src": "/ours/locations/sell-mineral-rights-monahans-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Monahans, TX"
+    },
+    "/locations/morningside-nm": {
+      "src": "/ours/locations/sell-mineral-rights-morningside-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Morningside, NM"
+    },
+    "/locations/pecos-tx": {
+      "src": "/ours/locations/sell-mineral-rights-pecos-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Pecos, TX"
+    },
+    "/locations/rankin-tx": {
+      "src": "/ours/locations/sell-mineral-rights-rankin-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rankin, TX"
+    },
+    "/locations/seminole-tx": {
+      "src": "/ours/locations/sell-mineral-rights-seminole-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Seminole, TX"
+    },
+    "/locations/stanton-tx": {
+      "src": "/ours/locations/sell-mineral-rights-stanton-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stanton, TX"
+    },
+    "/locations/tatum-nm": {
+      "src": "/ours/locations/sell-mineral-rights-tatum-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Tatum, NM"
+    },
+    "/locations/van-horn-tx": {
+      "src": "/ours/locations/sell-mineral-rights-van-horn-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Van Horn, TX"
+    },
+    "/locations/whites-city-nm": {
+      "src": "/ours/locations/sell-mineral-rights-whites-city-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in Whites City, NM"
+    },
+    "/locations/wink-tx": {
+      "src": "/ours/locations/sell-mineral-rights-wink-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wink, TX"
+    }
+  }
 }
