@@ -11,22 +11,52 @@
   "city": "Midland",
   "state": "Texas",
   "region": "Midland, Texas, the Midland Basin, the Delaware Basin, and mineral-producing regions nationwide",
-  "phone": "432-555-1032",
+  "phone": "432-529-4034",
   "email": "royalties@permianbasinroyaltybuyer.com",
   "address": "24 Smith Rd, Midland, TX 79705",
   "vertical": "mineral-rights",
   "suppress_footer_media": true,
-  "brand_favicon": "/favicon.svg",
+  "brand_favicon": "/favicon.ico",
   "hero_image": "/ours/pages/mineral-rights-pages-home-permianbasinroyaltybuyer-com.jpg",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/permianbasinroyaltybuyer.com/site-voice.json",
   "nav": [
-    ["Selling Situations", "/situations"],
-    ["Interest Types", "/interest-types"],
-    ["Permian Basins", "/basins"],
-    ["Owner Resources", "/resources"],
-    ["Service Areas", "/locations"],
-    ["About", "/about"]
+    [
+      "Selling Situations",
+      "/situations"
+    ],
+    [
+      "Interest Types",
+      "/interest-types"
+    ],
+    [
+      "Permian Basins",
+      "/basins"
+    ],
+    [
+      "Owner Resources",
+      "/resources"
+    ],
+    [
+      "Service Areas",
+      "/locations"
+    ],
+    [
+      "About",
+      "/about"
+    ]
   ],
-  "cta": ["Request a Royalty Review", "/contact"],
-  "brand_repair_css": "header.header{display:block!important;position:sticky!important;top:0!important;z-index:1000!important;background:#fff!important}header.header .cmp-header{display:flex!important;align-items:center!important;height:80px!important}header.header .cmp-header__navbar{display:flex!important;align-items:center!important;flex:0 0 auto!important;min-height:72px!important;padding:0!important;background:#fff!important}header.header .cmp-header__logo{display:flex!important;align-items:center!important;min-width:220px!important;width:auto!important;margin:0!important}header.header .rr-wordmark{display:block!important;color:#111!important;text-decoration:none!important;line-height:1!important}header.header .rr-wm-1,header.header .rr-wm-2{display:block!important;white-space:nowrap!important}header.header .rr-wm-1{font-size:17px!important;letter-spacing:.08em!important}header.header .rr-wm-2{font-size:12px!important;color:#047b7c!important;letter-spacing:.18em!important;margin-top:5px!important}header.header .cmp-header__nav-search{display:flex!important;align-items:center!important;flex:1 1 0!important;min-width:0!important;width:auto!important;margin-left:20px!important}header.header .cmp-main-navigation{flex:1 1 auto!important;min-width:0!important;width:100%!important}header.header .cmp-main-navigation__group{display:flex!important;align-items:center!important;justify-content:flex-end!important;gap:clamp(10px,1.25vw,20px)!important;margin:0!important;padding:0!important;list-style:none!important}header.header .cmp-main-navigation__group>.cmp-main-navigation__item{display:block!important;padding-left:0!important;padding-right:0!important}header.header .cmp-main-navigation__group>.cmp-main-navigation__item>.cmp-main-navigation__item-link{color:#151515!important;text-decoration:none!important;white-space:nowrap!important;padding-left:0!important;padding-right:0!important}header.header .cmp-main-navigation__group>.cmp-main-navigation__item--dropdown>.cmp-main-navigation__item-link{padding-right:20px!important}header.header .rr-burger{display:none!important;color:#151515!important}.rr-map-band iframe,[data-rr-map-band] iframe{display:block!important;width:100%!important;min-height:520px!important;border:0!important}footer.footer,footer.footer *{background-image:none!important}footer.footer img,footer.footer picture,footer.footer svg,footer.footer video,footer.footer canvas,footer.footer iframe,footer.footer source{display:none!important}@media(max-width:980px){header.header .cmp-header{height:74px!important}header.header .cmp-header__navbar{flex:1 1 auto!important;min-height:74px!important;padding:0 2px!important}header.header .cmp-header__logo{min-width:0!important}header.header .cmp-header__nav-search{display:none!important}header.header .rr-burger{display:flex!important;margin-left:auto!important}header.header .rr-wm-1{font-size:14px!important}header.header .rr-wm-2{font-size:10px!important}}"
+  "cta": [
+    "Request a Royalty Review",
+    "/contact"
+  ],
+  "brand_repair_css": "header.header{display:block!important;position:sticky!important;top:0!important;z-index:1000!important;background:#fff!important}header.header .cmp-header{display:flex!important;align-items:center!important;height:80px!important}header.header .cmp-header__navbar{display:flex!important;align-items:center!important;flex:0 0 auto!important;min-height:72px!important;padding:0!important;background:#fff!important}header.header .cmp-header__logo{display:flex!important;align-items:center!important;min-width:220px!important;width:auto!important;margin:0!important}header.header .rr-wordmark{display:block!important;color:#111!important;text-decoration:none!important;line-height:1!important}header.header .rr-wm-1,header.header .rr-wm-2{display:block!important;white-space:nowrap!important}header.header .rr-wm-1{font-size:17px!important;letter-spacing:.08em!important}header.header .rr-wm-2{font-size:12px!important;color:#047b7c!important;letter-spacing:.18em!important;margin-top:5px!important}header.header .cmp-header__nav-search{display:flex!important;align-items:center!important;flex:1 1 0!important;min-width:0!important;width:auto!important;margin-left:20px!important}header.header .cmp-main-navigation{flex:1 1 auto!important;min-width:0!important;width:100%!important}header.header .cmp-main-navigation__group{display:flex!important;align-items:center!important;justify-content:flex-end!important;gap:clamp(10px,1.25vw,20px)!important;margin:0!important;padding:0!important;list-style:none!important}header.header .cmp-main-navigation__group>.cmp-main-navigation__item{display:block!important;padding-left:0!important;padding-right:0!important}header.header .cmp-main-navigation__group>.cmp-main-navigation__item>.cmp-main-navigation__item-link{color:#151515!important;text-decoration:none!important;white-space:nowrap!important;padding-left:0!important;padding-right:0!important}header.header .cmp-main-navigation__group>.cmp-main-navigation__item--dropdown>.cmp-main-navigation__item-link{padding-right:20px!important}header.header .rr-burger{display:none!important;color:#151515!important}.rr-map-band iframe,[data-rr-map-band] iframe{display:block!important;width:100%!important;min-height:520px!important;border:0!important}footer.footer,footer.footer *{background-image:none!important}footer.footer img,footer.footer picture,footer.footer svg,footer.footer video,footer.footer canvas,footer.footer iframe,footer.footer source{display:none!important}@media(max-width:980px){header.header .cmp-header{height:74px!important}header.header .cmp-header__navbar{flex:1 1 auto!important;min-height:74px!important;padding:0 2px!important}header.header .cmp-header__logo{min-width:0!important}header.header .cmp-header__nav-search{display:none!important}header.header .rr-burger{display:flex!important;margin-left:auto!important}header.header .rr-wm-1{font-size:14px!important}header.header .rr-wm-2{font-size:10px!important}}",
+  "logo_url": "/brand/logo.png",
+  "favicon": "/brand/favicon-32.png",
+  "brand_logo": "/brand/logo.png",
+  "brand_logo_header": "/brand/logo.png",
+  "brand_logo_footer": "",
+  "brand_favicon_png": "/brand/favicon-32.png",
+  "brand_apple_icon": "/brand/apple-touch-icon.png",
+  "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:none!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n/* rr-logo-call-start */\n.rr-mobile-call{--call-bg:#075cb9;--call-fg:#ffffff;--call-radius:6px}\n.rr-mobile-call{display:none!important}\n@media(max-width:760px){\n body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}\n .rr-mobile-call{display:flex!important;position:fixed!important;inset:auto 18px calc(18px + env(safe-area-inset-bottom,0px)) auto!important;width:56px!important;height:56px!important;min-width:56px!important;align-items:center!important;justify-content:center!important;background:var(--call-bg)!important;color:var(--call-fg)!important;border:2px solid var(--call-fg)!important;border-radius:var(--call-radius,6px)!important;box-shadow:0 3px 12px #0004!important;z-index:900!important;text-decoration:none!important;transform:none!important;opacity:1!important;visibility:visible!important}\n .rr-mobile-call:focus-visible{outline:3px solid var(--call-fg)!important;outline-offset:3px!important}\n .rr-mobile-call-icon{display:block!important;width:24px!important;height:24px!important;background:currentColor!important;mask:url('/brand/phone.svg') center/contain no-repeat;-webkit-mask:url('/brand/phone.svg') center/contain no-repeat}\n body:has(input:focus,textarea:focus) .rr-mobile-call{display:none!important}\n}\n/* rr-logo-call-end */\n",
+  "brand_runtime_script": "/brand/visibility.js"
 }
