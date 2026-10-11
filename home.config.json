@@ -62,348 +62,434 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/martin-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/ector-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/ward-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/winkler-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/loving-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/pecos-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/culberson-county": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/lea-county": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/eddy-county": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/atoka-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/balmorhea-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/coahoma-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/coyanosa-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/denver-city-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/eunice-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/forsan-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/garden-city-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/gardendale-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/goldsmith-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/hope-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/iraan-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/jal-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/kermit-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/la-huerta-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/lindsay-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/livingston-wheeler-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/loop-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/loving-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/malaga-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/mccamey-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/mckinney-acres-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/monument-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/nadine-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/north-hobbs-nm": {
-      "src": "/ours/locations/regional-algodones-nm.jpg",
-      "alt": "Regional view: Algodones, New Mexico",
-      "credit": "Algodones, New Mexico. Regional New Mexico photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg\" rel=\"noopener\">John Phelan / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"noopener\">CC BY 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-aztec-nm.jpg",
+      "alt": "View of Aztec, New Mexico",
       "regional": true,
       "region": "New Mexico",
-      "source": "https://commons.wikimedia.org/wiki/File%3AEl_Camino_Real%2C_Algodones_New_Mexico.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Public_Library_New_Mexico.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional New Mexico view: Aztec, New Mexico."
     },
     "/locations/pyote-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/sand-springs-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/seagraves-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/sheffield-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/southwest-sandhill-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/thorntonville-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/toyah-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/west-odessa-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/wickett-tx": {
-      "src": "/ours/locations/regional-ackerly-tx.jpg",
-      "alt": "Regional view: Ackerly, Texas",
-      "credit": "Ackerly, Texas. Regional Texas photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg\" rel=\"noopener\">Larry D. Moore / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"noopener\">CC BY 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-hackberry-tx.jpg",
+      "alt": "View of Hackberry, Texas",
       "regional": true,
       "region": "Texas",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAckerly_Texas_City_Hall.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Hackberry,_Texas_City_Hall.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Texas view: Hackberry, Texas."
     },
     "/locations/midland-tx": {
       "src": "/ours/locations/sell-mineral-rights-midland-tx.jpg",
